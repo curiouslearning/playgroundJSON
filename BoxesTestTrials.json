@@ -1,0 +1,224 @@
+{
+  "letter-name":[
+  {"1" : [{
+    "thinkImage": "Letter_A",
+    "boxAudioFiles": ["c_name.wav","a_name.wav","j_name.wav","m_name.wav"],
+    "speakAudio":  true,
+    "correct": "a_name"
+  },
+  {
+    "thinkImage": "Letter_B",
+    "boxAudioFiles": ["b_name.wav","t_name.wav","k_name.wav","g_name.wav"],
+    "speakAudio":  false,
+    "correct": "b_name"
+  }]},
+  {"2":[{
+    "thinkImage": "Letter_C",
+    "boxAudioFiles": ["u_name.wav","x_name.wav","s_name.wav","c_name.wav"],
+    "speakAudio":  false,
+    "correct": "c_name"
+  },
+  {
+    "thinkImage": "Letter_D",
+    "boxAudioFiles": ["r_name.wav","a_name.wav","d_name.wav","h_name.wav"],
+    "speakAudio":  false,
+    "correct": "d_name"
+  }]},
+  {"3":[{
+    "thinkImage": "Letter_H",
+    "boxAudioFiles": ["h_name.wav","l_name.wav","m_name.wav","s_name.wav"],
+    "speakAudio": false,
+    "correct": "h_name"
+  },
+  {
+    "thinkImage": "Letter_I",
+    "boxAudioFiles": ["a_name.wav","u_name.wav","i_name.wav","f_name.wav"],
+    "speakAudio": false,
+    "correct": "i_name"
+  }]},
+  {"4":[{
+    "thinkImage": "Letter_M",
+    "boxAudioFiles": ["f_name.wav","m_name.wav","s_name.wav","t_name.wav"],
+    "speakAudio": false,
+    "correct": "m_name"
+  },
+  {
+    "thinkImage": "Letter_N",
+    "boxAudioFiles": ["s_name.wav","d_name.wav","n_name.wav","p_name.wav"],
+    "speakAudio": false,
+    "correct": "n_name"
+  }]},
+  {"5":[{
+    "thinkImage": "Letter_R",
+    "boxAudioFiles": ["a_name.wav","r_name.wav","k_name.wav","t_name.wav"],
+    "speakAudio": false,
+    "correct": "r_name"
+  },
+  {
+    "thinkImage": "Letter_S",
+    "boxAudioFiles": ["g_name.wav","s_name.wav","h_name.wav","l_name.wav"],
+    "speakAudio": false,
+    "correct": "s_name"
+  }]}
+],
+  "letter-sound":[
+  {"1" : [{
+    "thinkImage": "Letter_A",
+    "boxAudioFiles": ["c_sound.wav","a_sound.wav","j_sound.wav","m_sound.wav"],
+    "speakAudio":  true,
+    "correct": "a_sound"
+  },
+  {
+    "thinkImage": "Letter_B",
+    "boxAudioFiles": ["b_sound.wav","t_sound.wav","k_sound.wav","g_sound.wav"],
+    "speakAudio":  false,
+    "correct": "b_sound"
+  }]},
+  {"2":[{
+    "thinkImage": "Letter_C",
+    "boxAudioFiles": ["u_sound.wav","x_sound.wav","s_sound.wav","c_sound.wav"],
+    "speakAudio":  false,
+    "correct": "c_sound"
+  },
+  {
+    "thinkImage": "Letter_D",
+    "boxAudioFiles": ["r_sound.wav","a_sound.wav","d_sound.wav","h_sound.wav"],
+    "speakAudio":  false,
+    "correct": "d_sound"
+  }]},
+  {"3":[{
+    "thinkImage": "Letter_H",
+    "boxAudioFiles": ["h_sound.wav","l_sound.wav","m_sound.wav","s_sound.wav"],
+    "speakAudio": false,
+    "correct": "h_sound"
+  },
+  {
+    "thinkImage": "Letter_I",
+    "boxAudioFiles": ["a_sound.wav","u_sound.wav","i_sound.wav","f_sound.wav"],
+    "speakAudio": false,
+    "correct": "i_sound"
+  }]},
+  {"4":[{
+    "thinkImage": "Letter_M",
+    "boxAudioFiles": ["f_sound.wav","m_sound.wav","s_sound.wav","t_sound.wav"],
+    "speakAudio": false,
+    "correct": "m_sound"
+  },
+  {
+    "thinkImage": "Letter_N",
+    "boxAudioFiles": ["s_sound.wav","d_sound.wav","n_sound.wav","p_sound.wav"],
+    "speakAudio": false,
+    "correct": "n_sound"
+  }]},
+  {"5":[{
+    "thinkImage": "Letter_R",
+    "boxAudioFiles": ["a_sound.wav","r_sound.wav","k_sound.wav","t_sound.wav"],
+    "speakAudio": false,
+    "correct": "r_sound"
+  },
+  {
+    "thinkImage": "Letter_S",
+    "boxAudioFiles": ["g_sound.wav","s_sound.wav","h_sound.wav","l_sound.wav"],
+    "speakAudio": false,
+    "correct": "s_sound"
+  }]}
+],
+"sight-words":[
+  {"1":[{
+		"activeCells": ["true", "true", "true", "true"],
+		"numCOlumns": "2",
+		"animationKeys": ["GOING", "SAY", "SOME", "ONLY"],
+		"audioFile": "going_sound.wav",
+		"numRows": "2",
+		"correct": "GOING"
+	},
+	{
+		"activeCells": ["true", "true", "true", "true"],
+		"numCOlumns": "2",
+		"animationKeys": ["ABOUT", "SEE", "MAKE", "RIGHT"],
+		"audioFile": "about_sound.wav",
+		"numRows": "2",
+		"correct": "ABOUT"
+	}]},
+	{"2":[{
+		"activeCells": ["true", "true", "true", "true"],
+		"numCOlumns": "2",
+		"animationKeys": ["TIME", "WHY", "OUR", "IF"],
+		"audioFile": "time_sound.wav",
+		"numRows": "2",
+		"correct": "TIME"
+	},
+	{
+		"activeCells": ["true", "true", "true", "true"],
+		"numCOlumns": "2",
+		"animationKeys": ["LOVE", "WHO", "ALL", "BY"],
+		"audioFile": "love_sound.wav",
+		"numRows": "2",
+		"correct": "LOVE"
+	}]},
+	{"3":[{
+		"activeCells": ["true", "true", "true", "true"],
+		"numCOlumns": "2",
+		"animationKeys": ["IN", "ONLY", "GOING", "THEM"],
+		"audioFile": "in_sound.wav",
+		"numRows": "2",
+		"correct": "IN"
+	},
+	{
+		"activeCells": ["true", "true", "true", "true"],
+		"numCOlumns": "2",
+		"animationKeys": ["DO", "RIGHT", "ABOUT", "DOWN"],
+		"audioFile": "do_sound.wav",
+		"numRows": "2",
+		"correct": "DO"
+	}]},
+	{"4":[{
+		"activeCells": ["true", "true", "true", "true"],
+		"numCOlumns": "2",
+		"animationKeys": ["ONE", "BY", "LOVE", "ALL"],
+		"audioFile": "one_sound.wav",
+		"numRows": "2",
+		"correct": "ONE"
+	},
+	{
+		"activeCells": ["true", "true", "true", "true"],
+		"numCOlumns": "2",
+		"animationKeys": ["OUT", "BE", "BACK", "OUR"],
+		"audioFile": "out_sound.wav",
+		"numRows": "2",
+		"correct": "OUT"
+	}]},
+	{"5":[{
+		"activeCells": ["true", "true", "true", "true"],
+		"numCOlumns": "2",
+		"animationKeys": ["FOR", "KNOW", "VERY", "NEVER"],
+		"audioFile": "for_sound.wav",
+		"numRows": "2",
+		"correct": "FOR"
+	},
+	{
+		"activeCells": ["true", "true", "true", "true"],
+		"numCOlumns": "2",
+		"animationKeys": ["LITTLE", "FROM", "WHEN", "NEED"],
+		"audioFile": "little_sound.wav",
+		"numRows": "2",
+		"correct": "LITTLE"
+	}]},
+	{"6":[{
+		"activeCells": ["true", "true", "true", "true"],
+		"numCOlumns": "2",
+		"animationKeys": ["MAN", "BACK", "WHY", "DOING"],
+		"audioFile": "man_sound.wav",
+		"numRows": "2",
+		"correct": "MAN"
+	},
+	{
+		"activeCells": ["true", "true", "true", "true"],
+		"numCOlumns": "2",
+		"animationKeys": ["OUT", "SO", "OFF", "THEM"],
+		"audioFile": "out_sound.wav",
+		"numRows": "2",
+		"correct": "OUT"
+	}]}
+]
+}

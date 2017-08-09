@@ -1,0 +1,127 @@
+[
+	{
+    "frogColor": "blue",
+    "frogSide": "right",
+    "rotation": "0deg",
+    "rightBug": "blue",
+    "leftBug": "green",
+		"rightSpotlight": false,
+		"leftSpotlight": false
+	},
+  {
+    "frogColor": "blue",
+    "frogSide": "right",
+    "rotation": "0deg",
+    "rightBug": "blue",
+    "leftBug": "green",
+		"rightSpotlight": false,
+		"leftSpotlight": false
+	},
+  {
+    "frogColor": "blue",
+    "frogSide": "right",
+    "rotation": "0deg",
+    "rightBug": "blue",
+    "leftBug": "green",
+		"rightSpotlight": false,
+		"leftSpotlight": false
+	},
+
+
+
+  {
+    "frogColor": "blue",
+    "frogSide": "left",
+    "rotation": "180deg",
+    "rightBug": "green",
+    "leftBug": "blue",
+		"rightSpotlight": false,
+		"leftSpotlight": false
+	},
+  {
+    "frogColor": "green",
+    "frogSide": "left",
+    "rotation": "180deg",
+    "rightBug": "blue",
+    "leftBug": "green",
+		"rightSpotlight": false,
+		"leftSpotlight": false
+	},
+
+
+
+
+  {
+    "frogColor": "green",
+    "frogSide": "right",
+    "rotation": "0deg",
+    "rightBug": "green",
+    "leftBug": "blue",
+		"rightSpotlight": true,
+		"leftSpotlight": false
+	},
+
+  {
+    "frogColor": "blue",
+    "frogSide": "left",
+    "rotation": "180deg",
+    "rightBug": "green",
+    "leftBug": "blue",
+		"rightSpotlight": false,
+		"leftSpotlight": true
+	},
+  {
+    "frogColor": "blue",
+    "frogSide": "left",
+    "rotation": "180deg",
+    "rightBug": "green",
+    "leftBug": "blue",
+		"rightSpotlight": true,
+		"leftSpotlight": false
+	},
+  {
+    "frogColor": "green",
+    "frogSide": "right",
+    "rotation": "0deg",
+    "rightBug": "green",
+    "leftBug": "blue",
+		"rightSpotlight": false,
+		"leftSpotlight": true
+	},
+  {
+    "frogColor": "green",
+    "frogSide": "left",
+    "rotation": "180deg",
+    "rightBug": "blue",
+    "leftBug": "green",
+		"rightSpotlight": true,
+		"leftSpotlight": false
+	},
+  {
+    "frogColor": "green",
+    "frogSide": "left",
+    "rotation": "180deg",
+    "rightBug": "blue",
+    "leftBug": "green",
+		"rightSpotlight": false,
+		"leftSpotlight": true
+	},
+  {
+    "frogColor": "blue",
+    "frogSide": "right",
+    "rotation": "0deg",
+    "rightBug": "blue",
+    "leftBug": "green",
+		"rightSpotlight": false,
+		"leftSpotlight": true
+	},
+  {
+    "frogColor": "blue",
+    "frogSide": "right",
+    "rotation": "0deg",
+    "rightBug": "blue",
+    "leftBug": "green",
+		"rightSpotlight": true,
+		"leftSpotlight": false
+	}
+]
