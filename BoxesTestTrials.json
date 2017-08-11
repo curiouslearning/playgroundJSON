@@ -226,33 +226,33 @@
  		"activeCells": ["true", "true", "true", "true"],
  		"numCOlumns": "2",
  		"animationKeys": ["yell_sound.wav", "yellowed_sound.wav", "yelled_sound.wav", "yellow_sound.wav"],
- 		"correct": "yell_ow_sound.wav",
+ 		"audioFile": "yell_ow_sound.wav",
  		"numRows": "2",
-    "image":
- 	},
+    "correct":"yellow_sound.wav"
+  },
  	{
  		"activeCells": ["true", "true", "true", "true"],
  		"numCOlumns": "2",
  		"animationKeys": ["paste_sound.wav", "toothbrush_sound.wav", "tooth_sound.wav", "toothpaste_sound.wav"],
- 		"correct": "tooth_paste_sound.wav",
+ 		"audioFile": "tooth_paste_sound.wav",
  		"numRows": "2",
-    "image":
+    "correct": "toothpaste_sound.wav"
  	}]},
 {"2":[{
  		"activeCells": ["true", "true", "true", "true"],
  		"numCOlumns": "2",
  		"animationKeys": ["no_sound.wav", "back_sound.wav", "doing_sound.wav", "be_sound.wav"],
- 		"correct": "do_ing_sound.wav",
+ 		"audioFile": "do_ing_sound.wav",
  		"numRows": "2",
-    "image":
+    "correct":"doing_sound.wav"
  	},
  	{
  		"activeCells": ["true", "true", "true", "true"],
  		"numCOlumns": "2",
  		"animationKeys": ["cream_sound.wav", "icy_sound.wav", "icecream_sound.wav", "ice_sound.wav"],
- 		"correct": "ice_cream_sound.wav",
+ 		"audioFile": "ice_cream_sound.wav",
  		"numRows": "2",
-    "image":
+    "correct": "icecream_sound.wav"
  	}]}
 ]
 }
