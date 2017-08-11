@@ -127,98 +127,116 @@
   {"1":[{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["GOING", "SAY", "SOME", "ONLY"],
-		"audioFile": "going_sound.wav",
+		"animationKeys": ["going_sound.wav", "say_sound.wav", "some_sound.wav", "way_sound.wav"],
+		"correct": "going_sound.wav",
 		"numRows": "2",
-		"correct": "GOING"
+    "speakAudio": true
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["ABOUT", "SEE", "MAKE", "RIGHT"],
-		"audioFile": "about_sound.wav",
+		"animationKeys": ["about_sound.wav", "see_sound.wav", "make_sound.wav", "right_sound.wav"],
+		"correct": "about_sound.wav",
 		"numRows": "2",
-		"correct": "ABOUT"
+    "speakAudio": true
 	}]},
 	{"2":[{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["TIME", "WHY", "OUR", "IF"],
-		"audioFile": "time_sound.wav",
+		"animationKeys": ["time_sound.wav", "why_sound.wav", "out_sound.wav", "if_sound.wav"],
+		"correct": "time_sound.wav",
 		"numRows": "2",
-		"correct": "TIME"
+    "speakAudio": true
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["LOVE", "WHO", "ALL", "BY"],
-		"audioFile": "love_sound.wav",
+		"animationKeys": ["love_sound.wav", "who_sound.wav", "all_sound.wav", "by_sound.wav"],
+		"correct": "love_sound.wav",
 		"numRows": "2",
-		"correct": "LOVE"
+    "speakAudio": true
 	}]},
 	{"3":[{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["IN", "ONLY", "GOING", "THEM"],
-		"audioFile": "in_sound.wav",
+		"animationKeys": ["in_sound.wav", "only_sound.wav", "going_sound.wav", "them_sound.wav"],
+		"correct": "in_sound.wav",
 		"numRows": "2",
-		"correct": "IN"
+    "speakAudio": true
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["DO", "RIGHT", "ABOUT", "DOWN"],
-		"audioFile": "do_sound.wav",
+		"animationKeys": ["do_sound.wav", "right_sound.wav", "about_sound.wav", "down_sound.wav"],
+		"correct": "do_sound.wav",
 		"numRows": "2",
-		"correct": "DO"
+    "speakAudio": true
 	}]},
 	{"4":[{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["ONE", "BY", "LOVE", "ALL"],
-		"audioFile": "one_sound.wav",
+		"animationKeys": ["one_sound.wav", "by_sound.wav", "love_sound.wav", "all_sound.wav"],
+		"correct": "one_sound.wav",
 		"numRows": "2",
-		"correct": "ONE"
+    "speakAudio": true
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["OUT", "BE", "BACK", "OUR"],
-		"audioFile": "out_sound.wav",
+		"animationKeys": ["out_sound.wav", "be_sound.wav", "back_sound.wav", "our_sound.wav"],
+		"correct": "out_sound.wav",
 		"numRows": "2",
-		"correct": "OUT"
+    "speakAudio": true
 	}]},
 	{"5":[{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["FOR", "KNOW", "VERY", "NEVER"],
-		"audioFile": "for_sound.wav",
+		"animationKeys": ["for_sound.wav", "know_sound.wav", "very_sound.wav", "never_sound.wav"],
+		"correct": "for_sound.wav",
 		"numRows": "2",
-		"correct": "FOR"
+    "speakAudio": true
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["LITTLE", "FROM", "WHEN", "NEED"],
-		"audioFile": "little_sound.wav",
+		"animationKeys": ["little_sound.wav", "from_sound.wav", "when_sound.wav", "need_sound.wav"],
+		"correct": "little_sound.wav",
 		"numRows": "2",
-		"correct": "LITTLE"
+    "speakAudio": true
 	}]},
 	{"6":[{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["MAN", "BACK", "WHY", "DOING"],
-		"audioFile": "man_sound.wav",
+		"animationKeys": ["man_sound.wav", "back_sound.wav", "why_sound.wav", "doing_sound.wav"],
+		"correct": "man_sound.wav",
 		"numRows": "2",
-		"correct": "MAN"
+    "speakAudio": true
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["OUT", "SO", "OFF", "THEM"],
-		"audioFile": "out_sound.wav",
+		"animationKeys": ["bathroom_sound.wav", "bath_sound.wav", "bedroom_sound.wav", "room_sound.wav"],
+		"correct": "bathroom_sound.wav",
 		"numRows": "2",
-		"correct": "OUT"
+    "speakAudio": true
 	}]}
+],
+"blending-words":[
+  {"1":[{
+ 		"activeCells": ["true", "true", "true", "true"],
+ 		"numCOlumns": "2",
+ 		"animationKeys": ["man_sound.wav", "back_sound.wav", "why_sound.wav", "doing_sound.wav"],
+ 		"correct": "man_sound.wav",
+ 		"numRows": "2",
+    "speakAudio": true
+ 	},
+ 	{
+ 		"activeCells": ["true", "true", "true", "true"],
+ 		"numCOlumns": "2",
+ 		"animationKeys": ["out_sound.wav", "so_sound.wav", "off_sound.wav", "them_sound.wav"],
+ 		"correct": "out_sound.wav",
+ 		"numRows": "2",
+    "speakAudio": true
+ 	}]}
 ]
 }
