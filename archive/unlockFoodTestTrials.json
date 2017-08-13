@@ -1,19 +1,23 @@
 {
-	"visuospatial forward": [
-		{"1":[{
-			"gameBoardTilesForTrial": {
-				"activeTiles": [true, true, true, true, true, true, true, true, true],
-				"frameKeys": ["IDLE", "IDLE", "IDLE", "IDLE", "IDLE", "IDLE", "IDLE", "IDLE", "IDLE"]
-			},
-			"tileBlinkSequence": [7, 3]
+	"visuospatial_forward": [
+		{"1":
+			[
+				{
+					"gameBoardTilesForTrial": {
+						"activeTiles": [true, true, true, true, true, true, true, true, true],
+						"frameKeys": ["IDLE", "IDLE", "IDLE", "IDLE", "IDLE", "IDLE", "IDLE", "IDLE", "IDLE"]
+					},
+					"tileBlinkSequence": [7, 3]
+				},
+				{
+					"gameBoardTilesForTrial": {
+						"activeTiles": [true, true, true, true, true, true, true, true, true],
+						"frameKeys": ["IDLE", "IDLE", "IDLE", "IDLE", "IDLE", "IDLE", "IDLE", "IDLE", "IDLE"]
+					},
+					"tileBlinkSequence": [2, 0]
+				}
+			]
 		},
-		{
-			"gameBoardTilesForTrial": {
-				"activeTiles": [true, true, true, true, true, true, true, true, true],
-				"frameKeys": ["IDLE", "IDLE", "IDLE", "IDLE", "IDLE", "IDLE", "IDLE", "IDLE", "IDLE"]
-			},
-			"tileBlinkSequence": [2, 0]
-		}]},
 		{"2":[{
 			"gameBoardTilesForTrial": {
 				"activeTiles": [true, true, true, true, true, true, true, true, true],
@@ -155,7 +159,8 @@
 			"tileBlinkSequence": [3, 4, 2, 6, 6, 5, 6, 5, 8, 6, 0, 5]
 		}]}
 	],
-	"visuospatial-reverse": [
+	
+	"visuospatial_reverse": [
 		{"1":[{
 			"gameBoardTilesForTrial": {
 				"activeTiles": [true, true, true, true, true, true, true, true, true],
@@ -304,7 +309,8 @@
 			"tileBlinkSequence": [7, 1, 7, 8, 5, 1, 8, 0, 6, 4, 6, 1]
 		}]}
 	],
-	"audio-forward": [
+	
+	"audio_forward": [
 		{"1":[{
 			"gameBoardTilesForTrial": {
 				"activeTiles": [false, true, false, false, true, false, false, true, false],
@@ -460,7 +466,8 @@
 			"tileBlinkSequence": [4, 4, 7, 4, 7, 1, 7, 4, 1, 1, 4, 1]
 		}]}
 	],
-	"audio-reverse": [
+	
+	"audio_reverse": [
 		{"1":[{
 			"gameBoardTilesForTrial": {
 				"activeTiles": [false, true, false, false, true, false, false, true, false],

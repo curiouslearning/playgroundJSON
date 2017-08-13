@@ -1,5 +1,5 @@
 {
-  "letter-name":[
+  "letter_name":[
   {"1" : [{
     "thinkImage": "Letter_A",
     "boxAudioFiles": ["c_name.wav","a_name.wav","j_name.wav","m_name.wav"],

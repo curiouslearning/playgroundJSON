@@ -1,0 +1,26 @@
+{
+  "name": "playground-json",
+  "version": "1.0.0",
+  "description": "a repo for the Assessment Trials used in the Cognitive Playground app",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/curiouslearning/playgroundJSON.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/curiouslearning/playgroundJSON/issues"
+  },
+  "homepage": "https://github.com/curiouslearning/playgroundJSON#readme"
+}
