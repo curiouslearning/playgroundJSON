@@ -1,9 +1,8 @@
 {
-	"receptive_vocab":[
-	{"1":[{
+	"receptive-vocabulary":[{"1":[{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["SOAP", "ORANGE", "COOKIE", "DIAPER"],
+		"animationKeys": ["SOAP", "DIAPER", "COOKIE", "ORANGE"],
 		"audioFile": "soap_sound.wav",
 		"numRows": "2",
 		"correct": "SOAP"
@@ -11,144 +10,165 @@
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["PANTS", "COOKIE", "DIAPER", "CRAYON"],
+		"animationKeys": ["COOKIE", "DIAPER", "PANTS", "CRAYON"],
 		"audioFile": "pants_sound.wav",
 		"numRows": "2",
 		"correct": "PANTS"
+	},
+	{
+		"activeCells": ["true", "true", "true", "true"],
+		"numCOlumns": "2",
+		"animationKeys": ["SOAP", "CRAYON", "ORANGE", "DIAPER"],
+		"audioFile": "diaper_sound.wav",
+		"numRows": "2",
+		"correct": "DIAPER"
 	}]},
 	{"2":[{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["APPLE", "WATERMELON", "SCISSORS", "CHALK"],
-		"audioFile": "apple_sound.wav",
+		"animationKeys": ["BOOT", "BOOK", "PLANT", "PEAR"],
+		"audioFile": "boot_sound.wav",
 		"numRows": "2",
-		"correct": "APPLE"
+		"correct": "BOOT"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["CLOCK", "KNIFE", "BOWL", "TOOTHBRUSH"],
-		"audioFile": "clock_sound.wav",
+		"animationKeys": ["FORK", "KEY", "SHIRT", "CANDY"],
+		"audioFile": "key_sound.wav",
 		"numRows": "2",
-		"correct": "CLOCK"
-	}]},
-	{"3":[{
-		"activeCells": ["true", "true", "true", "true"],
-		"numCOlumns": "2",
-		"animationKeys": ["RADISH", "ROPE", "SANDAL", "CANDLE"],
-		"audioFile": "radish_sound.wav",
-		"numRows": "2",
-		"correct": "RADISH"
+		"correct": "KEY"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["LIPSTICK", "SANDAL", "BROOM", "TOILETPAPER"],
-		"audioFile": "lipstick_sound.wav",
+		"animationKeys": ["PLATE", "KEY", "PEAR", "PLANT"],
+		"audioFile": "plate_sound.wav",
 		"numRows": "2",
-		"correct": "LIPSTICK"
-	}]},
-	{"4":[{
-		"activeCells": ["true", "true", "true", "true"],
-		"numCOlumns": "2",
-		"animationKeys": ["COCONUT", "CIGARETTE", "DICE", "PINEAPPLE"],
-		"audioFile": "coconut_sound.wav",
-		"numRows": "2",
-		"correct": "COCONUT"
+		"correct": "PLATE"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["DUSTPAN", "PINEAPPLE", "CAULIFLOWER", "ONION"],
-		"audioFile": "dustpan_sound.wav",
+		"animationKeys": ["GRAPE", "DOLL", "LAMP", "BANANA"],
+		"audioFile": "lamp_sound.wav",
 		"numRows": "2",
-		"correct": "DUSTPAN"
+		"correct": "LAMP"
+	},
+	{
+		"activeCells": ["true", "true", "true", "true"],
+		"numCOlumns": "2",
+		"animationKeys": ["BOOT", "PLATE", "DOLL", "RICE"],
+		"audioFile": "rice_sound.wav",
+		"numRows": "2",
+		"correct": "RICE"
+	},
+	{
+		"activeCells": ["true", "true", "true", "true"],
+		"numCOlumns": "2",
+		"animationKeys": ["LAMP", "RICE", "BANANA", "BOOK"],
+		"audioFile": "book_sound.wav",
+		"numRows": "2",
+		"correct": "BOOK"
 	}]}
 ],
 
-"pseudoword_matching":[ 
-	{"1":
-		[
-			{ "activeCells": ["true", "true", "true", "true"], 
-				"numCOlumns": "2", 
-				"animationKeys": ["BOR", "BUR", "POR", "BIR"], 
-				"audioFile": "bor_sound.wav", 
-				"numRows": "2", 
-				"correct": "BOR" 
-			}, 
-			{ 
-				"activeCells": ["true", "true", "true", "true"], 
-				"numCOlumns": "2", 
-				"animationKeys": ["HIX", "GIX", "HAX", "HOX"], 
-				"audioFile": "hix_sound.wav", 
-				"numRows": "2", 
-				"correct": "HIX" 
-			}, 
-			{ 
-				"activeCells": ["true", "true", "true", "true"], 
-				"numCOlumns": "2", 
-				"animationKeys": ["NOY", "MEY", "MUY", "NUY"], 
-				"audioFile": "noy_sound.wav", 
-				"numRows": "2",
-				"correct": "NOY"
-			},
-			{
-				"activeCells": ["true", "true", "true", "true"],
-				"numCOlumns": "2",
-				"animationKeys": ["HOR", "HER", "HOL", "HUR"],
-				"audioFile": "hor_sound.wav",
-				"numRows": "2",
-				"correct": "HOR"
-			}
-		]
+"pseudoword-matching":[
+  {"1":[{
+		"activeCells": ["true", "true", "true", "true"],
+		"numCOlumns": "2",
+		"animationKeys": ["JAT", "BAB", "SEB", "WOG"],
+		"audioFile": "wog_sound.wav",
+		"numRows": "2",
+		"correct": "WOG"
 	},
+	{
+		"activeCells": ["true", "true", "true", "true"],
+		"numCOlumns": "2",
+		"animationKeys": ["ZAM", "JIT", "VOT", "MOT"],
+		"audioFile": "mot_sound.wav",
+		"numRows": "2",
+		"correct": "MOT"
+	},
+	{
+		"activeCells": ["true", "true", "true", "true"],
+		"numCOlumns": "2",
+		"animationKeys": ["TOB", "FUT", "WUB", "VAB"],
+		"audioFile": "tob_sound.wav",
+		"numRows": "2",
+		"correct": "TOB"
+	},
+	{
+		"activeCells": ["true", "true", "true", "true"],
+		"numCOlumns": "2",
+		"animationKeys": ["RIX", "BAX", "TAM", "NUD"],
+		"audioFile": "bax_sound.wav",
+		"numRows": "2",
+		"correct": "BAX"
+	},
+	{
+		"activeCells": ["true", "true", "true", "true"],
+		"numCOlumns": "2",
+		"animationKeys": ["FUG", "LAT", "BIP", "TID"],
+		"audioFile": "fug_sound.wav",
+		"numRows": "2",
+		"correct": "FUG"
+	},
+	{
+		"activeCells": ["true", "true", "true", "true"],
+		"numCOlumns": "2",
+		"animationKeys": ["NAR", "VUT", "SAB", "RET"],
+		"audioFile": "vut_sound.wav",
+		"numRows": "2",
+		"correct": "VUT"
+	}]},
 	{"2":[{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["EAW", "LIS", "BUR", "SAS"],
-		"audioFile": "eaw_sound.wav",
+		"animationKeys": ["SOM", "NAM", "VUM", "MUN"],
+		"audioFile": "som_sound.wav",
 		"numRows": "2",
-		"correct": "EAW"
+		"correct": "SOM"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["NED", "HEE", "GES", "NOU"],
-		"audioFile": "ned_sound.wav",
+		"animationKeys": ["TET", "DAT", "DIT", "DUT"],
+		"audioFile": "dat_sound.wav",
 		"numRows": "2",
-		"correct": "NED"
-	}]},
-	{"3":[{
-		"activeCells": ["true", "true", "true", "true"],
-		"numCOlumns": "2",
-		"animationKeys": ["EAIT", "EAUT", "AAIT", "EAIF"],
-		"audioFile": "eait_sound.wav",
-		"numRows": "2",
-		"correct": "EAIT"
+		"correct": "DAT"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["KNEN", "KNIN", "KNAN", "KMEN"],
-		"audioFile": "knen_sound.wav",
+		"animationKeys": ["FEP", "FOD", "FET", "FEG"],
+		"audioFile": "feg_sound.wav",
 		"numRows": "2",
-		"correct": "KNEN"
-	}]},
-	{"4":[{
-		"activeCells": ["true", "true", "true", "true"],
-		"numCOlumns": "2",
-		"animationKeys": ["SARD", "SERD", "SURD", "SIRD"],
-		"audioFile": "sard_sound.wav",
-		"numRows": "2",
-		"correct": "SARD"
+		"correct": "FEG"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["FRER", "DREL", "PRER", "FRIR"],
-		"audioFile": "frer_sound.wav",
+		"animationKeys": ["FIP", "FUD", "FUP", "FUB"],
+		"audioFile": "fub_sound.wav",
 		"numRows": "2",
-		"correct": "FRER"
+		"correct": "FUB"
+	},
+	{
+		"activeCells": ["true", "true", "true", "true"],
+		"numCOlumns": "2",
+		"animationKeys": ["LEB", "LEV", "RAB", "LEF"],
+		"audioFile": "lev_sound.wav",
+		"numRows": "2",
+		"correct": "LEV"
+	},
+	{
+		"activeCells": ["true", "true", "true", "true"],
+		"numCOlumns": "2",
+		"animationKeys": ["HIX", "HOX", "GIX", "HAX"],
+		"audioFile": "hix_sound.wav",
+		"numRows": "2",
+		"correct": "HIX"
 	}]}
 ]
 }
