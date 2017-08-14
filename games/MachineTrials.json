@@ -1,4 +1,5 @@
-{"receptive-vocabulary":[{"1":[{
+{
+	"receptive-vocabulary":[{"1":[{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
 		"animationKeys": ["SOAP", "DIAPER", "COOKIE", "ORANGE"],
@@ -375,6 +376,7 @@
 		"correct": "TWEEZERS"
 	}]}
 ],
+
 "pseudoword-matching":[
   {"1":[{
 		"activeCells": ["true", "true", "true", "true"],
