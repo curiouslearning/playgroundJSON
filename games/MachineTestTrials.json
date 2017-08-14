@@ -1,5 +1,5 @@
 {
-	"receptive-vocabulary":[{"1":[{
+	"receptive_vocabulary":[{"1":[{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
 		"animationKeys": ["SOAP", "DIAPER", "COOKIE", "ORANGE"],
@@ -73,7 +73,7 @@
 	}]}
 ],
 
-"pseudoword-matching":[
+"pseudoword_matching":[
   {"1":[{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
