@@ -1,11 +1,12 @@
 {
-	"receptive_vocabulary":[{"1":[{
+	"receptive_vocabulary":[
+	{"1":[{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
 		"animationKeys": ["soap_sound.jpg", "diaper_sound.jpg", "cookie_sound.jpg", "orange_sound.jpg"],
 		"audioFile": "soap_sound.wav",
 		"numRows": "2",
-		"correct": "soap_sound.jpg"
+		"correct": "soap_sound"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
@@ -13,7 +14,7 @@
 		"animationKeys": ["cookie_sound.jpg", "diaper_sound.jpg", "pants_sound.jpg", "crayon_sound.jpg"],
 		"audioFile": "pants_sound.wav",
 		"numRows": "2",
-		"correct": "pants_sound.jpg"
+		"correct": "pants_sound"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
@@ -21,7 +22,7 @@
 		"animationKeys": ["soap_sound.jpg", "crayon_sound.jpg", "orange_sound.jpg", "diaper_sound.jpg"],
 		"audioFile": "diaper_sound.wav",
 		"numRows": "2",
-		"correct": "diaper_sound.jpg"
+		"correct": "diaper_sound"
 	}]},
 	{"2":[{
 		"activeCells": ["true", "true", "true", "true"],
@@ -29,7 +30,7 @@
 		"animationKeys": ["boot_sound.jpg", "book_sound.jpg", "plant_sound.jpg", "pear_sound.jpg"],
 		"audioFile": "boot_sound.wav",
 		"numRows": "2",
-		"correct": "boot_sound.jpg"
+		"correct": "boot_sound"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
@@ -37,7 +38,7 @@
 		"animationKeys": ["fork_sound.jpg", "key_sound.jpg", "shirt_sound.jpg", "candy_sound.jpg"],
 		"audioFile": "key_sound.wav",
 		"numRows": "2",
-		"correct": "key_sound.jpg"
+		"correct": "key_sound"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
@@ -45,7 +46,7 @@
 		"animationKeys": ["plate_sound.jpg", "key_sound.jpg", "pear_sound.jpg", "plant_sound.jpg"],
 		"audioFile": "plate_sound.wav",
 		"numRows": "2",
-		"correct": "plate_sound.jpg"
+		"correct": "plate_sound"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
@@ -53,7 +54,7 @@
 		"animationKeys": ["grape_sound.jpg", "doll_sound.jpg", "lamp_sound.jpg", "banana_sound.jpg"],
 		"audioFile": "lamp_sound.wav",
 		"numRows": "2",
-		"correct": "lamp_sound.jpg"
+		"correct": "lamp_sound"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
@@ -61,7 +62,7 @@
 		"animationKeys": ["boot_sound.jpg", "plate_sound.jpg", "doll_sound.jpg", "rice_sound.jpg"],
 		"audioFile": "rice_sound.wav",
 		"numRows": "2",
-		"correct": "rice_sound.jpg"
+		"correct": "rice_sound"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
@@ -69,18 +70,17 @@
 		"animationKeys": ["lamp_sound.jpg", "rice_sound.jpg", "banana_sound.jpg", "book_sound.jpg"],
 		"audioFile": "book_sound.wav",
 		"numRows": "2",
-		"correct": "book_sound.jpg"
+		"correct": "book_sound"
 	}]}
-],
-
-"pseudoword_matching":[
-  {"1":[{
+	],
+	"pseudoword_matching":[
+  	{"1":[{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
 		"animationKeys": ["jat_sound.jpg", "bab_sound.jpg", "seb_sound.jpg", "wog_sound.jpg"],
 		"audioFile": "wog_sound.wav",
 		"numRows": "2",
-		"correct": "wog_sound.jpg"
+		"correct": "wog_sound"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
@@ -88,7 +88,7 @@
 		"animationKeys": ["zam_sound.jpg", "jit_sound.jpg", "vot_sound.jpg", "mot_sound.jpg"],
 		"audioFile": "mot_sound.wav",
 		"numRows": "2",
-		"correct": "mot_sound.jpg"
+		"correct": "mot_sound"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
@@ -96,7 +96,7 @@
 		"animationKeys": ["tob_sound.jpg", "fut_sound.jpg", "wub_sound.jpg", "vab_sound.jpg"],
 		"audioFile": "tob_sound.wav",
 		"numRows": "2",
-		"correct": "tob_sound.jpg"
+		"correct": "tob_sound"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
@@ -104,7 +104,7 @@
 		"animationKeys": ["rix_sound.jpg", "bax_sound.jpg", "tam_sound.jpg", "nud_sound.jpg"],
 		"audioFile": "bax_sound.wav",
 		"numRows": "2",
-		"correct": "bax_sound.jpg"
+		"correct": "bax_sound"
 	}]},
 	{"2":[{
 		"activeCells": ["true", "true", "true", "true"],
@@ -112,7 +112,7 @@
 		"animationKeys": ["som_sound.jpg", "nam_sound.jpg", "vum_sound.jpg", "mun_sound.jpg"],
 		"audioFile": "som_sound.wav",
 		"numRows": "2",
-		"correct": "som_sound.jpg"
+		"correct": "som_sound"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
@@ -120,7 +120,7 @@
 		"animationKeys": ["tet_sound.jpg", "dat_sound.jpg", "dit_sound.jpg", "dut_sound.jpg"],
 		"audioFile": "dat_sound.wav",
 		"numRows": "2",
-		"correct": "dat_sound.jpg"
+		"correct": "dat_sound"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
@@ -128,7 +128,7 @@
 		"animationKeys": ["fep_sound.jpg", "fod_sound.jpg", "fet_sound.jpg", "feg_sound.jpg"],
 		"audioFile": "feg_sound.wav",
 		"numRows": "2",
-		"correct": "feg_sound.jpg"
+		"correct": "feg_sound"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
@@ -136,7 +136,7 @@
 		"animationKeys": ["fip_sound.jpg", "fud_sound.jpg", "fup_sound.jpg", "fub_sound.jpg"],
 		"audioFile": "fub_sound.wav",
 		"numRows": "2",
-		"correct": "fub_sound.jpg"
+		"correct": "fub_sound"
 	}]}
 ]
 }
