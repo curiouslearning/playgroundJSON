@@ -14,8 +14,8 @@
         	"frogColor": "blue",
         	"frogSide": "left",
         	"rotation": "180deg",
-        	"rightBug": "",
-        	"leftBug": "blue",
+        	"rightBug": "blue",
+        	"leftBug": "",
 			"rightSpotlight": false,
 		  	"leftSpotlight": false
 	},
