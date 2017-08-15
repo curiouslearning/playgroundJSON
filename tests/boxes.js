@@ -10,7 +10,7 @@ const trialMetaData = {
   setKeyForIndex: [],
 };
 
-const trialOrder = ["letter_name", "letter_sound"];
+const trialOrder = ["letter_name", "letter_sound", "blending_words"];
 let cnt = 0;
 
 _.each(trialOrder, (name, index) => { 
@@ -30,12 +30,6 @@ _.each(trialOrder, (name, index) => {
   });
 });
 
-// console.log("trialMetaData = ", trialMetaData);
-debugger;
-
-
-
-
 const indiciesForTrial = function (trialType) {
   const indicies = [];
   _.each(trialMetaData.trialNameForIndex, (trialName, index) => {
@@ -48,3 +42,4 @@ const indiciesForTrial = function (trialType) {
 
 console.log(`indices for letter_name = ${indiciesForTrial("letter_name")}`);
 console.log(`indices for letter_sound = ${indiciesForTrial("letter_sound")}`);
+console.log(`indices for blending_words = ${indiciesForTrial("blending_words")}`);

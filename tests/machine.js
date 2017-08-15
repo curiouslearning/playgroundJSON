@@ -10,7 +10,7 @@ const trialMetaData = {
   setKeyForIndex: [],
 };
 
-const trialOrder = ["receptive_vocab", "pseudoword_matching"];
+const trialOrder = ["receptive_vocabulary", "pseudoword_matching"];
 let cnt = 0;
 
 _.each(trialOrder, (name, index) => { 
@@ -46,5 +46,5 @@ const indiciesForTrial = function (trialType) {
   return indicies;
 }
 
-console.log(`indices for letter_name = ${indiciesForTrial("receptive_vocab")}`);
-console.log(`indices for letter_sound = ${indiciesForTrial("pseudoword_matching")}`);
+console.log(`indices for receptive_vocabulary = ${indiciesForTrial("receptive_vocabulary")}`);
+console.log(`indices for pseudoword_matching = ${indiciesForTrial("pseudoword_matching")}`);
