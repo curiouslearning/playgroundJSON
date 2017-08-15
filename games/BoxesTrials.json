@@ -1,353 +1,353 @@
 {
   "letter_name":[
   {"1" : [{
-    "thinkImage": "Letter_A",
+    "stimuliImage": "Letter_A",
     "boxAudioFiles": ["c_name.wav","a_name.wav","j_name.wav","m_name.wav"],
-    "speakAudio":  true,
+    "stimuliAudio":  true,
     "correct": "a_name"
-  },
+  },,
   {
-    "thinkImage": "Letter_B",
+    "stimuliImage": "Letter_B",
     "boxAudioFiles": ["b_name.wav","t_name.wav","k_name.wav","g_name.wav"],
-    "speakAudio":  false,
+    "stimuliAudio":  false,
     "correct": "b_name"
   },
   {
     "boxAudioFiles": ["s_name.wav", "q_name.wav", "x_name.wav", "a_name.wav"],
     "correct": "x_name",
-    "speakAudio": true,
-    "thinkImage": "Letter_X"
+    "stimuliAudio": true,
+    "stimuliImage": "Letter_X"
   },
   {
     "boxAudioFiles": ["s_name.wav", "q_name.wav", "x_name.wav", "a_name.wav"],
     "correct": "q_name",
-    "speakAudio": "q_name",
-    "thinkImage": false
+    "stimuliAudio": "q_name",
+    "stimuliImage": false
   },
   {
     "boxAudioFiles": ["s_name.wav", "q_name.wav", "x_name.wav", "a_name.wav"],
     "correct": "s_name",
-    "speakAudio": "s_name",
-    "thinkImage": false
+    "stimuliAudio": "s_name",
+    "stimuliImage": false
   }]},
   {"2":[{
-    "thinkImage": "Letter_C",
+    "stimuliImage": "Letter_C",
     "boxAudioFiles": ["u_name.wav","x_name.wav","s_name.wav","c_name.wav"],
-    "speakAudio":  false,
+    "stimuliAudio":  false,
     "correct": "c_name"
   },
   {
-    "thinkImage": "Letter_D",
+    "stimuliImage": "Letter_D",
     "boxAudioFiles": ["r_name.wav","a_name.wav","d_name.wav","h_name.wav"],
-    "speakAudio":  false,
+    "stimuliAudio":  false,
     "correct": "d_name"
   },
   {
-    "thinkImage": "Letter_E",
+    "stimuliImage": "Letter_E",
     "boxAudioFiles": ["e_name.wav","h_name.wav","k_name.wav","m_name.wav"],
-    "speakAudio": false,
+    "stimuliAudio": false,
     "correct": "e_name"
   },
   {
-    "thinkImage": "Letter_F",
+    "stimuliImage": "Letter_F",
     "boxAudioFiles": ["p_name.wav","o_name.wav","f_name.wav","s_name.wav"],
-    "speakAudio": false,
+    "stimuliAudio": false,
     "correct": "f_name"
   },
   {
-    "thinkImage": "Letter_G",
+    "stimuliImage": "Letter_G",
     "boxAudioFiles": ["k_name.wav","g_name.wav","w_name.wav","q_name.wav"],
-    "speakAudio": false,
+    "stimuliAudio": false,
     "correct": "g_name"
   }]},
   {"3":[{
-    "thinkImage": "Letter_H",
+    "stimuliImage": "Letter_H",
     "boxAudioFiles": ["h_name.wav","l_name.wav","m_name.wav","s_name.wav"],
-    "speakAudio": false,
+    "stimuliAudio": false,
     "correct": "h_name"
   },
   {
-    "thinkImage": "Letter_I",
+    "stimuliImage": "Letter_I",
     "boxAudioFiles": ["a_name.wav","u_name.wav","i_name.wav","f_name.wav"],
-    "speakAudio": false,
+    "stimuliAudio": false,
     "correct": "i_name"
   },
   {
-    "thinkImage": "Letter_J",
+    "stimuliImage": "Letter_J",
     "boxAudioFiles": ["j_name.wav","l_name.wav","h_name.wav","a_name.wav"],
-    "speakAudio": false,
+    "stimuliAudio": false,
     "correct": "j_name"
   },
   {
-    "thinkImage": "Letter_K",
+    "stimuliImage": "Letter_K",
     "boxAudioFiles": ["b_name.wav","k_name.wav","c_name.wav","d_name.wav"],
-    "speakAudio": false,
+    "stimuliAudio": false,
     "correct": "k_name"
   },
   {
-    "thinkImage": "Letter_L",
+    "stimuliImage": "Letter_L",
     "boxAudioFiles": ["o_name.wav","t_name.wav","b_name.wav","l_name.wav"],
-    "speakAudio": false,
+    "stimuliAudio": false,
     "correct": "l_name"
   }]},
   {"4":[{
-    "thinkImage": "Letter_M",
+    "stimuliImage": "Letter_M",
     "boxAudioFiles": ["f_name.wav","m_name.wav","s_name.wav","t_name.wav"],
-    "speakAudio": false,
+    "stimuliAudio": false,
     "correct": "m_name"
   },
   {
-    "thinkImage": "Letter_N",
+    "stimuliImage": "Letter_N",
     "boxAudioFiles": ["s_name.wav","d_name.wav","n_name.wav","p_name.wav"],
-    "speakAudio": false,
+    "stimuliAudio": false,
     "correct": "n_name"
   },
   {
-    "thinkImage": "Letter_O",
+    "stimuliImage": "Letter_O",
     "boxAudioFiles": ["q_name.wav","o_name.wav","s_name.wav","b_name.wav"],
-    "speakAudio": false,
+    "stimuliAudio": false,
     "correct": "o_name"
   },
   {
-    "thinkImage": "Letter_P",
+    "stimuliImage": "Letter_P",
     "boxAudioFiles": ["j_name.wav","a_name.wav","l_name.wav","p_name.wav"],
-    "speakAudio": false,
+    "stimuliAudio": false,
     "correct": "p_name"
   },
   {
-    "thinkImage": "Letter_Q",
+    "stimuliImage": "Letter_Q",
     "boxAudioFiles": ["q_name.wav","g_name.wav","j_name.wav","f_name.wav"],
-    "speakAudio": false,
+    "stimuliAudio": false,
     "correct": "q_name"
   }]},
   {"5":[{
-    "thinkImage": "Letter_R",
+    "stimuliImage": "Letter_R",
     "boxAudioFiles": ["a_name.wav","r_name.wav","k_name.wav","t_name.wav"],
-    "speakAudio": false,
+    "stimuliAudio": false,
     "correct": "r_name"
   },
   {
-    "thinkImage": "Letter_S",
+    "stimuliImage": "Letter_S",
     "boxAudioFiles": ["g_name.wav","s_name.wav","h_name.wav","l_name.wav"],
-    "speakAudio": false,
+    "stimuliAudio": false,
     "correct": "s_name"
   },
   {
-    "thinkImage": "Letter_T",
+    "stimuliImage": "Letter_T",
     "boxAudioFiles": ["e_name.wav","f_name.wav","t_name.wav","j_name.wav"],
-    "speakAudio": false,
+    "stimuliAudio": false,
     "correct": "t_name"
   },
   {
-    "thinkImage": "Letter_U",
+    "stimuliImage": "Letter_U",
     "boxAudioFiles": ["u_name.wav","k_name.wav","l_name.wav","g_name.wav"],
-    "speakAudio": false,
+    "stimuliAudio": false,
     "correct": "u_name"
   },
   {
-    "thinkImage": "Letter_V",
+    "stimuliImage": "Letter_V",
     "boxAudioFiles": ["v_name.wav","c_name.wav","d_name.wav","e_name.wav"],
-    "speakAudio": false,
+    "stimuliAudio": false,
     "correct": "v_name"
   },
   {
-    "thinkImage": "Letter_W",
+    "stimuliImage": "Letter_W",
     "boxAudioFiles": ["h_name.wav","j_name.wav","k_name.wav","w_name.wav"],
-    "speakAudio": false,
+    "stimuliAudio": false,
     "correct": "w_name"
   },
   {
-    "thinkImage": "Letter_X",
+    "stimuliImage": "Letter_X",
     "boxAudioFiles": ["a_name.wav","e_name.wav","x_name.wav","m_name.wav"],
-    "speakAudio": false,
+    "stimuliAudio": false,
     "correct": "x_name"
   },
   {
-    "thinkImage": "Letter_Y",
+    "stimuliImage": "Letter_Y",
     "boxAudioFiles": ["b_name.wav","y_name.wav","d_name.wav","l_name.wav"],
-    "speakAudio": false,
+    "stimuliAudio": false,
     "correct": "y_name"
   },
   {
-    "thinkImage": "Letter_Z",
+    "stimuliImage": "Letter_Z",
     "boxAudioFiles": ["f_name.wav","h_name.wav","c_name.wav","z_name.wav"],
-    "speakAudio": false,
+    "stimuliAudio": false,
     "correct": "z_name"
   }]}
 ],
   "letter-sound":[
   {"1" : [{
-    "thinkImage": "Letter_A",
+    "stimuliImage": "Letter_A",
     "boxAudioFiles": ["c_sound.wav","a_sound.wav","j_sound.wav","m_sound.wav"],
-    "speakAudio":  true,
+    "stimuliAudio":  true,
     "correct": "a_sound"
   },
   {
-    "thinkImage": "Letter_B",
+    "stimuliImage": "Letter_B",
     "boxAudioFiles": ["b_sound.wav","t_sound.wav","k_sound.wav","g_sound.wav"],
-    "speakAudio":  false,
+    "stimuliAudio":  false,
     "correct": "b_sound"
   },
   {
     "boxAudioFiles": ["s_name.wav", "q_name.wav", "x_name.wav", "a_name.wav"],
     "correct": "x_name",
-    "speakAudio": true,
-    "thinkImage": "Letter_X"
+    "stimuliAudio": true,
+    "stimuliImage": "Letter_X"
   },
   {
     "boxAudioFiles": ["s_name.wav", "q_name.wav", "x_name.wav", "a_name.wav"],
     "correct": "q_name",
-    "speakAudio": "q_name",
-    "thinkImage": false
+    "stimuliAudio": "q_name",
+    "stimuliImage": false
   },
   {
     "boxAudioFiles": ["s_name.wav", "q_name.wav", "x_name.wav", "a_name.wav"],
     "correct": "s_name",
-    "speakAudio": "s_name",
-    "thinkImage": false
+    "stimuliAudio": "s_name",
+    "stimuliImage": false
   }]},
   {"2":[{
-    "thinkImage": "Letter_C",
+    "stimuliImage": "Letter_C",
     "boxAudioFiles": ["u_sound.wav","x_sound.wav","s_sound.wav","c_sound.wav"],
-    "speakAudio":  false,
+    "stimuliAudio":  false,
     "correct": "c_sound"
   },
   {
-    "thinkImage": "Letter_D",
+    "stimuliImage": "Letter_D",
     "boxAudioFiles": ["r_sound.wav","a_sound.wav","d_sound.wav","h_sound.wav"],
-    "speakAudio":  false,
+    "stimuliAudio":  false,
     "correct": "d_sound"
   },
   {
-    "thinkImage": "Letter_E",
+    "stimuliImage": "Letter_E",
     "boxAudioFiles": ["e_sound.wav","h_sound.wav","k_sound.wav","m_sound.wav"],
-    "speakAudio": false,
+    "stimuliAudio": false,
     "correct": "e_sound"
   },
   {
-    "thinkImage": "Letter_F",
+    "stimuliImage": "Letter_F",
     "boxAudioFiles": ["p_sound.wav","o_sound.wav","f_sound.wav","s_sound.wav"],
-    "speakAudio": false,
+    "stimuliAudio": false,
     "correct": "f_sound"
   },
   {
-    "thinkImage": "Letter_G",
+    "stimuliImage": "Letter_G",
     "boxAudioFiles": ["k_sound.wav","g_sound.wav","w_sound.wav","q_sound.wav"],
-    "speakAudio": false,
+    "stimuliAudio": false,
     "correct": "g_sound"
   }]},
   {"3":[{
-    "thinkImage": "Letter_H",
+    "stimuliImage": "Letter_H",
     "boxAudioFiles": ["h_sound.wav","l_sound.wav","m_sound.wav","s_sound.wav"],
-    "speakAudio": false,
+    "stimuliAudio": false,
     "correct": "h_sound"
   },
   {
-    "thinkImage": "Letter_I",
+    "stimuliImage": "Letter_I",
     "boxAudioFiles": ["a_sound.wav","u_sound.wav","i_sound.wav","f_sound.wav"],
-    "speakAudio": false,
+    "stimuliAudio": false,
     "correct": "i_sound"
   },
   {
-    "thinkImage": "Letter_J",
+    "stimuliImage": "Letter_J",
     "boxAudioFiles": ["j_sound.wav","l_sound.wav","h_sound.wav","a_sound.wav"],
-    "speakAudio": false,
+    "stimuliAudio": false,
     "correct": "j_sound"
   },
   {
-    "thinkImage": "Letter_K",
+    "stimuliImage": "Letter_K",
     "boxAudioFiles": ["b_sound.wav","k_sound.wav","c_sound.wav","d_sound.wav"],
-    "speakAudio": false,
+    "stimuliAudio": false,
     "correct": "k_sound"
   },
   {
-    "thinkImage": "Letter_L",
+    "stimuliImage": "Letter_L",
     "boxAudioFiles": ["o_sound.wav","t_sound.wav","b_sound.wav","l_sound.wav"],
-    "speakAudio": false,
+    "stimuliAudio": false,
     "correct": "l_sound"
   }]},
   {"4":[{
-    "thinkImage": "Letter_M",
+    "stimuliImage": "Letter_M",
     "boxAudioFiles": ["f_sound.wav","m_sound.wav","s_sound.wav","t_sound.wav"],
-    "speakAudio": false,
+    "stimuliAudio": false,
     "correct": "m_sound"
   },
   {
-    "thinkImage": "Letter_N",
+    "stimuliImage": "Letter_N",
     "boxAudioFiles": ["s_sound.wav","d_sound.wav","n_sound.wav","p_sound.wav"],
-    "speakAudio": false,
+    "stimuliAudio": false,
     "correct": "n_sound"
   },
   {
-    "thinkImage": "Letter_O",
+    "stimuliImage": "Letter_O",
     "boxAudioFiles": ["q_sound.wav","o_sound.wav","s_sound.wav","b_sound.wav"],
-    "speakAudio": false,
+    "stimuliAudio": false,
     "correct": "o_sound"
   },
   {
-    "thinkImage": "Letter_P",
+    "stimuliImage": "Letter_P",
     "boxAudioFiles": ["j_sound.wav","a_sound.wav","l_sound.wav","p_sound.wav"],
-    "speakAudio": false,
+    "stimuliAudio": false,
     "correct": "p_sound"
   },
   {
-    "thinkImage": "Letter_Q",
+    "stimuliImage": "Letter_Q",
     "boxAudioFiles": ["q_sound.wav","g_sound.wav","j_sound.wav","f_sound.wav"],
-    "speakAudio": false,
+    "stimuliAudio": false,
     "correct": "q_sound"
   }]},
   {"5":[{
-    "thinkImage": "Letter_R",
+    "stimuliImage": "Letter_R",
     "boxAudioFiles": ["a_sound.wav","r_sound.wav","k_sound.wav","t_sound.wav"],
-    "speakAudio": false,
+    "stimuliAudio": false,
     "correct": "r_sound"
   },
   {
-    "thinkImage": "Letter_S",
+    "stimuliImage": "Letter_S",
     "boxAudioFiles": ["g_sound.wav","s_sound.wav","h_sound.wav","l_sound.wav"],
-    "speakAudio": false,
+    "stimuliAudio": false,
     "correct": "s_sound"
   },
   {
-    "thinkImage": "Letter_T",
+    "stimuliImage": "Letter_T",
     "boxAudioFiles": ["e_sound.wav","f_sound.wav","t_sound.wav","j_sound.wav"],
-    "speakAudio": false,
+    "stimuliAudio": false,
     "correct": "t_sound"
   },
   {
-    "thinkImage": "Letter_U",
+    "stimuliImage": "Letter_U",
     "boxAudioFiles": ["u_sound.wav","k_sound.wav","l_sound.wav","g_sound.wav"],
-    "speakAudio": false,
+    "stimuliAudio": false,
     "correct": "u_sound"
   },
   {
-    "thinkImage": "Letter_V",
+    "stimuliImage": "Letter_V",
     "boxAudioFiles": ["v_sound.wav","c_sound.wav","d_sound.wav","e_sound.wav"],
-    "speakAudio": false,
+    "stimuliAudio": false,
     "correct": "v_sound"
   },
   {
-    "thinkImage": "Letter_W",
+    "stimuliImage": "Letter_W",
     "boxAudioFiles": ["h_sound.wav","j_sound.wav","k_sound.wav","w_sound.wav"],
-    "speakAudio": false,
+    "stimuliAudio": false,
     "correct": "w_sound"
   },
   {
-    "thinkImage": "Letter_X",
+    "stimuliImage": "Letter_X",
     "boxAudioFiles": ["a_sound.wav","e_sound.wav","x_sound.wav","m_sound.wav"],
-    "speakAudio": false,
+    "stimuliAudio": false,
     "correct": "x_sound"
   },
   {
-    "thinkImage": "Letter_Y",
+    "stimuliImage": "Letter_Y",
     "boxAudioFiles": ["b_sound.wav","y_sound.wav","d_sound.wav","l_sound.wav"],
-    "speakAudio": false,
+    "stimuliAudio": false,
     "correct": "y_sound"
   },
   {
-    "thinkImage": "Letter_Z",
+    "stimuliImage": "Letter_Z",
     "boxAudioFiles": ["f_sound.wav","h_sound.wav","c_sound.wav","z_sound.wav"],
-    "speakAudio": false,
+    "stimuliAudio": false,
     "correct": "z_sound"
   }]}
 ],
