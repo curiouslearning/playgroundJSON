@@ -1,922 +1,922 @@
 [
-	{
-		"type": "priming",
-        	"frogColor": "blue",
-        	"frogSide": "right",
-        	"rotation": "0deg",
-        	"rightBug": "blue",
-        	"leftBug": "",
-          		"rightSpotlight": false,
-          		"leftSpotlight": false
-	},
-    	{
-		"type": "priming",
-        	"frogColor": "blue",
-        	"frogSide": "left",
-        	"rotation": "180deg",
-        	"rightBug": "blue",
-        	"leftBug": "",
-			"rightSpotlight": false,
-		  	"leftSpotlight": false
-	},
-    	{
-		"type": "double",
-        	"frogColor": "blue",
-        	"frogSide": "right",
-        	"rotation": "0deg",
-        	"rightBug": "blue",
-        	"leftBug": "green",
-		  	"rightSpotlight": false,
-		  	"leftSpotlight": false
-	},
-    	{
-		"type": "double",
-        	"frogColor": "blue",
-        	"frogSide": "right",
-        	"rotation": "0deg",
-        	"rightBug": "blue",
-        	"leftBug": "green",
-		  	"rightSpotlight": false,
-		 	"leftSpotlight": false
-	},
-    	{
-		"type": "double",
-        	"frogColor": "blue",
-        	"frogSide": "left",
-        	"rotation": "180deg",
-        	"rightBug": "green",
-        	"leftBug": "blue",
-		  	"rightSpotlight": false,
-		  	"leftSpotlight": false
-	},
-    	{
-		"type": "double",
-        	"frogColor": "green",
-        	"frogSide": "left",
-        	"rotation": "180deg",
-        	"rightBug": "blue",
-        	"leftBug": "green",
-		  	"rightSpotlight": false,
-		  	"leftSpotlight": false
-	},
-	{
-		"type": "double",
-        	"frogColor": "green",
-        	"frogSide": "left",
-        	"rotation": "180deg",
-        	"rightBug": "blue",
-        	"leftBug": "green",
-		  	"rightSpotlight": false,
-		  	"leftSpotlight": false
-	},
-    	{
-		"type": "double",
-        	"frogColor": "green",
-        	"frogSide": "right",
-        	"rotation": "0deg",
-        	"rightBug": "green",
-        	"leftBug": "blue",
-		  	"rightSpotlight": false,
-		  	"leftSpotlight": false
-	},
-    	{
-		"type": "blackout",
-        	"frogColor": "green",
-        	"frogSide": "right",
-        	"rotation": "0deg",
-        	"rightBug": "green",
-        	"leftBug": "blue",
-		  	"rightSpotlight": true,
-		  	"leftSpotlight": false
-	},
-    	{
-		"type": "blackout",
-        	"frogColor": "green",
-        	"frogSide": "right",
-        	"rotation": "0deg",
-        	"rightBug": "green",
-        	"leftBug": "blue",
-		  	"rightSpotlight": true,
-		  	"leftSpotlight": false
-	},
-    	{
-		"type": "blackout",
-        	"frogColor": "green",
-        	"frogSide": "right",
-        	"rotation": "0deg",
-        	"rightBug": "green",
-        	"leftBug": "blue",
-		  	"rightSpotlight": true,
-		  	"leftSpotlight": false
-	},
-    	{
-		"type": "blackout",
-        	"frogColor": "blue",
-        	"frogSide": "left",
-        	"rotation": "180deg",
-        	"rightBug": "green",
-        	"leftBug": "blue",
-		  	"rightSpotlight": false,
-		  	"leftSpotlight": true
-	},
-    	{
-		"type": "blackout",
-        	"frogColor": "blue",
-        	"frogSide": "left",
-        	"rotation": "180deg",
-        	"rightBug": "green",
-        	"leftBug": "blue",
-		  	"rightSpotlight": false,
-		  	"leftSpotlight": true
-	},
-    	{
-		"type": "blackout",
-        	"frogColor": "blue",
-        	"frogSide": "left",
-        	"rotation": "180deg",
-        	"rightBug": "green",
-        	"leftBug": "blue",
-		  	"rightSpotlight": false,
-		  	"leftSpotlight": true
-	},
-    	{
-		"type": "blackout",
-        	"frogColor": "blue",
-        	"frogSide": "left",
-        	"rotation": "180deg",
-        	"rightBug": "green",
-        	"leftBug": "blue",
-		  	"rightSpotlight": true,
-		  	"leftSpotlight": false
-	},
-    	{
-		"type": "blackout",
-        	"frogColor": "blue",
-        	"frogSide": "left",
-        	"rotation": "180deg",
-        	"rightBug": "green",
-        	"leftBug": "blue",
-		  	"rightSpotlight": true,
-		  	"leftSpotlight": false
-	},
-    	{
-		"type": "blackout",
-        	"frogColor": "blue",
-        	"frogSide": "left",
-        	"rotation": "180deg",
-        	"rightBug": "green",
-        	"leftBug": "blue",
-		  	"rightSpotlight": true,
-		  	"leftSpotlight": false
-	},
-    	{
-		"type": "blackout",
-        	"frogColor": "green",
-        	"frogSide": "right",
-        	"rotation": "0deg",
-        	"rightBug": "green",
-        	"leftBug": "blue",
-		  	"rightSpotlight": false,
-		  	"leftSpotlight": true
-	},
-    	{
-		"type": "blackout",
-        	"frogColor": "green",
-        	"frogSide": "right",
-        	"rotation": "0deg",
-        	"rightBug": "green",
-        	"leftBug": "blue",
-		  	"rightSpotlight": false,
-		  	"leftSpotlight": true
-	},
-    	{
-		"type": "blackout",
-        	"frogColor": "green",
-        	"frogSide": "right",
-        	"rotation": "0deg",
-        	"rightBug": "green",
-        	"leftBug": "blue",
-		  	"rightSpotlight": false,
-		 	"leftSpotlight": true
-	},
-    	{
-		"type": "blackout",
-        	"frogColor": "green",
-        	"frogSide": "left",
-        	"rotation": "180deg",
-        	"rightBug": "blue",
-        	"leftBug": "green",
-		  	"rightSpotlight": true,
-		  	"leftSpotlight": false
-	},
-    	{
-		"type": "blackout",
-        	"frogColor": "green",
-        	"frogSide": "left",
-        	"rotation": "180deg",
-        	"rightBug": "blue",
-        	"leftBug": "green",
-			"rightSpotlight": true,
-		  	"leftSpotlight": false
-	},
-    	{
-		"type": "blackout",
-        	"frogColor": "green",
-        	"frogSide": "left",
-        	"rotation": "180deg",
-        	"rightBug": "blue",
-        	"leftBug": "green",
-		  	"rightSpotlight": true,
-		  	"leftSpotlight": false
-	},
-    	{
-		"type": "blackout",
-        	"frogColor": "green",
-        	"frogSide": "left",
-        	"rotation": "180deg",
-        	"rightBug": "blue",
-        	"leftBug": "green",
-		  	"rightSpotlight": false,
-		  	"leftSpotlight": true
-	},
-    	{
-		"type": "blackout",
-        	"frogColor": "green",
-        	"frogSide": "left",
-        	"rotation": "180deg",
-        	"rightBug": "blue",
-        	"leftBug": "green",
-		  	"rightSpotlight": false,
-		  	"leftSpotlight": true
-	},
-    	{
-		"type": "blackout",
-        	"frogColor": "green",
-        	"frogSide": "left",
-        	"rotation": "180deg",
-        	"rightBug": "blue",
-        	"leftBug": "green",
-		  	"rightSpotlight": false,
-		  	"leftSpotlight": true
-	},
-    	{
-		"type": "blackout",
-        	"frogColor": "blue",
-        	"frogSide": "right",
-        	"rotation": "0deg",
-        	"rightBug": "blue",
-        	"leftBug": "green",
-		  	"rightSpotlight": false,
-		  	"leftSpotlight": true
-	},
-    	{
-		"type": "blackout",
-        	"frogColor": "blue",
-        	"frogSide": "right",
-        	"rotation": "0deg",
-        	"rightBug": "blue",
-        	"leftBug": "green",
-		  	"rightSpotlight": false,
-		  	"leftSpotlight": true
-	},
-    	{
-		"type": "blackout",
-        	"frogColor": "blue",
-        	"frogSide": "right",
-        	"rotation": "0deg",
-        	"rightBug": "blue",
-        	"leftBug": "green",
-		  	"rightSpotlight": false,
-		  	"leftSpotlight": true
-	},
-    	{
-		"type": "blackout",
-        	"frogColor": "blue",
-        	"frogSide": "right",
-        	"rotation": "0deg",
-        	"rightBug": "blue",
-        	"leftBug": "green",
-		  	"rightSpotlight": true,
-		  	"leftSpotlight": false
-	},
-    	{
-		"type": "blackout",
-        	"frogColor": "blue",
-        	"frogSide": "right",
-        	"rotation": "0deg",
-        	"rightBug": "blue",
-        	"leftBug": "green",
-		  	"rightSpotlight": true,
-		  	"leftSpotlight": false
-	},
-    	{
-		"type": "blackout",
-        	"frogColor": "blue",
-        	"frogSide": "right",
-        	"rotation": "0deg",
-        	"rightBug": "blue",
-        	"leftBug": "green",
-		  	"rightSpotlight": true,
-		  	"leftSpotlight": false
-	},
-    	{
-		"type": "bee",
-        	"frogColor": "blue",
-       	 	"frogSide": "left",
-        	"rotation": "180deg",
-        	"rightBug": "blue",
-        	"leftBug": "green",
-          		"rightSpotlight": false,
-          		"leftSpotlight": false
-    	},
-    	{
-		"type": "bee",
-        	"frogColor": "blue",
-        	"frogSide": "right",
-        	"rotation": "0deg",
-       	 	"rightBug": "blue",
-        	"leftBug": "green",
-          		"rightSpotlight": false,
-          		"leftSpotlight": false
-    	},
-    	{
-		"type": "bee",
-        	"frogColor": "green",
-        	"frogSide": "left",
-        	"rotation": "180deg",
-        	"rightBug": "green",
-        	"leftBug": "blue",
-          		"rightSpotlight": false,
-          		"leftSpotlight": false
-    	},
-    	{
-		"type": "bee",
-        	"frogColor": "green",
-        	"frogSide": "right",
-        	"rotation": "0deg",
-        	"rightBug": "blue",
-        	"leftBug": "green",
-          		"rightSpotlight": false,
-          		"leftSpotlight": false
-    	},
-    	{
-		"type": "bee",
-        	"frogColor": "blue",
-        	"frogSide": "left",
-        	"rotation": "180deg",
-        	"rightBug": "blue",
-        	"leftBug": "green",
-          		"rightSpotlight": false,
-          		"leftSpotlight": false
-    	},
-    	{
-		"type": "bee",
-        	"frogColor": "green",
-        	"frogSide": "right",
-        	"rotation": "0deg",
-        	"rightBug": "green",
-        	"leftBug": "blue",
-          		"rightSpotlight": false,
-          		"leftSpotlight": false
-    	},
-    	{
-		"type": "bee",
-        	"frogColor": "blue",
-        	"frogSide": "right",
-        	"rotation": "0deg",
-        	"rightBug": "green",
-        	"leftBug": "blue",
-          		"rightSpotlight": false,
-          		"leftSpotlight": false
-    	},
-   	{
-		"type": "bee",
-        	"frogColor": "green",
-        	"frogSide": "left",
-        	"rotation": "180deg",
-        	"rightBug": "green",
-        	"leftBug": "blue",
-          		"rightSpotlight": false,
-          		"leftSpotlight": false
-    	},
-    	{
-		"type": "bee",
-        	"frogColor": "green",
-        	"frogSide": "left",
-        	"rotation": "180deg",
-        	"rightBug": "green",
-        	"leftBug": "blue",
-          		"rightSpotlight": false,
-          		"leftSpotlight": false
-    	},
-    	{
-		"type": "bee",
-        	"frogColor": "green",
-        	"frogSide": "right",
-        	"rotation": "0deg",
-        	"rightBug": "green",
-        	"leftBug": "blue",
-          		"rightSpotlight": false,
-          		"leftSpotlight": false
-   	},
-    	{
-		"type": "bee",
-        	"frogColor": "green",
-        	"frogSide": "right",
-        	"rotation": "0deg",
-        	"rightBug": "green",
-        	"leftBug": "blue",
-          		"rightSpotlight": false,
-          		"leftSpotlight": false
-    	},
-    	{
-		"type": "bee",
-        	"frogColor": "green",
-        	"frogSide": "left",
-        	"rotation": "180deg",
-        	"rightBug": "green",
-        	"leftBug": "blue",
-          		"rightSpotlight": false,
-          		"leftSpotlight": false
-    	},
-    	{
-		"type": "bee",
-        	"frogColor": "blue",
-        	"frogSide": "right",
-        	"rotation": "0deg",
-        	"rightBug": "green",
-        	"leftBug": "blue",
-          		"rightSpotlight": false,
-          		"leftSpotlight": false
-    	},
-    	{
-		"type": "bee",
-        	"frogColor": "green",
-        	"frogSide": "left",
-        	"rotation": "180deg",
-        	"rightBug": "green",
-        	"leftBug": "blue",
-          		"rightSpotlight": false,
-          		"leftSpotlight": false
-    	},
-	{
-		"type": "bee",
-        	"frogColor": "green",
-        	"frogSide": "right",
-        	"rotation": "0deg",
-        	"rightBug": "blue",
-        	"leftBug": "green",
-          		"rightSpotlight": false,
-          		"leftSpotlight": false
-    	},
-    	{
-		"type": "bee",
-        	"frogColor": "blue",
-        	"frogSide": "right",
-        	"rotation": "0deg",
-        	"rightBug": "blue",
-        	"leftBug": "green",
-          		"rightSpotlight": false,
-          		"leftSpotlight": false
-    	},
-    	{
-		"type": "bee",
-        	"frogColor": "blue",
-        	"frogSide": "right",
-       		"rotation": "0deg",
-		"rightBug": "blue",
-		"leftBug": "green",
-		  	"rightSpotlight": false,
-		  	"leftSpotlight": false
-    	},
-    	{
-		"type": "bee",
-		"frogColor": "blue",
-		"frogSide": "left",
-		"rotation": "180deg",
-		"rightBug": "blue",
-		"leftBug": "green",
-		  	"rightSpotlight": false,
-		  	"leftSpotlight": false
-    	},
-    	{
-		"type": "bee",
-		"frogColor": "green",
-		"frogSide": "left",
-		"rotation": "180deg",
-		"rightBug": "green",
-		"leftBug": "blue",
-		  	"rightSpotlight": false,
-		  	"leftSpotlight": false
-    	},
-    	{
-		"type": "bee",
-		"frogColor": "blue",
-		"frogSide": "right",
-		"rotation": "0deg",
-		"rightBug": "green",
-		"leftBug": "blue",
-		  	"rightSpotlight": false,
-		  	"leftSpotlight": false
-    	},
-    	{
-		"type": "bee",
-		"frogColor": "green",
-		"frogSide": "right",
-		"rotation": "0deg",
-		"rightBug": "blue",
-		"leftBug": "green",
-		  	"rightSpotlight": false,
-		  	"leftSpotlight": false
-	},
-   	{
-		"type": "bee",
-		"frogColor": "green",
-		"frogSide": "left",
-		"rotation": "180deg",
-		"rightBug": "blue",
-		"leftBug": "green",
-		  	"rightSpotlight": false,
-		  	"leftSpotlight": false
-    	},
-    	{
-		"type": "bee",
-		"frogColor": "green",
-		"frogSide": "left",
-		"rotation": "180deg",
-		"rightBug": "blue",
-		"leftBug": "green",
-		  	"rightSpotlight": false,
-		  	"leftSpotlight": false
-    	},
-    	{
-		"type": "bee",
-		"frogColor": "green",
-		"frogSide": "right",
-		"rotation": "0deg",
-		"rightBug": "blue",
-		"leftBug": "green",
-		  	"rightSpotlight": false,
-		  	"leftSpotlight": false
-    	},
-    	{
-		"type": "bee",
-		"frogColor": "blue",
-		"frogSide": "left",
-		"rotation": "180deg",
-		"rightBug": "blue",
-		"leftBug": "green",
-		  	"rightSpotlight": false,
-		  	"leftSpotlight": false
-    	},
-    	{
-		"type": "bee",
-		"frogColor": "blue",
-		"frogSide": "right",
-		"rotation": "0deg",
-		"rightBug": "green",
-		"leftBug": "blue",
-		  	"rightSpotlight": false,
-		  	"leftSpotlight": false
-    	},
-    	{
-		"type": "bee",
-		"frogColor": "green",
-		"frogSide": "right",
-		"rotation": "0deg",
-		"rightBug": "green",
-		"leftBug": "blue",
-		  	"rightSpotlight": false,
-		  	"leftSpotlight": false
-    	},
-    	{
-		"type": "bee",
-		"frogColor": "green",
-		"frogSide": "right",
-		"rotation": "0deg",
-		"rightBug": "blue",
-		"leftBug": "green",
-		  	"rightSpotlight": false,
-		  	"leftSpotlight": false
-    	},
-    	{
-		"type": "bee",
-		"frogColor": "blue",
-		"frogSide": "left",
-		"rotation": "180deg",
-		"rightBug": "blue",
-		"leftBug": "green",
-		  	"rightSpotlight": false,
-		  	"leftSpotlight": false
-    	},
-    	{
-		"type": "bee",
-		"frogColor": "blue",
-		"frogSide": "right",
-		"rotation": "0deg",
-		"rightBug": "blue",
-		"leftBug": "green",
-		  	"rightSpotlight": false,
-		  	"leftSpotlight": false
-    	},
-    	{
-		"type": "bee",
-		"frogColor": "green",
-		"frogSide": "left",
-		"rotation": "180deg",
-		"rightBug": "blue",
-		"leftBug": "green",
-		  	"rightSpotlight": false,
-		  	"leftSpotlight": false
-    	},
-    	{
-		"type": "bee",
-		"frogColor": "green",
-		"frogSide": "right",
-		"rotation": "0deg",
-		"rightBug": "green",
-		"leftBug": "blue",
-		  	"rightSpotlight": false,
-		  	"leftSpotlight": false
-    	},
-    	{
-		"type": "bee",
-		"frogColor": "green",
-		"frogSide": "right",
-		"rotation": "0deg",
-		"rightBug": "green",
-		"leftBug": "blue",
-		  	"rightSpotlight": false,
-		  	"leftSpotlight": false
-    	},
-    	{
-		"type": "bee",
-		"frogColor": "green",
-		"frogSide": "right",
-		"rotation": "0deg",
-		"rightBug": "blue",
-		"leftBug": "green",
-		  	"rightSpotlight": false,
-		  	"leftSpotlight": false
-    	},
-    	{
-		"type": "bee",
-		"frogColor": "blue",
-		"frogSide": "left",
-		"rotation": "180deg",
-		"rightBug": "blue",
-		"leftBug": "green",
-		  	"rightSpotlight": false,
-		  	"leftSpotlight": false
-    	},
-    	{
-		"type": "bee",
-		"frogColor": "blue",
-		"frogSide": "left",
-		"rotation": "180deg",
-		"rightBug": "green",
-		"leftBug": "blue",
-		  	"rightSpotlight": false,
-		  	"leftSpotlight": false
-    	},
-    	{
-		"type": "bee",
-		"frogColor": "blue",
-		"frogSide": "right",
-		"rotation": "0deg",
-		"rightBug": "blue",
-		"leftBug": "green",
-		  	"rightSpotlight": false,
-		  	"leftSpotlight": false
-    	},
-    	{
-		"type": "bee",
-		"frogColor": "blue",
-		"frogSide": "left",
-		"rotation": "180deg",
-		"rightBug": "blue",
-		"leftBug": "green",
-		  	"rightSpotlight": false,
-		  	"leftSpotlight": false
-    	},
-    	{
-		"type": "bee",
-		"frogColor": "blue",
-		"frogSide": "right",
-		"rotation": "0deg",
-		"rightBug": "blue",
-		"leftBug": "green",
-		  	"rightSpotlight": false,
-		  	"leftSpotlight": false
-    	},
-    	{
-		"type": "bee",
-        	"frogColor": "blue",
-        	"frogSide": "left",
-        	"rotation": "180deg",
-        	"rightBug": "blue",
-        	"leftBug": "green",
-          		"rightSpotlight": false,
-          		"leftSpotlight": false
-    	},
-    	{
-		"type": "bee",
-		"frogColor": "blue",
-		"frogSide": "left",
-		"rotation": "180deg",
-		"rightBug": "green",
-		"leftBug": "blue",
-		  	"rightSpotlight": false,
-		  	"leftSpotlight": false
-    	},
-    	{
-		"type": "bee",
-		"frogColor": "blue",
-		"frogSide": "left",
-		"rotation": "180deg",
-		"rightBug": "blue",
-		"leftBug": "green",
-		  	"rightSpotlight": false,
-		  	"leftSpotlight": false
-    	},
-    	{
-		"type": "bee",
-		"frogColor": "blue",
-		"frogSide": "left",
-		"rotation": "180deg",
-		"rightBug": "green",
-		"leftBug": "blue",
-		  	"rightSpotlight": false,
-		  	"leftSpotlight": false
-    	},
-    	{
-		"type": "bee",
-        	"frogColor": "green",
-        	"frogSide": "left",
-        	"rotation": "180deg",
-        	"rightBug": "green",
-        	"leftBug": "blue",
-          		"rightSpotlight": false,
-          		"leftSpotlight": false
-    	},
-    	{
-		"type": "bee",
-        	"frogColor": "green",
-        	"frogSide": "left",
-        	"rotation": "180deg",
-        	"rightBug": "green",
-        	"leftBug": "blue",
-          		"rightSpotlight": false,
-          		"leftSpotlight": false
-    	},
-    	{
-		"type": "bee",
-        	"frogColor": "blue",
-        	"frogSide": "right",
-        	"rotation": "0deg",
-        	"rightBug": "blue",
-        	"leftBug": "green",
-          		"rightSpotlight": false,
-          		"leftSpotlight": false
-    	},
-    	{
-		"type": "bee",
-        	"frogColor": "green",
-        	"frogSide": "right",
-        	"rotation": "0deg",
-        	"rightBug": "green",
-        	"leftBug": "blue",
-          		"rightSpotlight": false,
-          		"leftSpotlight": false
-    	},
-    	{
-		"type": "bee",
-        	"frogColor": "green",
-        	"frogSide": "left",
-        	"rotation": "180deg",
-        	"rightBug": "blue",
-        	"leftBug": "green",
-          		"rightSpotlight": false,
-          		"leftSpotlight": false
-    	},
-    	{
-		"type": "bee",
-        	"frogColor": "green",
-        	"frogSide": "left",
-        	"rotation": "180deg",
-        	"rightBug": "green",
-        	"leftBug": "blue",
-          		"rightSpotlight": false,
-          		"leftSpotlight": false
-    	},
-    	{
-		"type": "bee",
-        	"frogColor": "green",
-        	"frogSide": "left",
-        	"rotation": "180deg",
-        	"rightBug": "green",
-        	"leftBug": "blue",
-          		"rightSpotlight": false,
-          		"leftSpotlight": false
-    	},
-    	{
-		"type": "bee",
-        	"frogColor": "green",
-        	"frogSide": "right",
-        	"rotation": "0deg",
-        	"rightBug": "green",
-        	"leftBug": "blue",
-          		"rightSpotlight": false,
-          		"leftSpotlight": false
-    	},
-    	{
-		"type": "bee",
-        	"frogColor": "blue",
-        	"frogSide": "left",
-        	"rotation": "180deg",
-        	"rightBug": "green",
-        	"leftBug": "blue",
-          		"rightSpotlight": false,
-          		"leftSpotlight": false
-    	},
-    	{
-		"type": "bee",
-        	"frogColor": "green",
-        	"frogSide": "left",
-        	"rotation": "180deg",
-        	"rightBug": "green",
-        	"leftBug": "blue",
-          		"rightSpotlight": false,
-          		"leftSpotlight": false
-    	},
-    	{
-		"type": "bee",
-        	"frogColor": "blue",
-        	"frogSide": "right",
-        	"rotation": "0deg",
-        	"rightBug": "blue",
-        	"leftBug": "green",
-          		"rightSpotlight": false,
-          		"leftSpotlight": false
-    	},
-    	{
-		"type": "bee",
-        	"frogColor": "blue",
-        	"frogSide": "left",
-        	"rotation": "180deg",
-        	"rightBug": "blue",
-        	"leftBug": "green",
-          		"rightSpotlight": false,
-          		"leftSpotlight": false
-    	},
-    	{
-		"type": "bee",
-        	"frogColor": "green",
-        	"frogSide": "left",
-        	"rotation": "180deg",
-        	"rightBug": "blue",
-        	"leftBug": "green",
-          		"rightSpotlight": false,
-          		"leftSpotlight": false
-    	},
-    	{
-		"type": "bee",
-        	"frogColor": "green",
-        	"frogSide": "right",
-        	"rotation": "0deg",
-        	"rightBug": "blue",
-        	"leftBug": "green",
-          		"rightSpotlight": false,
-          		"leftSpotlight": false
-    	},
-    	{
-		"type": "bee",
-        	"frogColor": "blue",
-        	"frogSide": "left",
-        	"rotation": "180deg",
-        	"rightBug": "blue",
-        	"leftBug": "green",
-          		"rightSpotlight": false,
-          		"leftSpotlight": false
-    	},
-    	{
-		"type": "bee",
-        	"frogColor": "green",
-        	"frogSide": "right",
-        	"rotation": "0deg",
-        	"rightBug": "blue",
-        	"leftBug": "green",
-          		"rightSpotlight": false,
-          		"leftSpotlight": false
-    	},
-    	{
-		"type": "bee",
-        	"frogColor": "green",
-        	"frogSide": "right",
-        	"rotation": "0deg",
-        	"rightBug": "blue",
-        	"leftBug": "green",
-          		"rightSpotlight": false,
-          		"leftSpotlight": false
-    	}
+        {
+            "type": "priming",
+            "frogColor": "blue",
+            "frogSide": "right",
+            "rotation": "0deg",
+            "rightBug": "blue",
+            "leftBug": "",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "priming",
+            "frogColor": "blue",
+            "frogSide": "left",
+            "rotation": "180deg",
+            "rightBug": "blue",
+            "leftBug": "",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "double",
+            "frogColor": "blue",
+            "frogSide": "right",
+            "rotation": "0deg",
+            "rightBug": "blue",
+            "leftBug": "green",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "double",
+            "frogColor": "blue",
+            "frogSide": "right",
+            "rotation": "0deg",
+            "rightBug": "blue",
+            "leftBug": "green",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "double",
+            "frogColor": "blue",
+            "frogSide": "left",
+            "rotation": "180deg",
+            "rightBug": "green",
+            "leftBug": "blue",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "double",
+            "frogColor": "green",
+            "frogSide": "left",
+            "rotation": "180deg",
+            "rightBug": "blue",
+            "leftBug": "green",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "double",
+            "frogColor": "green",
+            "frogSide": "left",
+            "rotation": "180deg",
+            "rightBug": "blue",
+            "leftBug": "green",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "double",
+            "frogColor": "green",
+            "frogSide": "right",
+            "rotation": "0deg",
+            "rightBug": "green",
+            "leftBug": "blue",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "blackout",
+            "frogColor": "green",
+            "frogSide": "right",
+            "rotation": "0deg",
+            "rightBug": "green",
+            "leftBug": "blue",
+                "rightSpotlight": true,
+                "leftSpotlight": false
+        },
+        {
+            "type": "blackout",
+            "frogColor": "green",
+            "frogSide": "right",
+            "rotation": "0deg",
+            "rightBug": "green",
+            "leftBug": "blue",
+                "rightSpotlight": true,
+                "leftSpotlight": false
+        },
+        {
+            "type": "blackout",
+            "frogColor": "green",
+            "frogSide": "right",
+            "rotation": "0deg",
+            "rightBug": "green",
+            "leftBug": "blue",
+                "rightSpotlight": true,
+                "leftSpotlight": false
+        },
+        {
+            "type": "blackout",
+            "frogColor": "blue",
+            "frogSide": "left",
+            "rotation": "180deg",
+            "rightBug": "green",
+            "leftBug": "blue",
+                "rightSpotlight": false,
+                "leftSpotlight": true
+        },
+        {
+            "type": "blackout",
+            "frogColor": "blue",
+            "frogSide": "left",
+            "rotation": "180deg",
+            "rightBug": "green",
+            "leftBug": "blue",
+                "rightSpotlight": false,
+                "leftSpotlight": true
+        },
+        {
+            "type": "blackout",
+            "frogColor": "blue",
+            "frogSide": "left",
+            "rotation": "180deg",
+            "rightBug": "green",
+            "leftBug": "blue",
+                "rightSpotlight": false,
+                "leftSpotlight": true
+        },
+        {
+            "type": "blackout",
+            "frogColor": "blue",
+            "frogSide": "left",
+            "rotation": "180deg",
+            "rightBug": "green",
+            "leftBug": "blue",
+                "rightSpotlight": true,
+                "leftSpotlight": false
+        },
+        {
+        "type": "blackout",
+            "frogColor": "blue",
+            "frogSide": "left",
+            "rotation": "180deg",
+            "rightBug": "green",
+            "leftBug": "blue",
+                "rightSpotlight": true,
+                "leftSpotlight": false
+        },
+        {
+            "type": "blackout",
+            "frogColor": "blue",
+            "frogSide": "left",
+            "rotation": "180deg",
+            "rightBug": "green",
+            "leftBug": "blue",
+                "rightSpotlight": true,
+                "leftSpotlight": false
+        },
+        {
+            "type": "blackout",
+            "frogColor": "green",
+            "frogSide": "right",
+            "rotation": "0deg",
+            "rightBug": "green",
+            "leftBug": "blue",
+                "rightSpotlight": false,
+                "leftSpotlight": true
+        },
+        {
+        "type": "blackout",
+            "frogColor": "green",
+            "frogSide": "right",
+            "rotation": "0deg",
+            "rightBug": "green",
+            "leftBug": "blue",
+                "rightSpotlight": false,
+                "leftSpotlight": true
+        },
+        {
+            "type": "blackout",
+            "frogColor": "green",
+            "frogSide": "right",
+            "rotation": "0deg",
+            "rightBug": "green",
+            "leftBug": "blue",
+                "rightSpotlight": false,
+                "leftSpotlight": true
+        },
+        {
+            "type": "blackout",
+            "frogColor": "green",
+            "frogSide": "left",
+            "rotation": "180deg",
+            "rightBug": "blue",
+            "leftBug": "green",
+                "rightSpotlight": true,
+                "leftSpotlight": false
+        },
+        {
+            "type": "blackout",
+            "frogColor": "green",
+            "frogSide": "left",
+            "rotation": "180deg",
+            "rightBug": "blue",
+            "leftBug": "green",
+                "rightSpotlight": true,
+                "leftSpotlight": false
+        },
+        {
+            "type": "blackout",
+            "frogColor": "green",
+            "frogSide": "left",
+            "rotation": "180deg",
+            "rightBug": "blue",
+            "leftBug": "green",
+                "rightSpotlight": true,
+                "leftSpotlight": false
+        },
+        {
+            "type": "blackout",
+            "frogColor": "green",
+            "frogSide": "left",
+            "rotation": "180deg",
+            "rightBug": "blue",
+            "leftBug": "green",
+                "rightSpotlight": false,
+                "leftSpotlight": true
+        },
+        {
+            "type": "blackout",
+            "frogColor": "green",
+            "frogSide": "left",
+            "rotation": "180deg",
+            "rightBug": "blue",
+            "leftBug": "green",
+                "rightSpotlight": false,
+                "leftSpotlight": true
+        },
+        {
+            "type": "blackout",
+            "frogColor": "green",
+            "frogSide": "left",
+            "rotation": "180deg",
+            "rightBug": "blue",
+            "leftBug": "green",
+                "rightSpotlight": false,
+                "leftSpotlight": true
+        },
+        {
+            "type": "blackout",
+            "frogColor": "blue",
+            "frogSide": "right",
+            "rotation": "0deg",
+            "rightBug": "blue",
+            "leftBug": "green",
+                "rightSpotlight": false,
+                "leftSpotlight": true
+        },
+        {
+            "type": "blackout",
+            "frogColor": "blue",
+            "frogSide": "right",
+            "rotation": "0deg",
+            "rightBug": "blue",
+            "leftBug": "green",
+                "rightSpotlight": false,
+                "leftSpotlight": true
+        },
+        {
+            "type": "blackout",
+            "frogColor": "blue",
+            "frogSide": "right",
+            "rotation": "0deg",
+            "rightBug": "blue",
+            "leftBug": "green",
+                "rightSpotlight": false,
+                "leftSpotlight": true
+        },
+        {
+            "type": "blackout",
+            "frogColor": "blue",
+            "frogSide": "right",
+            "rotation": "0deg",
+            "rightBug": "blue",
+            "leftBug": "green",
+                "rightSpotlight": true,
+                "leftSpotlight": false
+        },
+        {
+            "type": "blackout",
+            "frogColor": "blue",
+            "frogSide": "right",
+            "rotation": "0deg",
+            "rightBug": "blue",
+            "leftBug": "green",
+                "rightSpotlight": true,
+                "leftSpotlight": false
+        },
+        {
+            "type": "blackout",
+            "frogColor": "blue",
+            "frogSide": "right",
+            "rotation": "0deg",
+            "rightBug": "blue",
+            "leftBug": "green",
+                "rightSpotlight": true,
+                "leftSpotlight": false
+        },
+        {
+            "type": "bee",
+            "frogColor": "blue",
+            "frogSide": "left",
+            "rotation": "180deg",
+            "rightBug": "green",
+            "leftBug": "blue",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "bee",
+            "frogColor": "blue",
+            "frogSide": "right",
+            "rotation": "0deg",
+            "rightBug": "blue",
+            "leftBug": "green",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "bee",
+            "frogColor": "green",
+            "frogSide": "left",
+            "rotation": "180deg",
+            "rightBug": "blue",
+            "leftBug": "green",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "bee",
+            "frogColor": "green",
+            "frogSide": "right",
+            "rotation": "0deg",
+            "rightBug": "green",
+            "leftBug": "blue",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "bee",
+            "frogColor": "blue",
+            "frogSide": "left",
+            "rotation": "180deg",
+            "rightBug": "green",
+            "leftBug": "blue",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "bee",
+            "frogColor": "green",
+            "frogSide": "right",
+            "rotation": "0deg",
+            "rightBug": "green",
+            "leftBug": "blue",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "bee",
+            "frogColor": "blue",
+            "frogSide": "right",
+            "rotation": "0deg",
+            "rightBug": "blue",
+            "leftBug": "green",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "bee",
+            "frogColor": "green",
+            "frogSide": "left",
+            "rotation": "180deg",
+            "rightBug": "blue",
+            "leftBug": "green",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "bee",
+            "frogColor": "green",
+            "frogSide": "left",
+            "rotation": "180deg",
+            "rightBug": "blue",
+            "leftBug": "green",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "bee",
+            "frogColor": "green",
+            "frogSide": "right",
+            "rotation": "0deg",
+            "rightBug": "green",
+            "leftBug": "blue",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "bee",
+            "frogColor": "green",
+            "frogSide": "right",
+            "rotation": "0deg",
+            "rightBug": "green",
+            "leftBug": "blue",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "bee",
+            "frogColor": "green",
+            "frogSide": "left",
+            "rotation": "180deg",
+            "rightBug": "blue",
+            "leftBug": "green",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "bee",
+            "frogColor": "blue",
+            "frogSide": "right",
+            "rotation": "0deg",
+            "rightBug": "blue",
+            "leftBug": "green",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "bee",
+            "frogColor": "green",
+            "frogSide": "left",
+            "rotation": "180deg",
+            "rightBug": "blue",
+            "leftBug": "green",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "bee",
+            "frogColor": "green",
+            "frogSide": "right",
+            "rotation": "0deg",
+            "rightBug": "green",
+            "leftBug": "blue",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "bee",
+            "frogColor": "blue",
+            "frogSide": "right",
+            "rotation": "0deg",
+            "rightBug": "blue",
+            "leftBug": "green",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "bee",
+            "frogColor": "blue",
+            "frogSide": "right",
+            "rotation": "0deg",
+            "rightBug": "blue",
+            "leftBug": "green",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "bee",
+            "frogColor": "blue",
+            "frogSide": "left",
+            "rotation": "180deg",
+            "rightBug": "green",
+            "leftBug": "blue",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "bee",
+            "frogColor": "green",
+            "frogSide": "left",
+            "rotation": "180deg",
+            "rightBug": "blue",
+            "leftBug": "green",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "bee",
+            "frogColor": "blue",
+            "frogSide": "right",
+            "rotation": "0deg",
+            "rightBug": "blue",
+            "leftBug": "green",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "bee",
+            "frogColor": "green",
+            "frogSide": "right",
+            "rotation": "0deg",
+            "rightBug": "green",
+            "leftBug": "blue",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "bee",
+            "frogColor": "green",
+            "frogSide": "left",
+            "rotation": "180deg",
+            "rightBug": "blue",
+            "leftBug": "green",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "bee",
+            "frogColor": "green",
+            "frogSide": "left",
+            "rotation": "180deg",
+            "rightBug": "blue",
+            "leftBug": "green",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "bee",
+            "frogColor": "green",
+            "frogSide": "right",
+            "rotation": "0deg",
+            "rightBug": "green",
+            "leftBug": "blue",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "bee",
+            "frogColor": "blue",
+            "frogSide": "left",
+            "rotation": "180deg",
+            "rightBug": "green",
+            "leftBug": "blue",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "bee",
+            "frogColor": "blue",
+            "frogSide": "right",
+            "rotation": "0deg",
+            "rightBug": "blue",
+            "leftBug": "green",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "bee",
+            "frogColor": "green",
+            "frogSide": "right",
+            "rotation": "0deg",
+            "rightBug": "green",
+            "leftBug": "blue",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "bee",
+            "frogColor": "green",
+            "frogSide": "right",
+            "rotation": "0deg",
+            "rightBug": "green",
+            "leftBug": "blue",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "bee",
+            "frogColor": "blue",
+            "frogSide": "left",
+            "rotation": "180deg",
+            "rightBug": "green",
+            "leftBug": "blue",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "bee",
+            "frogColor": "blue",
+            "frogSide": "right",
+            "rotation": "0deg",
+            "rightBug": "blue",
+            "leftBug": "green",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "bee",
+            "frogColor": "green",
+            "frogSide": "left",
+            "rotation": "180deg",
+            "rightBug": "blue",
+            "leftBug": "green",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "bee",
+            "frogColor": "green",
+            "frogSide": "right",
+            "rotation": "0deg",
+            "rightBug": "green",
+            "leftBug": "blue",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "bee",
+            "frogColor": "green",
+            "frogSide": "right",
+            "rotation": "0deg",
+            "rightBug": "green",
+            "leftBug": "blue",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "bee",
+            "frogColor": "green",
+            "frogSide": "right",
+            "rotation": "0deg",
+            "rightBug": "green",
+            "leftBug": "blue",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "bee",
+            "frogColor": "blue",
+            "frogSide": "left",
+            "rotation": "180deg",
+            "rightBug": "green",
+            "leftBug": "blue",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "bee",
+            "frogColor": "blue",
+            "frogSide": "left",
+            "rotation": "180deg",
+            "rightBug": "green",
+            "leftBug": "blue",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "bee",
+            "frogColor": "blue",
+            "frogSide": "right",
+            "rotation": "0deg",
+            "rightBug": "blue",
+            "leftBug": "green",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "bee",
+            "frogColor": "blue",
+            "frogSide": "left",
+            "rotation": "180deg",
+            "rightBug": "green",
+            "leftBug": "blue",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "bee",
+            "frogColor": "blue",
+            "frogSide": "right",
+            "rotation": "0deg",
+            "rightBug": "blue",
+            "leftBug": "green",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "bee",
+            "frogColor": "blue",
+            "frogSide": "left",
+            "rotation": "180deg",
+            "rightBug": "green",
+            "leftBug": "blue",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "bee",
+            "frogColor": "blue",
+            "frogSide": "left",
+            "rotation": "180deg",
+            "rightBug": "green",
+            "leftBug": "blue",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "bee",
+            "frogColor": "blue",
+            "frogSide": "left",
+            "rotation": "180deg",
+            "rightBug": "green",
+            "leftBug": "blue",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "bee",
+            "frogColor": "blue",
+            "frogSide": "left",
+            "rotation": "180deg",
+            "rightBug": "green",
+            "leftBug": "blue",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "bee",
+            "frogColor": "green",
+            "frogSide": "left",
+            "rotation": "180deg",
+            "rightBug": "blue",
+            "leftBug": "green",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "bee",
+            "frogColor": "green",
+            "frogSide": "left",
+            "rotation": "180deg",
+            "rightBug": "blue",
+            "leftBug": "green",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "bee",
+            "frogColor": "blue",
+            "frogSide": "right",
+            "rotation": "0deg",
+            "rightBug": "blue",
+            "leftBug": "green",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "bee",
+            "frogColor": "green",
+            "frogSide": "right",
+            "rotation": "0deg",
+            "rightBug": "green",
+            "leftBug": "blue",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "bee",
+            "frogColor": "green",
+            "frogSide": "left",
+            "rotation": "180deg",
+            "rightBug": "blue",
+            "leftBug": "green",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "bee",
+            "frogColor": "green",
+            "frogSide": "left",
+            "rotation": "180deg",
+            "rightBug": "blue",
+            "leftBug": "green",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "bee",
+            "frogColor": "green",
+            "frogSide": "left",
+            "rotation": "180deg",
+            "rightBug": "blue",
+            "leftBug": "green",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+        "type": "bee",
+            "frogColor": "green",
+            "frogSide": "right",
+            "rotation": "0deg",
+            "rightBug": "blue",
+            "leftBug": "green",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "bee",
+            "frogColor": "blue",
+            "frogSide": "left",
+            "rotation": "180deg",
+            "rightBug": "green",
+            "leftBug": "blue",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "bee",
+            "frogColor": "green",
+            "frogSide": "left",
+            "rotation": "180deg",
+            "rightBug": "blue",
+            "leftBug": "green",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "bee",
+            "frogColor": "blue",
+            "frogSide": "right",
+            "rotation": "0deg",
+            "rightBug": "blue",
+            "leftBug": "green",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "bee",
+            "frogColor": "blue",
+            "frogSide": "left",
+            "rotation": "180deg",
+            "rightBug": "green",
+            "leftBug": "blue",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "bee",
+            "frogColor": "green",
+            "frogSide": "left",
+            "rotation": "180deg",
+            "rightBug": "blue",
+            "leftBug": "green",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "bee",
+            "frogColor": "green",
+            "frogSide": "right",
+            "rotation": "0deg",
+            "rightBug": "green",
+            "leftBug": "blue",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "bee",
+            "frogColor": "blue",
+            "frogSide": "left",
+            "rotation": "180deg",
+            "rightBug": "green",
+            "leftBug": "blue",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "bee",
+            "frogColor": "green",
+            "frogSide": "right",
+            "rotation": "0deg",
+            "rightBug": "green",
+            "leftBug": "blue",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        },
+        {
+            "type": "bee",
+            "frogColor": "green",
+            "frogSide": "right",
+            "rotation": "0deg",
+            "rightBug": "green",
+            "leftBug": "blue",
+                "rightSpotlight": false,
+                "leftSpotlight": false
+        }
 ]
