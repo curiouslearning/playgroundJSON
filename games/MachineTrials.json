@@ -1,380 +1,379 @@
-//
 {
 	"receptive-vocabulary":[{"1":[{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["SOAP", "DIAPER", "COOKIE", "ORANGE"],
-		"audioFile": "soap_sound.wav",
+		"animationKeys": ["soap_word.jpg", "diaper_word.jpg", "cookie_word.jpg", "orange_word.jpg"],
+		"audioFile": "soap_word.wav",
 		"numRows": "2",
-		"correct": "SOAP"
+		"correct": "soap_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["COOKIE", "DIAPER", "PANTS", "CRAYON"],
-		"audioFile": "pants_sound.wav",
+		"animationKeys": ["cookie_word.jpg", "diaper_word.jpg", "pants_word.jpg", "crayon_word.jpg"],
+		"audioFile": "pants_word.wav",
 		"numRows": "2",
-		"correct": "PANTS"
+		"correct": "pants_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["SOAP", "CRAYON", "ORANGE", "DIAPER"],
-		"audioFile": "diaper_sound.wav",
+		"animationKeys": ["soap_word.jpg", "crayon_word.jpg", "orange_word.jpg", "diaper_word.jpg"],
+		"audioFile": "diaper_word.wav",
 		"numRows": "2",
-		"correct": "DIAPER"
+		"correct": "diaper_word.jpg"
 	}]},
 	{"2":[{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["BOOT", "BOOK", "PLANT", "PEAR"],
-		"audioFile": "boot_sound.wav",
+		"animationKeys": ["boot_word.jpg", "book_word.jpg", "plant_word.jpg", "pear_word.jpg"],
+		"audioFile": "boot_word.wav",
 		"numRows": "2",
-		"correct": "BOOT"
+		"correct": "boot_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["FORK", "KEY", "SHIRT", "CANDY"],
-		"audioFile": "key_sound.wav",
+		"animationKeys": ["fork_word.jpg", "key_word.jpg", "shirt_word.jpg", "candy_word.jpg"],
+		"audioFile": "key_word.wav",
 		"numRows": "2",
-		"correct": "KEY"
+		"correct": "key_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["PLATE", "KEY", "PEAR", "PLANT"],
-		"audioFile": "plate_sound.wav",
+		"animationKeys": ["plate_word.jpg", "key_word.jpg", "pear_word.jpg", "plant_word.jpg"],
+		"audioFile": "plate_word.wav",
 		"numRows": "2",
-		"correct": "PLATE"
+		"correct": "plate_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["GRAPE", "DOLL", "LAMP", "BANANA"],
-		"audioFile": "lamp_sound.wav",
+		"animationKeys": ["grape_word.jpg", "doll_word.jpg", "lamp_word.jpg", "banana_word.jpg"],
+		"audioFile": "lamp_word.wav",
 		"numRows": "2",
-		"correct": "LAMP"
+		"correct": "lamp_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["BOOT", "PLATE", "DOLL", "RICE"],
-		"audioFile": "rice_sound.wav",
+		"animationKeys": ["boot_word.jpg", "plate_word.jpg", "doll_word.jpg", "rice_word.jpg"],
+		"audioFile": "rice_word.wav",
 		"numRows": "2",
-		"correct": "RICE"
+		"correct": "rice_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["LAMP", "RICE", "BANANA", "BOOK"],
-		"audioFile": "book_sound.wav",
+		"animationKeys": ["lamp_word.jpg", "rice_word.jpg", "banana_word.jpg", "book_word.jpg"],
+		"audioFile": "book_word.wav",
 		"numRows": "2",
-		"correct": "BOOK"
+		"correct": "book_word.jpg"
 	}]},
 	{"3":[{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["WATERMELON", "APPLE", "SCISSORS", "CHALK"],
-		"audioFile": "apple_sound.wav",
+		"animationKeys": ["watermelon_word.jpg", "apple_word.jpg", "scissors_word.jpg", "chalk_word.jpg"],
+		"audioFile": "apple_word.wav",
 		"numRows": "2",
-		"correct": "APPLE"
+		"correct": "apple_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["CLOCK", "KNIFE", "TOOTHBRUSH", "BOWL"],
-		"audioFile": "clock_sound.wav",
+		"animationKeys": ["clock_word.jpg", "knife_word.jpg", "toothbrush_word.jpg", "bowl_word.jpg"],
+		"audioFile": "clock_word.wav",
 		"numRows": "2",
-		"correct": "CLOCK"
+		"correct": "clock_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["SCISSORS", "BALLOON", "APPLE", "BOWL"],
-		"audioFile": "bowl_sound.wav",
+		"animationKeys": ["scissors_word.jpg", "balloon_word.jpg", "apple_word.jpg", "bowl_word.jpg"],
+		"audioFile": "bowl_word.wav",
 		"numRows": "2",
-		"correct": "BOWL"
+		"correct": "bowl_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["WHEEL", "WATCH", "BALLOON", "CHALK"],
-		"audioFile": "balloon_sound.wav",
+		"animationKeys": ["wheel_word.jpg", "watch_word.jpg", "balloon_word.jpg", "chalk_word.jpg"],
+		"audioFile": "balloon_word.wav",
 		"numRows": "2",
-		"correct": "BALLOON"
+		"correct": "balloon_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["CHALK", "SHOELACE", "STRAW", "CLOCK"],
-		"audioFile": "chalk_sound.wav",
+		"animationKeys": ["chalk_word.jpg", "shoelace_word.jpg", "straw_word.jpg", "clock_word.jpg"],
+		"audioFile": "chalk_word.wav",
 		"numRows": "2",
-		"correct": "CHALK"
+		"correct": "chalk_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["STRAWBERRY", "TOOTHBRUSH", "PENCIL", "WATERMELON"],
-		"audioFile": "watermelon_sound.wav",
+		"animationKeys": ["strawberry_word.jpg", "toothbrush_word.jpg", "pencil_word.jpg", "watermelon_word.jpg"],
+		"audioFile": "watermelon_word.wav",
 		"numRows": "2",
-		"correct": "WATERMELON"
+		"correct": "watermelon_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["PEANUT", "TOMATO", "BUTTON", "FEATHER"],
-		"audioFile": "button_sound.wav",
+		"animationKeys": ["peanut_word.jpg", "tomato_word.jpg", "button_word.jpg", "feather_word.jpg"],
+		"audioFile": "button_word.wav",
 		"numRows": "2",
-		"correct": "BUTTON"
+		"correct": "button_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["PEANUT", "SPONGE", "TOMATO", "ERASER"],
-		"audioFile": "sponge_sound.wav",
+		"animationKeys": ["peanut_word.jpg", "sponge_word.jpg", "tomato_word.jpg", "eraser_word.jpg"],
+		"audioFile": "sponge_word.wav",
 		"numRows": "2",
-		"correct": "SPONGE"
+		"correct": "sponge_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["BELT", "BUTTON", "BIB", "SPONGE"],
-		"audioFile": "belt_sound.wav",
+		"animationKeys": ["belt_word.jpg", "button_word.jpg", "bib_word.jpg", "sponge_word.jpg"],
+		"audioFile": "belt_word.wav",
 		"numRows": "2",
-		"correct": "BELT"
+		"correct": "belt_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["BASEBALL", "POTATO", "RING", "LEAF"],
-		"audioFile": "ring_sound.wav",
+		"animationKeys": ["baseball", "potato", "ring", "leaf"],
+		"audioFile": "ring_word.wav",
 		"numRows": "2",
-		"correct": "RING"
+		"correct": "ring"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["NECKLACE", "PIZZA", "PEANUT", "LEMON"],
-		"audioFile": "peanut_sound.wav",
+		"animationKeys": ["necklace_word.jpg", "pizza_word.jpg", "peanut_word.jpg", "lemon_word.jpg"],
+		"audioFile": "peanut_word.wav",
 		"numRows": "2",
-		"correct": "PEANUT"
+		"correct": "peanut_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["MARKER", "BELT", "BANDAID", "BASEBALL"],
-		"audioFile": "marker_sound.wav",
+		"animationKeys": ["marker_word.jpg", "belt_word.jpg", "bandaid_word.jpg", "baseball_word.jpg"],
+		"audioFile": "marker_word.wav",
 		"numRows": "2",
-		"correct": "MARKER"
+		"correct": "marker_word.jpg"
 	}]},
 	{"4":[{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["PLUM", "ROPE", "NAIL", "COMB"],
-		"audioFile": "comb_sound.wav",
+		"animationKeys": ["plum", "rope", "nail", "comb"],
+		"audioFile": "comb_word.wav",
 		"numRows": "2",
-		"correct": "COMB"
+		"correct": "comb"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["BACKPACK", "CANDLE", "RADISH", "HAMMER"],
-		"audioFile": "hammer_sound.wav",
+		"animationKeys": ["backpack_word.jpg", "candle_word.jpg", "radish_word.jpg", "hammer_word.jpg"],
+		"audioFile": "hammer_word.wav",
 		"numRows": "2",
-		"correct": "HAMMER"
+		"correct": "hammer_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["SAW", "CHAIN", "RIBBON", "PEN"],
-		"audioFile": "pen_sound.wav",
+		"animationKeys": ["saw_word.jpg", "chain_word.jpg", "ribbon_word.jpg", "pen_word.jpg"],
+		"audioFile": "pen_word.wav",
 		"numRows": "2",
-		"correct": "PEN"
+		"correct": "pen_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["COMB", "LIPSTICK", "BROCCOLI", "TOILETPAPER"],
-		"audioFile": "toiletpaper_sound.wav",
+		"animationKeys": ["comb_word.jpg", "lipstick_word.jpg", "broccoli_word.jpg", "toiletpaper_word.jpg"],
+		"audioFile": "toiletpaper_word.wav",
 		"numRows": "2",
-		"correct": "TOILETPAPER"
+		"correct": "toiletpaper_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["HAMMER", "CANDLE", "BROOM", "SLIPPER"],
-		"audioFile": "candle_sound.wav",
+		"animationKeys": ["hammer_word.jpg", "candle_word.jpg", "broom_word.jpg", "slipper_word.jpg"],
+		"audioFile": "candle_word.wav",
 		"numRows": "2",
-		"correct": "CANDLE"
+		"correct": "candle_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["SANDAL", "BROCCOLI", "PEN", "RIBBON"],
-		"audioFile": "sandal_sound.wav",
+		"animationKeys": ["sandal_word.jpg", "broccoli_word.jpg", "pen_word.jpg", "ribbon_word.jpg"],
+		"audioFile": "sandal_word.wav",
 		"numRows": "2",
-		"correct": "SANDAL"
+		"correct": "sandal_word.jpg"
 	}]},
 	{"5":[{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["SCARF", "RULER", "BASKET", "ASHTRAY"],
-		"audioFile": "basket_sound.wav",
+		"animationKeys": ["scarf_word.jpg", "ruler_word.jpg", "basket_word.jpg", "ashtray_word.jpg"],
+		"audioFile": "basket_word.wav",
 		"numRows": "2",
-		"correct": "BASKET"
+		"correct": "basket_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["CUCUMBER", "RULER", "LIGHTBULB", "FLASHLIGHT"],
-		"audioFile": "ruler_sound.wav",
+		"animationKeys": ["cucumber_word.jpg", "ruler_word.jpg", "lightbulb_word.jpg", "flashlight_word.jpg"],
+		"audioFile": "ruler_word.wav",
 		"numRows": "2",
-		"correct": "RULER"
+		"correct": "ruler_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["CHERRY", "UMBRELLA", "STAPLER", "MATCH"],
-		"audioFile": "stapler_sound.wav",
+		"animationKeys": ["cherry_word.jpg", "umbrella_word.jpg", "stapler_word.jpg", "match_word.jpg"],
+		"audioFile": "stapler_word.wav",
 		"numRows": "2",
-		"correct": "STAPLER"
+		"correct": "stapler_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["MATCH", "FAN", "CELERY", "SCARF"],
-		"audioFile": "match_sound.wav",
+		"animationKeys": ["match_word.jpg", "fan_word.jpg", "celery_word.jpg", "scarf_word.jpg"],
+		"audioFile": "match_word.wav",
 		"numRows": "2",
-		"correct": "MATCH"
+		"correct": "match_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["BATTERY", "CELERY", "SUNGLASSES", "LIGHTBULB"],
-		"audioFile": "battery_sound.wav",
+		"animationKeys": ["battery_word.jpg", "celery_word.jpg", "sunglasses_word.jpg", "lightbulb_word.jpg"],
+		"audioFile": "battery_word.wav",
 		"numRows": "2",
-		"correct": "BATTERY"
+		"correct": "battery_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["BASKET", "SCREWDRIVER", "SEWINGMACHINE", "SUNGLASSES"],
-		"audioFile": "screwdriver_sound.wav",
+		"animationKeys": ["basket_word.jpg", "screwdriver_word.jpg", "sewingmachine_word.jpg", "sunglasses_word.jpg"],
+		"audioFile": "screwdriver_word.wav",
 		"numRows": "2",
-		"correct": "SCREWDRIVER"
+		"correct": "screwdriver_word.jpg"
 	}]},
 	{"6":[{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["AXE", "DICE", "TEAPOT", "GLOBE"],
-		"audioFile": "globe_sound.wav",
+		"animationKeys": ["axe_word.jpg", "dice_word.jpg", "teapot_word.jpg", "globe_word.jpg"],
+		"audioFile": "globe_word.wav",
 		"numRows": "2",
-		"correct": "GLOBE"
+		"correct": "globe_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["CIGARETTE", "ENVELOPE", "DUSTPAN", "PAPERCLIP"],
-		"audioFile": "paperclip_sound.wav",
+		"animationKeys": ["cigarette_word.jpg", "envelope_word.jpg", "dustpan_word.jpg", "paperclip_word.jpg"],
+		"audioFile": "paperclip_word.wav",
 		"numRows": "2",
-		"correct": "PAPERCLIP"
+		"correct": "paperclip_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["PAINTBRUSH", "BLUEBERRY", "GLOBE", "BRICK"],
-		"audioFile": "paintbrush_sound.wav",
+		"animationKeys": ["paintbrush_word.jpg", "blueberry_word.jpg", "globe_word.jpg", "brick_word.jpg"],
+		"audioFile": "paintbrush_word.wav",
 		"numRows": "2",
-		"correct": "PAINTBRUSH"
+		"correct": "paintbrush_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["MUSHROOM", "SPEAKER", "BLUEBERRY", "PAINTBRUSH"],
-		"audioFile": "blueberry_sound.wav",
+		"animationKeys": ["mushroom_word.jpg", "speaker_word.jpg", "blueberry_word.jpg", "paintbrush_word.jpg"],
+		"audioFile": "blueberry_word.wav",
 		"numRows": "2",
-		"correct": "BLUEBERRY"
+		"correct": "blueberry_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["DUSTPAN", "PINEAPPLE", "ONION", "CAULIFLOWER"],
-		"audioFile": "dustpan_sound.wav",
+		"animationKeys": ["dustpan_word.jpg", "pineapple_word.jpg", "onion_word.jpg", "cauliflower_word.jpg"],
+		"audioFile": "dustpan_word.wav",
 		"numRows": "2",
-		"correct": "DUSTPAN"
+		"correct": "dustpan_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["BRICK", "MUSHROOM", "ONION", "TEAPOT"],
-		"audioFile": "mushroom_sound.wav",
+		"animationKeys": ["brick_word.jpg", "mushroom_word.jpg", "onion_word.jpg", "teapot_word.jpg"],
+		"audioFile": "mushroom_word.wav",
 		"numRows": "2",
-		"correct": "MUSHROOM"
+		"correct": "mushroom_word.jpg"
 	}]},
 	{"7":[{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["PLIERS", "TOASTER", "HANGER", "SCREW"],
-		"audioFile": "screw_sound.wav",
+		"animationKeys": ["pliers_word.jpg", "toaster_word.jpg", "hanger_word.jpg", "screw_word.jpg"],
+		"audioFile": "screw_word.wav",
 		"numRows": "2",
-		"correct": "SCREW"
+		"correct": "screw_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["TILE", "THERMOMETER", "HANGER", "MOUSETRAP"],
-		"audioFile": "hanger_sound.wav",
+		"animationKeys": ["tile_word.jpg", "thermometer_word.jpg", "hanger_word.jpg", "mousetrap_word.jpg"],
+		"audioFile": "hanger_word.wav",
 		"numRows": "2",
-		"correct": "HANGER"
+		"correct": "hanger_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["GARLIC", "MEDAL", "TOOTHPICK", "TEABAG"],
-		"audioFile": "medal_sound.wav",
+		"animationKeys": ["garlic_word.jpg", "medal_word.jpg", "toothpick_word.jpg", "teabag_word.jpg"],
+		"audioFile": "medal_word.wav",
 		"numRows": "2",
-		"correct": "MEDAL"
+		"correct": "medal_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["TOASTER", "BINOCULARS", "THERMOMETER", "TOOTHPICK"],
-		"audioFile": "thermometer_sound.wav",
+		"animationKeys": ["toaster_word.jpg", "binoculars_word.jpg", "thermometer_word.jpg", "toothpick_word.jpg"],
+		"audioFile": "thermometer_word.wav",
 		"numRows": "2",
-		"correct": "THERMOMETER"
+		"correct": "thermometer_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["GARLIC", "ASPARAGUS", "TILE", "MOUSETRAP"],
-		"audioFile": "tile_sound.wav",
+		"animationKeys": ["garlic_word.jpg", "asparagus_word.jpg", "tile_word.jpg", "mousetrap_word.jpg"],
+		"audioFile": "tile_word.wav",
 		"numRows": "2",
-		"correct": "TILE"
+		"correct": "tile_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["PLIERS", "TAMBOURINE", "SCREW", "ZUCCHINI"],
-		"audioFile": "pliers_sound.wav",
+		"animationKeys": ["pliers_word.jpg", "tambourine_word.jpg", "screw_word.jpg", "zucchini_word.jpg"],
+		"audioFile": "pliers_word.wav",
 		"numRows": "2",
-		"correct": "PLIERS"
+		"correct": "pliers_word.jpg"
 	}]},
 	{"8":[{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["STAPLE", "LIGHTER", "TWEEZERS", "IRON"],
-		"audioFile": "iron_sound.wav",
+		"animationKeys": ["staple_word.jpg", "lighter_word.jpg", "tweezers_word.jpg", "iron_word.jpg"],
+		"audioFile": "iron_word.wav",
 		"numRows": "2",
-		"correct": "IRON"
+		"correct": "iron_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["LIGHTER", "TWEEZERS", "IRON", "VIOLIN"],
-		"audioFile": "tweezers_sound.wav",
+		"animationKeys": ["lighter_word.jpg", "tweezers_word.jpg", "iron_word.jpg", "violin_word.jpg"],
+		"audioFile": "tweezers_word.wav",
 		"numRows": "2",
-		"correct": "TWEEZERS"
+		"correct": "tweezers_word.jpg"
 	}]}
 ],
 
@@ -382,434 +381,434 @@
   {"1":[{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["JAT", "BAB", "SEB", "WOG"],
-		"audioFile": "wog_sound.wav",
+		"animationKeys": ["jat_word.jpg", "bab_word.jpg", "seb_word.jpg", "wog_word.jpg"],
+		"audioFile": "wog_word.wav",
 		"numRows": "2",
-		"correct": "WOG"
+		"correct": "wog_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["ZAM", "JIT", "VOT", "MOT"],
-		"audioFile": "mot_sound.wav",
+		"animationKeys": ["zam_word.jpg", "jit_word.jpg", "vot_word.jpg", "mot_word.jpg"],
+		"audioFile": "mot_word.wav",
 		"numRows": "2",
-		"correct": "MOT"
+		"correct": "mot_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["TOB", "FUT", "WUB", "VAB"],
-		"audioFile": "tob_sound.wav",
+		"animationKeys": ["tob_word.jpg", "fut_word.jpg", "wub_word.jpg", "vab_word.jpg"],
+		"audioFile": "tob_word.wav",
 		"numRows": "2",
-		"correct": "TOB"
+		"correct": "tob_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["RIX", "BAX", "TAM", "NUD"],
-		"audioFile": "bax_sound.wav",
+		"animationKeys": ["rix_word.jpg", "bax_word.jpg", "tam_word.jpg", "nud_word.jpg"],
+		"audioFile": "bax_word.wav",
 		"numRows": "2",
-		"correct": "BAX"
+		"correct": "bax_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["FUG", "LAT", "BIP", "TID"],
-		"audioFile": "fug_sound.wav",
+		"animationKeys": ["fug_word.jpg", "lat_word.jpg", "bip_word.jpg", "tid_word.jpg"],
+		"audioFile": "fug_word.wav",
 		"numRows": "2",
-		"correct": "FUG"
+		"correct": "fug_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["NAR", "VUT", "SAB", "RET"],
-		"audioFile": "vut_sound.wav",
+		"animationKeys": ["nar_word.jpg", "vut_word.jpg", "sab_word.jpg", "ret_word.jpg"],
+		"audioFile": "vut_word.wav",
 		"numRows": "2",
-		"correct": "VUT"
+		"correct": "vut_word.jpg"
 	}]},
 	{"2":[{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["SOM", "NAM", "VUM", "MUN"],
-		"audioFile": "som_sound.wav",
+		"animationKeys": ["som_word.jpg", "nam_word.jpg", "vum_word.jpg", "mun_word.jpg"],
+		"audioFile": "som_word.wav",
 		"numRows": "2",
-		"correct": "SOM"
+		"correct": "som_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["TET", "DAT", "DIT", "DUT"],
-		"audioFile": "dat_sound.wav",
+		"animationKeys": ["tet_word.jpg", "dat_word.jpg", "dit_word.jpg", "dut_word.jpg"],
+		"audioFile": "dat_word.wav",
 		"numRows": "2",
-		"correct": "DAT"
+		"correct": "dat_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["FEP", "FOD", "FET", "FEG"],
-		"audioFile": "feg_sound.wav",
+		"animationKeys": ["fep_word.jpg", "fod_word.jpg", "fet_word.jpg", "feg_word.jpg"],
+		"audioFile": "feg_word.wav",
 		"numRows": "2",
-		"correct": "FEG"
+		"correct": "feg_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["FIP", "FUD", "FUP", "FUB"],
-		"audioFile": "fub_sound.wav",
+		"animationKeys": ["fip_word.jpg", "fud_word.jpg", "fup_word.jpg", "fub_word.jpg"],
+		"audioFile": "fub_word.wav",
 		"numRows": "2",
-		"correct": "FUB"
+		"correct": "fub_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["LEB", "LEV", "RAB", "LEF"],
-		"audioFile": "lev_sound.wav",
+		"animationKeys": ["leb_word.jpg", "lev_word.jpg", "rab_word.jpg", "lef_word.jpg"],
+		"audioFile": "lev_word.wav",
 		"numRows": "2",
-		"correct": "LEV"
+		"correct": "lev_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["HIX", "HOX", "GIX", "HAX"],
-		"audioFile": "hix_sound.wav",
+		"animationKeys": ["hix_word.jpg", "hox_word.jpg", "gix_word.jpg", "hax_word.jpg"],
+		"audioFile": "hix_word.wav",
 		"numRows": "2",
-		"correct": "HIX"
+		"correct": "hix_word.jpg"
 	}]},
 	{"3":[{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["TROM", "HASO", "YERD", "MULD"],
-		"audioFile": "haso_sound.wav",
+		"animationKeys": ["trom_word.jpg", "haso_word.jpg", "yerd_word.jpg", "muld_word.jpg"],
+		"audioFile": "haso_word.wav",
 		"numRows": "2",
-		"correct": "HASO"
+		"correct": "haso_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["SODE", "HOWN", "CIME", "DAKE"],
-		"audioFile": "sode_sound.wav",
+		"animationKeys": ["sode_word.jpg", "hown_word.jpg", "cime_word.jpg", "dake_word.jpg"],
+		"audioFile": "sode_word.wav",
 		"numRows": "2",
-		"correct": "SODE"
+		"correct": "sode_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["MAVE", "GIKE", "WISO", "CEFE"],
-		"audioFile": "mave_sound.wav",
+		"animationKeys": ["mave_word.jpg", "gike_word.jpg", "wiso_word.jpg", "cefe_word.jpg"],
+		"audioFile": "mave_word.wav",
 		"numRows": "2",
-		"correct": "MAVE"
+		"correct": "mave_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["WOWN", "KISH", "HIFT", "AGGS"],
-		"audioFile": "kish_sound.wav",
+		"animationKeys": ["wown_word.jpg", "kish_word.jpg", "hift_word.jpg", "aggs_word.jpg"],
+		"audioFile": "kish_word.wav",
 		"numRows": "2",
-		"correct": "KISH"
+		"correct": "kish_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["HILY", "DEST", "AWAT", "JUSO"],
-		"audioFile": "dest_sound.wav",
+		"animationKeys": ["hily_word.jpg", "dest_word.jpg", "awat_word.jpg", "juso_word.jpg"],
+		"audioFile": "dest_word.wav",
 		"numRows": "2",
-		"correct": "DEST"
+		"correct": "dest_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["SOST", "GIFE", "KINT", "TERY"],
-		"audioFile": "gife_sound.wav",
+		"animationKeys": ["sost_word.jpg", "gife_word.jpg", "kint_word.jpg", "tery_word.jpg"],
+		"audioFile": "gife_word.wav",
 		"numRows": "2",
-		"correct": "GIFE"
+		"correct": "gife_word.jpg"
 	}]},
 	{"4":[{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["TLOP", "DRUP", "TREP", "TROP"],
-		"audioFile": "trop_sound.wav",
+		"animationKeys": ["tlop_word.jpg", "drup_word.jpg", "trep_word.jpg", "trop_word.jpg"],
+		"audioFile": "trop_word.wav",
 		"numRows": "2",
-		"correct": "TROP"
+		"correct": "trop_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["GAMD", "HONB", "GAND", "GUNF"],
-		"audioFile": "gand_sound.wav",
+		"animationKeys": ["gamd_word.jpg", "honb_word.jpg", "gand_word.jpg", "gunf_word.jpg"],
+		"audioFile": "gand_word.wav",
 		"numRows": "2",
-		"correct": "GAND"
+		"correct": "gand_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["WALD", "WALB", "WALF", "WALP"],
-		"audioFile": "walp_sound.wav",
+		"animationKeys": ["wald_word.jpg", "walb_word.jpg", "walf_word.jpg", "walp_word.jpg"],
+		"audioFile": "walp_word.wav",
 		"numRows": "2",
-		"correct": "WALP"
+		"correct": "walp_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["FRAM", "PREN", "FREM", "BREM"],
-		"audioFile": "frem_sound.wav",
+		"animationKeys": ["fram_word.jpg", "pren_word.jpg", "frem_word.jpg", "brem_word.jpg"],
+		"audioFile": "frem_word.wav",
 		"numRows": "2",
-		"correct": "FREM"
+		"correct": "frem_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["LOLD", "RORD", "LORB", "RORF"],
-		"audioFile": "rord_sound.wav",
+		"animationKeys": ["lold_word.jpg", "rord_word.jpg", "lorb_word.jpg", "rorf_word.jpg"],
+		"audioFile": "rord_word.wav",
 		"numRows": "2",
-		"correct": "RORD"
+		"correct": "rord_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["GERF", "GILF", "HILF", "HULF"],
-		"audioFile": "hilf_sound.wav",
+		"animationKeys": ["gerf", "gilf", "hilf", "hulf"],
+		"audioFile": "hilf_word.wav",
 		"numRows": "2",
-		"correct": "HILF"
+		"correct": "hilf"
 	}]},
 	{"5":[{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["GOINS", "WORAY", "PLASS", "BORRY"],
-		"audioFile": "borry_sound.wav",
+		"animationKeys": ["goins", "woray", "plass", "borry"],
+		"audioFile": "borry_word.wav",
 		"numRows": "2",
-		"correct": "BORRY"
+		"correct": "borry_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["ROULT", "BROMS", "WROUT", "SMONG"],
-		"audioFile": "wrout_sound.wav",
+		"animationKeys": ["roult_word.jpg", "broms_word.jpg", "wrout_word.jpg", "smong_word.jpg"],
+		"audioFile": "wrout_word.wav",
 		"numRows": "2",
-		"correct": "WROUT"
+		"correct": "wrout_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["RADIA", "ARMEN", "TRULD", "GUARS"],
-		"audioFile": "radia_sound.wav",
+		"animationKeys": ["radia_word.jpg", "armen_word.jpg", "truld_word.jpg", "guars_word.jpg"],
+		"audioFile": "radia_word.wav",
 		"numRows": "2",
-		"correct": "RADIA"
+		"correct": "radia_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["YOULT", "YEANS", "FORRY", "VIVEN"],
-		"audioFile": "viven_sound.wav",
+		"animationKeys": ["yoult_word.jpg", "yeans_word.jpg", "forry_word.jpg", "viven_word.jpg"],
+		"audioFile": "viven_word.wav",
 		"numRows": "2",
-		"correct": "VIVEN"
+		"correct": "viven_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["UNTED", "THUGH", "WROVE", "ROULD"],
-		"audioFile": "wrove_sound.wav",
+		"animationKeys": ["unted_word.jpg", "thugh_word.jpg", "wrove_word.jpg", "rould_word.jpg"],
+		"audioFile": "wrove_word.wav",
 		"numRows": "2",
-		"correct": "WROVE"
+		"correct": "wrove_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["WIDED", "LARIS", "SHUMS", "COSES"],
-		"audioFile": "coses_sound.wav",
+		"animationKeys": ["wided_word.jpg", "laris_word.jpg", "shums_word.jpg", "coses_word.jpg"],
+		"audioFile": "coses_word.wav",
 		"numRows": "2",
-		"correct": "COSES"
+		"correct": "coses_word.jpg"
 	}]},
 	{"6":[{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["BAROD", "FOROD", "PIRIT", "FOROB"],
-		"audioFile": "forod_sound.wav",
+		"animationKeys": ["barod_word.jpg", "forod_word.jpg", "pirit_word.jpg", "forob_word.jpg"],
+		"audioFile": "forod_word.wav",
 		"numRows": "2",
-		"correct": "FOROD"
+		"correct": "forod_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["FRACE", "DRACE", "FRACO", "FLACE"],
-		"audioFile": "frace_sound.wav",
+		"animationKeys": ["frace_word.jpg", "drace_word.jpg", "fraco_word.jpg", "flace_word.jpg"],
+		"audioFile": "frace_word.wav",
 		"numRows": "2",
-		"correct": "FRACE"
+		"correct": "frace_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["GRING", "GROMG", "GRONG", "GRAMG"],
-		"audioFile": "grong_sound.wav",
+		"animationKeys": ["gring_word.jpg", "gromg_word.jpg", "grong_word.jpg", "gramg_word.jpg"],
+		"audioFile": "grong_word.wav",
 		"numRows": "2",
-		"correct": "GRONG"
+		"correct": "grong_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["PLAIL", "PLOIR", "PLAIR", "PRAIL"],
-		"audioFile": "plail_sound.wav",
+		"animationKeys": ["plail_word.jpg", "ploir_word.jpg", "plair_word.jpg", "prail_word.jpg"],
+		"audioFile": "plail_word.wav",
 		"numRows": "2",
-		"correct": "PLAIL"
+		"correct": "plail_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["TOLKS", "TELKS", "TARKS", "DERKS"],
-		"audioFile": "telks_sound.wav",
+		"animationKeys": ["tolks_word.jpg", "telks_word.jpg", "tarks_word.jpg", "derks_word.jpg"],
+		"audioFile": "telks_word.wav",
 		"numRows": "2",
-		"correct": "TELKS"
+		"correct": "telks_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["TWIMT", "TWINT", "TWUNT", "TWONT"],
-		"audioFile": "twint_sound.wav",
+		"animationKeys": ["twimt_word.jpg", "twint_word.jpg", "twunt_word.jpg", "twont_word.jpg"],
+		"audioFile": "twint_word.wav",
 		"numRows": "2",
-		"correct": "TWINT"
+		"correct": "twint_word.jpg"
 	}]},
 	{"7":[{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["RANOND", "RAMOMP", "RANONT", "RENOND"],
-		"audioFile": "ranond_sound.wav",
+		"animationKeys": ["ranond_word.jpg", "ramomp_word.jpg", "ranont_word.jpg", "renond_word.jpg"],
+		"audioFile": "ranond_word.wav",
 		"numRows": "2",
-		"correct": "RANOND"
+		"correct": "ranond_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["PINTER", "PIMTER", "PAMTER", "PINTEL"],
-		"audioFile": "pinter_sound.wav",
+		"animationKeys": ["pinter_word.jpg", "pimter_word.jpg", "pamter_word.jpg", "pintel_word.jpg"],
+		"audioFile": "pinter_word.wav",
 		"numRows": "2",
-		"correct": "PINTER"
+		"correct": "pinter_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["PLENED", "PLENOD", "FLEMOD", "PLENOT"],
-		"audioFile": "plenod_sound.wav",
+		"animationKeys": ["plened_word.jpg", "plenod_word.jpg", "flemod_word.jpg", "plenot_word.jpg"],
+		"audioFile": "plenod_word.wav",
 		"numRows": "2",
-		"correct": "PLENOD"
+		"correct": "plenod_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["RETIND", "LETIND", "RETUMD", "REDIMD"],
-		"audioFile": "retind_sound.wav",
+		"animationKeys": ["retind_word.jpg", "letind_word.jpg", "retumd_word.jpg", "redimd_word.jpg"],
+		"audioFile": "retind_word.wav",
 		"numRows": "2",
-		"correct": "RETIND"
+		"correct": "retind_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["DEHORN", "FEHORM", "BEHORN", "PEHOLN"],
-		"audioFile": "behorn_sound.wav",
+		"animationKeys": ["dehorn_word.jpg", "fehorm_word.jpg", "behorn_word.jpg", "peholn_word.jpg"],
+		"audioFile": "behorn_word.wav",
 		"numRows": "2",
-		"correct": "BEHORN"
+		"correct": "behorn_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["FOVITY", "BOVITY", "BAVIDY", "BOVIDY"],
-		"audioFile": "bovidy_sound.wav",
+		"animationKeys": ["fovity_word.jpg", "bovity_word.jpg", "bavidy_word.jpg", "bovidy_word.jpg"],
+		"audioFile": "bovidy_word.wav",
 		"numRows": "2",
-		"correct": "BOVIDY"
+		"correct": "bovidy_word.jpg"
 	}]},
 	{"8":[{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["BRAMBLE", "BROMBRE", "BLOMBLO", "BROMBLE"],
-		"audioFile": "bromble_sound.wav",
+		"animationKeys": ["bramble_word.jpg", "brombre_word.jpg", "blomblo_word.jpg", "bromble_word.jpg"],
+		"audioFile": "bromble_word.wav",
 		"numRows": "2",
-		"correct": "BROMBLE"
+		"correct": "bromble_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["PALTLER", "PALDLER", "BALDLER", "PARDLER"],
-		"audioFile": "paldler_sound.wav",
+		"animationKeys": ["paltler_word.jpg", "paldler_word.jpg", "baldler_word.jpg", "pardler_word.jpg"],
+		"audioFile": "paldler_word.wav",
 		"numRows": "2",
-		"correct": "PALDLER"
+		"correct": "paldler_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["REMCHED", "RENCHED", "REMCHOP", "RENCHEP"],
-		"audioFile": "renched_sound.wav",
+		"animationKeys": ["remched_word.jpg", "renched_word.jpg", "remchop_word.jpg", "renchep_word.jpg"],
+		"audioFile": "renched_word.wav",
 		"numRows": "2",
-		"correct": "RENCHED"
+		"correct": "renched_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["CAPORTY", "CABORTY", "CAPILTY", "CAFORTY"],
-		"audioFile": "caporty_sound.wav",
+		"animationKeys": ["caporty_word.jpg", "caborty_word.jpg", "capilty_word.jpg", "caforty_word.jpg"],
+		"audioFile": "caporty_word.wav",
 		"numRows": "2",
-		"correct": "CAPORTY"
+		"correct": "caporty_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["VARLBRY", "VARLDLY", "VARLDRY", "VORLPLY"],
-		"audioFile": "varldly_sound.wav",
+		"animationKeys": ["varlbry_word.jpg", "varldly_word.jpg", "varldry_word.jpg", "vorlply_word.jpg"],
+		"audioFile": "varldly_word.wav",
 		"numRows": "2",
-		"correct": "VARLDLY"
+		"correct": "varldly_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["ELDERAL", "ELFERAL", "ELDERIL", "ELTERAL"],
-		"audioFile": "elderal_sound.wav",
+		"animationKeys": ["elderal_word.jpg", "elferal_word.jpg", "elderil_word.jpg", "elteral_word.jpg"],
+		"audioFile": "elderal_word.wav",
 		"numRows": "2",
-		"correct": "ELDERAL"
+		"correct": "elderal_word.jpg"
 	}]},
 	{"9":[{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["FROPIDEL", "PROPIFEL", "PROPUDER", "PROPIDER"],
-		"audioFile": "propider_sound.wav",
+		"animationKeys": ["fropidel_word.jpg", "propifel_word.jpg", "propuder_word.jpg", "propider_word.jpg"],
+		"audioFile": "propider_word.wav",
 		"numRows": "2",
-		"correct": "PROPIDER"
+		"correct": "propider_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["INPUBLOZED", "IMPUBLIZED", "IMPUBRIZED", "IMPUBLIZET"],
-		"audioFile": "impublized_sound.wav",
+		"animationKeys": ["inpublozed_word.jpg", "impublized_word.jpg", "impubrized_word.jpg", "impublizet_word.jpg"],
+		"audioFile": "impublized_word.wav",
 		"numRows": "2",
-		"correct": "IMPUBLIZED"
+		"correct": "impublized_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["SPECIFACDIVE", "SPECIFACTIVE", "SPICIFACTIVE", "SPECIFACDEVE"],
-		"audioFile": "specifactive_sound.wav",
+		"animationKeys": ["specifacdive_word.jpg", "specifactive_word.jpg", "spicifactive_word.jpg", "specifacdeve_word.jpg"],
+		"audioFile": "specifactive_word.wav",
 		"numRows": "2",
-		"correct": "SPECIFACTIVE"
+		"correct": "specifactive_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["LEQUENTED", "REQUENDED", "REQUENTED", "REQUEMTED"],
-		"audioFile": "requented_sound.wav",
+		"animationKeys": ["lequented_word.jpg", "requended_word.jpg", "requented_word.jpg", "requemted_word.jpg"],
+		"audioFile": "requented_word.wav",
 		"numRows": "2",
-		"correct": "REQUENTED"
+		"correct": "requented_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["INDUSDMENT", "INDUSTMENT", "ENDUSTMENT", "ANTUSTMENT"],
-		"audioFile": "industment_sound.wav",
+		"animationKeys": ["indusdment_word.jpg", "industment_word.jpg", "endustment_word.jpg", "antustment_word.jpg"],
+		"audioFile": "industment_word.wav",
 		"numRows": "2",
-		"correct": "INDUSTMENT"
+		"correct": "industment_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["EVADERUON", "EVIDEROON", "EVIPERION", "EVIPEROOM"],
-		"audioFile": "evideroon_sound.wav",
+		"animationKeys": ["evaderuon_word.jpg", "evideroon_word.jpg", "eviperion_word.jpg", "eviperoom_word.jpg"],
+		"audioFile": "evideroon_word.wav",
 		"numRows": "2",
-		"correct": "EVIDEROON"
+		"correct": "evideroon_word.jpg"
 	}]}
 ]
 }
