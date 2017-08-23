@@ -12,8 +12,8 @@
         {
             "type": "priming",
             "frogColor": "blue",
-            "frogSide": "left",
-            "rotation": "180deg",
+            "frogSide": "right",
+            "rotation": "0deg",
             "rightBug": "blue",
             "leftBug": "",
                 "rightSpotlight": false,
