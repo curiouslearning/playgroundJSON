@@ -175,7 +175,7 @@
     "correct": "z_name"
   }]}
 ],
-"letter-sound":[
+"letter_sound":[
   {"1":[{
     "stimuliImage": "Letter_A",
     "boxAudioFiles": ["c_sound.wav","a_sound.wav","j_sound.wav","m_sound.wav"],
@@ -351,7 +351,7 @@
     "correct": "z_sound"
   }]}
 ],
-"sight-words":[
+"sight_words":[
   {"1":[{
     "stimuliImage": "go_word.jpg",
       "boxAudioFiles": ["be_word.wav", "go_word.wav", "too_word.wav", "are_word.wav"],
@@ -647,7 +647,7 @@
     "correct": "doing_word"
   }]}
 ],
-"blending-words":[
+"blending_words":[
   {"1":[{
     "stimuliImage": "",
     "boxAudioFiles": ["birthday_word.wav", "bathday_word.wav", "day_word.wav", "birth_word.wav"],
