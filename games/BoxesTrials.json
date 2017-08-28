@@ -221,24 +221,24 @@
   },
   {
     "stimuliImage": "Letter_X",
-    "boxAudioFiles": ["s_name.wav", "q_name.wav", "x_name.wav", "a_name.wav"],
+    "boxAudioFiles": ["s_sound.wav", "q_sound.wav", "x_sound.wav", "a_sound.wav"],
     "stimuliAudio": false,
     "stimuliAudioFile" : "",
-    "correct": "x_name"
+    "correct": "x_sound"
   },
   {
     "stimuliImage": "Letter_Q",
-    "boxAudioFiles": ["s_name.wav", "q_name.wav", "x_name.wav", "a_name.wav"],
-    "stimuliAudio": "q_name",
+    "boxAudioFiles": ["s_sound.wav", "q_sound.wav", "x_sound.wav", "a_sound.wav"],
+    "stimuliAudio": false,
     "stimuliAudioFile" : "",
-    "correct": "q_name"
+    "correct": "q_sound"
   },
   {
     "stimuliImage": "Letter_S",
-    "boxAudioFiles": ["s_name.wav", "q_name.wav", "x_name.wav", "a_name.wav"],
-    "stimuliAudio": "s_name",
+    "boxAudioFiles": ["s_sound.wav", "q_sound.wav", "x_sound.wav", "a_sound.wav"],
+    "stimuliAudio": false,
     "stimuliAudioFile" : "",
-    "correct": "s_name"
+    "correct": "s_sound"
   }]},
   {"2":[{
     "stimuliImage": "Letter_C",
