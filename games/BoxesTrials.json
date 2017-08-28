@@ -820,14 +820,14 @@
     "stimuliImage": "",
     "boxAudioFiles": ["drip_word.wav", "trip_word.wav", "drape_word.wav", "drop_word.wav"],
     "stimuliAudio": "true",
-    "stimuliAudioFile": "d_r_o_p_word.wav",
+    "stimuliAudioFile": "dr_o_p_word.wav",
     "correct": "drop_word"
   },
   {
     "stimuliImage": "",
     "boxAudioFiles": ["bird_word.wav", "bard_word.wav", "beard_word.wav", "board_word.wav"],
     "stimuliAudio": "true",
-    "stimuliAudioFile": "b_i_r_d_word.wav",
+    "stimuliAudioFile": "b_ir_d_word.wav",
     "correct": "bird_word"
   },
   {
@@ -876,14 +876,14 @@
     "stimuliImage": "",
     "boxAudioFiles": ["trast_word.wav", "frast_word.wav", "frist_word.wav", "drast_word.wav"],
     "stimuliAudio": "true",
-    "stimuliAudioFile": "d_r_a_s_t_word.wav",
+    "stimuliAudioFile": "dr_a_s_t_word.wav",
     "correct": "drast_word"
   },
   {
     "stimuliImage": "",
     "boxAudioFiles": ["primg_word.wav", "drong_word.wav", "dreng_word.wav", "brong_word.wav"],
     "stimuliAudio": "true",
-    "stimuliAudioFile": "d_r_o_n_g_word.wav",
+    "stimuliAudioFile": "dr_o_n_g_word.wav",
     "correct": "drong_word"
   },
   {
