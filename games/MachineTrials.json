@@ -568,7 +568,7 @@
 		"animationKeys": ["gerf_word.jpg", "gilf_word.jpg", "hilf_word.jpg", "hulf_word.jpg"],
 		"audioFile": "hilf_word.wav",
 		"numRows": "2",
-		"correct": "hilf"
+		"correct": "hilf_word.jpg"
 	}]},
 	{"5":[{
 		"activeCells": ["true", "true", "true", "true"],
