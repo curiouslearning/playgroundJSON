@@ -1,5 +1,6 @@
 {
-	"receptive-vocabulary":[{"1":[{
+	"receptive_vocabulary":[
+	{"1":[{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
 		"animationKeys": ["soap_word.jpg", "diaper_word.jpg", "cookie_word.jpg", "orange_word.jpg"],
@@ -146,10 +147,10 @@
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["baseball", "potato", "ring", "leaf"],
+		"animationKeys": ["baseball_word.jpg", "potato_word.jpg", "ring_word.jpg", "leaf_word.jpg"],
 		"audioFile": "ring_word.wav",
 		"numRows": "2",
-		"correct": "ring"
+		"correct": "ring_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
@@ -170,10 +171,10 @@
 	{"4":[{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["plum", "rope", "nail", "comb"],
+		"animationKeys": ["plum_word.jpg", "rope_word.jpg", "nail_word.jpg", "comb_word.jpg"],
 		"audioFile": "comb_word.wav",
 		"numRows": "2",
-		"correct": "comb"
+		"correct": "comb_word.jpg"
 	},
 	{
 		"activeCells": ["true", "true", "true", "true"],
@@ -376,8 +377,7 @@
 		"correct": "tweezers_word.jpg"
 	}]}
 ],
-
-"pseudoword-matching":[
+"pseudoword_matching":[
   {"1":[{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
@@ -565,7 +565,7 @@
 	{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["gerf", "gilf", "hilf", "hulf"],
+		"animationKeys": ["gerf_word.jpg", "gilf_word.jpg", "hilf_word.jpg", "hulf_word.jpg"],
 		"audioFile": "hilf_word.wav",
 		"numRows": "2",
 		"correct": "hilf"
@@ -573,7 +573,7 @@
 	{"5":[{
 		"activeCells": ["true", "true", "true", "true"],
 		"numCOlumns": "2",
-		"animationKeys": ["goins", "woray", "plass", "borry"],
+		"animationKeys": ["goins_word.jpg", "woray_word.jpg", "plass_word.jpg", "borry_word.jpg"],
 		"audioFile": "borry_word.wav",
 		"numRows": "2",
 		"correct": "borry_word.jpg"
