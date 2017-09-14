@@ -956,7 +956,7 @@
     "boxAudioFiles": ["lunder_word.wav", "londel_word.wav", "londer_word.wav", "lander_word.wav"],
     "stimuliAudio": true,
     "stimuliAudioFile": "l_o_n_d_e_r_word.wav",
-    "correct": "londer_word_word"
+    "correct": "londer_word"
   }]}
 ]
 }
