@@ -1,0 +1,278 @@
+[
+	{
+    "correctSymbol": "GRASS",
+    "thoughtTiles": {
+      "activeTiles": [true, true, true, false, false, false, false, false, false],
+      "frameKeys": ["CAN", "FRUIT", "GRASS", "", "", "", "", "", ""]
+    },
+    "displaySymbols": {
+      "symbols": ["CAN", "FRUIT", "BUG", "GRASS"]
+    }
+	},
+
+  {
+    "correctSymbol": "FRUIT",
+    "thoughtTiles": {
+      "activeTiles": [true, true, true, false, false, false, false, false, false],
+      "frameKeys": ["BUG", "CAN", "FRUIT", "", "", "", "", "", ""]
+    },
+    "displaySymbols": {
+      "symbols": ["FRUIT", "CAN", "BUG", "GRASS"]
+    }
+	},
+
+  {
+    "correctSymbol": "CAN",
+    "thoughtTiles": {
+      "activeTiles": [true, true, true, false, false, false, false, false, false],
+      "frameKeys": ["GRASS", "BUG", "CAN", "", "", "", "", "", ""]
+    },
+    "displaySymbols": {
+      "symbols": ["BUG", "FRUIT", "CAN", "GRASS"]
+    }
+	},
+	
+	{
+	  "correctSymbol": "BUG",
+	  "thoughtTiles": {
+	    "activeTiles": [true, true, true, false, false, false, false, false, false],
+	    "frameKeys": ["GRASS", "GRASS", "BUG", "", "", "", "", "", ""]
+	  },
+	  "displaySymbols": {
+	    "symbols": ["FRUIT", "GRASS", "CAN", "BUG"]
+	  }
+	},
+	
+	
+
+	{
+	  "correctSymbol": "GRASS",
+	  "thoughtTiles": {
+	    "activeTiles": [true, true, true, false, false, false, false, false, false],
+	    "frameKeys": ["FRUIT", "GRASS", "GRASS", "", "", "", "", "", ""]
+	  },
+	  "displaySymbols": {
+	    "symbols": ["GRASS", "CAN", "BUG", "FRUIT"]
+	  }
+	},
+
+	{
+	  "correctSymbol": "GRASS",
+	  "thoughtTiles": {
+	    "activeTiles": [true, true, true, false, false, false, false, false, false],
+	    "frameKeys": ["CAN", "FRUIT", "GRASS", "", "", "", "", "", ""]
+	  },
+	  "displaySymbols": {
+	    "symbols": ["GRASS", "CAN", "BUG", "FRUIT"]
+	  }
+	},
+
+	{
+	  "correctSymbol": "FRUIT",
+	  "thoughtTiles": {
+	    "activeTiles": [true, true, true, false, false, false, false, false, false],
+	    "frameKeys": ["BUG", "CAN", "FRUIT", "", "", "", "", "", ""]
+	  },
+	  "displaySymbols": {
+	    "symbols": ["GRASS", "BUG", "CAN", "FRUIT"]
+	  }
+	},
+
+	{
+	  "correctSymbol": "CAN",
+	  "thoughtTiles": {
+	    "activeTiles": [true, true, true, false, false, false, false, false, false],
+	    "frameKeys": ["GRASS", "BUG", "CAN", "", "", "", "", "", ""]
+	  },
+	  "displaySymbols": {
+	    "symbols": ["GRASS", "BUG", "CAN", "FRUIT"]
+	  }
+	},
+
+	{
+	  "correctSymbol": "BUG",
+	  "thoughtTiles": {
+	    "activeTiles": [true, true, true, false, false, false, false, false, false],
+	    "frameKeys": ["FRUIT", "GRASS", "BUG", "", "", "", "", "", ""]
+	  },
+	  "displaySymbols": {
+	    "symbols": ["FRUIT", "BUG", "GRASS", "CAN"]
+	  }
+	},
+
+	{
+	  "correctSymbol": "GRASS",
+	  "thoughtTiles": {
+	    "activeTiles": [true, true, true, false, false, false, false, false, false],
+	    "frameKeys": ["CAN", "FRUIT", "GRASS", "", "", "", "", "", ""]
+	  },
+	  "displaySymbols": {
+	    "symbols": ["FRUIT", "CAN", "GRASS", "BUG"]
+	  },
+	},
+
+	{
+	  "correctSymbol": "FRUIT",
+	  "thoughtTiles": {
+	    "activeTiles": [true, true, true, false, false, false, false, false, false],
+	    "frameKeys": ["FRUIT", "CAN", "FRUIT", "", "", "", "", "", ""]
+	  },
+	  "displaySymbols": {
+	    "symbols": ["GRASS", "BUG", "FRUIT", "CAN"]
+	  },
+	},
+
+	{
+	  "correctSymbol": "CAN",
+	  "thoughtTiles": {
+	    "activeTiles": [true, true, true, false, false, false, false, false, false],
+	    "frameKeys": ["GRASS", "FRUIT", "CAN", "", "", "", "", "", ""]
+	  },
+	  "displaySymbols": {
+	    "symbols": ["GRASS", "FRUIT", "BUG", "CAN"]
+	  },
+	},
+
+	{
+	  "correctSymbol": "FRUIT",
+	  "thoughtTiles": {
+	    "activeTiles": [true, true, true, false, false, false, false, false, false],
+	    "frameKeys": ["CAN", "GRASS", "FRUIT", "", "", "", "", "", ""]
+	  },
+	  "displaySymbols": {
+	    "symbols": ["CAN", "FRUIT", "BUG", "GRASS"]
+	  },
+	},
+
+	{
+	  "correctSymbol": "GRASS",
+	  "thoughtTiles": {
+	    "activeTiles": [true, true, true, false, false, false, false, false, false],
+	    "frameKeys": ["BUG", "CAN", "GRASS", "", "", "", "", "", ""]
+	  },
+	  "displaySymbols": {
+	    "symbols": ["CAN", "FRUIT", "BUG", "GRASS"]
+	  },
+	},
+
+	{
+	  "correctSymbol": "CAN",
+	  "thoughtTiles": {
+	    "activeTiles": [true, true, true, false, false, false, false, false, false],
+	    "frameKeys": ["BUG", "BUG", "CAN", "", "", "", "", "", ""]
+	  },
+	  "displaySymbols": {
+	    "symbols": ["GRASS", "FRUIT", "CAN", "BUG"]
+	  },
+	},
+
+	{
+	  "correctSymbol": "BUG",
+	  "thoughtTiles": {
+	    "activeTiles": [true, true, true, false, false, false, false, false, false],
+	    "frameKeys": ["GRASS", "BUG", "BUG", "", "", "", "", "", ""]
+	  },
+	  "displaySymbols": {
+	    "symbols": ["FRUIT", "GRASS", "CAN", "BUG"]
+	  },
+	},
+
+	{
+	  "correctSymbol": "BUG",
+	  "thoughtTiles": {
+	    "activeTiles": [true, true, true, false, false, false, false, false, false],
+	    "frameKeys": ["CAN", "GRASS", "BUG", "", "", "", "", "", ""]
+	  },
+	  "displaySymbols": {
+	    "symbols": ["CAN", "FRUIT", "GRASS", "BUG"]
+	  },
+	},
+
+	{
+	  "correctSymbol": "GRASS",
+	  "thoughtTiles": {
+	    "activeTiles": [true, true, true, false, false, false, false, false, false],
+	    "frameKeys": ["FRUIT", "CAN", "GRASS", "", "", "", "", "", ""]
+	  },
+	  "displaySymbols": {
+	    "symbols": ["CAN", "FRUIT", "GRASS", "BUG"]
+	  },
+	},
+
+	{
+	  "correctSymbol": "CAN",
+	  "thoughtTiles": {
+	    "activeTiles": [true, true, true, false, false, false, false, false, false],
+	    "frameKeys": ["BUG", "FRUIT", "CAN", "", "", "", "", "", ""]
+	  },
+	  "displaySymbols": {
+	    "symbols": ["FRUIT", "CAN", "BUG", "GRASS"]
+	  },
+	},
+
+	{
+	  "correctSymbol": "FRUIT",
+	  "thoughtTiles": {
+	    "activeTiles": [true, true, true, false, false, false, false, false, false],
+	    "frameKeys": ["GRASS", "BUG", "FRUIT", "", "", "", "", "", ""]
+	  },
+	  "displaySymbols": {
+	    "symbols": ["CAN", "BUG", "GRASS", "FRUIT"]
+	  },
+	},
+
+	{
+	  "correctSymbol": "BUG",
+	  "thoughtTiles": {
+	    "activeTiles": [true, true, true, false, false, false, false, false, false],
+	    "frameKeys": ["CAN", "GRASS", "BUG", "", "", "", "", "", ""]
+	  },
+	  "displaySymbols": {
+	    "symbols": ["CAN", "BUG", "GRASS", "FRUIT"]
+	  },
+	},
+
+	{
+	  "correctSymbol": "GRASS",
+	  "thoughtTiles": {
+	    "activeTiles": [true, true, true, false, false, false, false, false, false],
+	    "frameKeys": ["FRUIT", "CAN", "GRASS", "", "", "", "", "", ""]
+	  },
+	  "displaySymbols": {
+	    "symbols": ["BUG", "CAN", "FRUIT", "GRASS"]
+	  },
+	},
+
+	{
+	  "correctSymbol": "CAN",
+	  "thoughtTiles": {
+	    "activeTiles": [true, true, true, false, false, false, false, false, false],
+	    "frameKeys": ["BUG", "FRUIT", "CAN", "", "", "", "", "", ""]
+	  },
+	  "displaySymbols": {
+	    "symbols": ["BUG", "CAN", "FRUIT", "GRASS"]
+	  },
+	},
+
+	{
+	  "correctSymbol": "FRUIT",
+	  "thoughtTiles": {
+	    "activeTiles": [true, true, true, false, false, false, false, false, false],
+	    "frameKeys": ["GRASS", "BUG", "FRUIT", "", "", "", "", "", ""]
+	  },
+	  "displaySymbols": {
+	    "symbols": ["CAN", "BUG", "FRUIT", "GRASS"]
+	  },
+	},
+
+	{
+	  "correctSymbol": "BUG",
+	  "thoughtTiles": {
+	    "activeTiles": [true, true, true, false, false, false, false, false, false],
+	    "frameKeys": ["FRUIT", "GRASS", "BUG", "", "", "", "", "", ""]
+	  },
+	  "displaySymbols": {
+	    "symbols": ["CAN", "BUG", "FRUIT", "GRASS"]
+	  },
+	}
+]
