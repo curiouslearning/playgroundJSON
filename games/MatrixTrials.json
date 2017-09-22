@@ -1,5 +1,56 @@
 [
   {
+    "correctSelection" : "SC04",
+    "selectionTiles" : {
+      "activeTiles" : [
+        true,
+        false,
+        false,
+        true,
+        false,
+        false,
+        true,
+        false,
+        false
+      ],
+      "frameKeys" : [
+        "SC01",
+        "",
+        "",
+        "SC04",
+        "",
+        "",
+        "SC03",
+        "",
+        ""
+      ]
+    },
+    "gameboardTiles" : {
+      "activeTiles" : [
+        true,
+        true,
+        false,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frameKeys" : [
+        "SC04",
+        "SC04",
+        "",
+        "SC04",
+        "BLANK",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  },
+  {
     "correctSelection" : "SC01",
     "selectionTiles" : {
       "activeTiles" : [
