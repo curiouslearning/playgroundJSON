@@ -71,8 +71,8 @@
   {
     "correctSelection": "SC02",
     "selectionTiles": {
-      "activeTiles": [true, true, false, true, false, false, true, false, false],
-      "frameKeys": ["SC03", "SC09", "", "SC02", "", "", "SC10", "", ""]
+      "activeTiles": [false, false, false, true, true, false, true, true, false],
+      "frameKeys": ["", "", "", "SC03", "SC09", "", "SC02", "SC10", ""]
     },
     "gameboardTiles": {
       "activeTiles": [true, true, false, true, true, false, false, false, false],
@@ -82,8 +82,8 @@
   {
     "correctSelection": "SC09",
     "selectionTiles": {
-      "activeTiles": [true, true, false, true, false, false, true, false, false],
-      "frameKeys": ["SC01", "SC09", "", "SC02", "", "", "SC08", "", ""]
+      "activeTiles": [false, false, false, true, true, false, true, true, false],
+      "frameKeys": ["", "", "", "SC01", "SC09", "", "SC02", "SC08", ""]
     },
     "gameboardTiles": {
       "activeTiles": [true, true, false, true, true, false, false, false, false],
@@ -93,8 +93,8 @@
   {
     "correctSelection": "SC07",
     "selectionTiles": {
-      "activeTiles": [true, true, false, true, false, false, true, false, false],
-      "frameKeys": ["SC07", "SC05", "", "SC08", "", "", "SC10", "", ""]
+      "activeTiles": [false, false, false, true, true, false, true, true, false],
+      "frameKeys": ["", "", "", "SC07", "SC05", "", "SC08", "SC10", ""]
     },
     "gameboardTiles": {
       "activeTiles": [true, true, false, true, true, false, false, false, false],
@@ -170,8 +170,8 @@
   {
     "correctSelection": "SC09",
     "selectionTiles": {
-      "activeTiles": [true, false, false, true, false, true, true, false, false],
-      "frameKeys": ["SC09", "", "", "SC29", "", "SC15", "SC19", "", ""]
+      "activeTiles": [false, false, false, true, true, false, true, true, false],
+      "frameKeys": ["", "", "", "SC09", "SC29", "", "SC15", "SC19", ""]
     },
     "gameboardTiles": {
       "activeTiles": [true, true, true, true, true, true, true, true, true],
@@ -181,8 +181,8 @@
 	{
     "correctSelection": "SC29",
     "selectionTiles": {
-      "activeTiles": [true, true, false, true, false, false, true, false, false],
-      "frameKeys": ["SC29", "SC26", "", "SC09", "", "", "SC28", "", ""]
+      "activeTiles": [false, false, false, true, true, false, true, true, false],
+      "frameKeys": ["", "", "", "SC29", "SC26", "", "SC09", "SC28", ""]
     },
     "gameboardTiles": {
       "activeTiles": [true, true, true, true, true, true, true, true, true],
@@ -192,8 +192,8 @@
   {
     "correctSelection": "SC28",
     "selectionTiles": {
-      "activeTiles": [true, true, false, true, false, false, true, false, false],
-      "frameKeys": ["SC25", "SC08", "", "SC28", "", "", "SC01", "", ""]
+      "activeTiles": [false, false, false, true, true, false, true, true, false],
+      "frameKeys": ["", "", "", "SC25", "SC08", "", "SC28", "SC01", ""]
     },
     "gameboardTiles": {
       "activeTiles": [true, true, true, true, true, true, true, true, true],
@@ -203,8 +203,8 @@
   {
     "correctSelection": "DC04",
     "selectionTiles": {
-      "activeTiles": [true, false, false, true, false, false, true, true, false],
-      "frameKeys": ["DC06", "", "", "DC04", "", "", "DC05", "DC07", ""]
+      "activeTiles": [false, false, false, true, true, false, true, true, false],
+      "frameKeys": ["", "", "", "DC06", "DC04", "", "DC05", "DC07", ""]
     },
     "gameboardTiles": {
       "activeTiles": [true, true, false, true, true, false, false, false, false],
@@ -214,8 +214,8 @@
   {
     "correctSelection": "DC11",
     "selectionTiles": {
-      "activeTiles": [true, true, false, true, true, false, false, false, false],
-      "frameKeys": ["DC14", "DC13", "", "DC11", "DC12", "", "", "", ""]
+      "activeTiles": [false, false, false, true, true, false, true, true, false],
+      "frameKeys": ["", "", "", "DC14", "DC13", "", "DC11", "DC12", ""]
     },
     "gameboardTiles": {
       "activeTiles": [true, true, false, true, true, false, false, false, false],
@@ -225,8 +225,8 @@
 	{
 		"correctSelection": "DC23",
 		"selectionTiles": {
-			"activeTiles": [true, true, false, true, true, false, false, false, false],
-			"frameKeys": ["DC23", "DC20", "", "DC22", "DC24", "", "", "", ""]
+			"activeTiles": [false, false, false, true, true, false, true, true, false],
+			"frameKeys": ["", "", "", "DC23", "DC20", "", "DC22", "DC24", ""]
 		},
 		"gameboardTiles": {
 			"activeTiles": [true, true, false, true, true, false, false, false, false],
@@ -236,8 +236,8 @@
 	{
 		"correctSelection": "DC31",
 		"selectionTiles": {
-			"activeTiles": [true, true, false, true, true, false, false, false, false],
-			"frameKeys": ["DC29", "DC12", "", "DC30", "DC31", "", "", "", ""]
+			"activeTiles": [false, false, false, true, true, false, true, true, false],
+			"frameKeys": ["", "", "", "DC29", "DC12", "", "DC30", "DC31", ""]
 		},
 		"gameboardTiles": {
 			"activeTiles": [true, true, false, true, true, false, false, false, false],
@@ -247,8 +247,8 @@
 	{
 		"correctSelection": "QC01",
 		"selectionTiles": {
-			"activeTiles": [true, true, false, true, true, false, false, false, false],
-			"frameKeys": ["QC01", "QC02", "", "DC40", "DC41", "", "", "", ""]
+			"activeTiles": [false, false, false, true, true, false, true, true, false],
+			"frameKeys": ["", "", "", "QC01", "QC02", "", "DC40", "DC41", ""]
 		},
 		"gameboardTiles": {
 			"activeTiles": [true, true, true, true, true, true, true, true, true],
@@ -258,8 +258,8 @@
 	{
 		"correctSelection": "QC04",
 		"selectionTiles": {
-			"activeTiles": [true, true, false, true, true, false, false, false, false],
-			"frameKeys": ["QC05", "QC04", "", "DC34", "DC35", "", "", "", ""]
+			"activeTiles": [false, false, false, true, true, false, true, true, false],
+			"frameKeys": ["", "", "", "QC05", "QC04", "", "DC34", "DC35", ""]
 		},
 		"gameboardTiles": {
 			"activeTiles": [true, true, true, true, true, true, true, true, true],
