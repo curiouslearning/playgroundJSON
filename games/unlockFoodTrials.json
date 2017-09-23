@@ -4931,7 +4931,65 @@
       "1" : [
         {
           "tileBlinkSequence" : [
+            1
+          ],
+          "gameBoardTilesForTrial" : {
+            "frameKeys" : [
+              "",
+              "IDLE",
+              "",
+              "",
+              "IDLE",
+              "",
+              "",
+              "IDLE",
+              ""
+            ],
+            "activeTiles" : [
+              false,
+              true,
+              false,
+              false,
+              true,
+              false,
+              false,
+              true,
+              false
+            ]
+          }
+        },
+        {
+          "tileBlinkSequence" : [
             4
+          ],
+          "gameBoardTilesForTrial" : {
+            "frameKeys" : [
+              "",
+              "IDLE",
+              "",
+              "",
+              "IDLE",
+              "",
+              "",
+              "IDLE",
+              ""
+            ],
+            "activeTiles" : [
+              false,
+              true,
+              false,
+              false,
+              true,
+              false,
+              false,
+              true,
+              false
+            ]
+          }
+        },
+        {
+          "tileBlinkSequence" : [
+            7
           ],
           "gameBoardTilesForTrial" : {
             "frameKeys" : [
@@ -7332,6 +7390,93 @@
   "audio-reverse" : [
     {
       "1" : [
+        {
+          "tileBlinkSequence" : [
+            7
+          ],
+          "gameBoardTilesForTrial" : {
+            "frameKeys" : [
+              "",
+              "IDLE",
+              "",
+              "",
+              "IDLE",
+              "",
+              "",
+              "IDLE",
+              ""
+            ],
+            "activeTiles" : [
+              false,
+              true,
+              false,
+              false,
+              true,
+              false,
+              false,
+              true,
+              false
+            ]
+          }
+        },
+        {
+          "tileBlinkSequence" : [
+            4
+          ],
+          "gameBoardTilesForTrial" : {
+            "frameKeys" : [
+              "",
+              "IDLE",
+              "",
+              "",
+              "IDLE",
+              "",
+              "",
+              "IDLE",
+              ""
+            ],
+            "activeTiles" : [
+              false,
+              true,
+              false,
+              false,
+              true,
+              false,
+              false,
+              true,
+              false
+            ]
+          }
+        },
+        {
+          "tileBlinkSequence" : [
+            1
+          ],
+          "gameBoardTilesForTrial" : {
+            "frameKeys" : [
+              "",
+              "IDLE",
+              "",
+              "",
+              "IDLE",
+              "",
+              "",
+              "IDLE",
+              ""
+            ],
+            "activeTiles" : [
+              false,
+              true,
+              false,
+              false,
+              true,
+              false,
+              false,
+              true,
+              false
+            ]
+          }
+        },
         {
           "tileBlinkSequence" : [
             1,
