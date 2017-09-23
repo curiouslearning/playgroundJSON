@@ -2,7 +2,7 @@
 	{
     "correctSymbol": "GRASS",
     "thoughtTiles": {
-      "activeTiles": [true, true, true, false, false, false, false, false, false],
+      "activeTiles": [false, false, true, false, false, false, false, false, false],
       "frameKeys": ["CAN", "FRUIT", "GRASS", "", "", "", "", "", ""]
     },
     "displaySymbols": {
@@ -13,7 +13,7 @@
   {
     "correctSymbol": "FRUIT",
     "thoughtTiles": {
-      "activeTiles": [true, true, true, false, false, false, false, false, false],
+      "activeTiles": [false, false, true, false, false, false, false, false, false],
       "frameKeys": ["BUG", "CAN", "FRUIT", "", "", "", "", "", ""]
     },
     "displaySymbols": {
@@ -24,7 +24,7 @@
   {
     "correctSymbol": "CAN",
     "thoughtTiles": {
-      "activeTiles": [true, true, true, false, false, false, false, false, false],
+      "activeTiles": [false, false, true, false, false, false, false, false, false],
       "frameKeys": ["GRASS", "BUG", "CAN", "", "", "", "", "", ""]
     },
     "displaySymbols": {
@@ -35,7 +35,7 @@
 	{
 	  "correctSymbol": "BUG",
 	  "thoughtTiles": {
-	    "activeTiles": [true, true, true, false, false, false, false, false, false],
+	    "activeTiles": [false, false, true, false, false, false, false, false, false],
 	    "frameKeys": ["GRASS", "GRASS", "BUG", "", "", "", "", "", ""]
 	  },
 	  "displaySymbols": {
@@ -48,7 +48,7 @@
 	{
 	  "correctSymbol": "GRASS",
 	  "thoughtTiles": {
-	    "activeTiles": [true, true, true, false, false, false, false, false, false],
+	    "activeTiles": [false, false, true, false, false, false, false, false, false],
 	    "frameKeys": ["FRUIT", "GRASS", "GRASS", "", "", "", "", "", ""]
 	  },
 	  "displaySymbols": {
@@ -59,7 +59,7 @@
 	{
 	  "correctSymbol": "GRASS",
 	  "thoughtTiles": {
-	    "activeTiles": [true, true, true, false, false, false, false, false, false],
+	    "activeTiles": [false, false, true, false, false, false, false, false, false],
 	    "frameKeys": ["CAN", "FRUIT", "GRASS", "", "", "", "", "", ""]
 	  },
 	  "displaySymbols": {
@@ -70,7 +70,7 @@
 	{
 	  "correctSymbol": "FRUIT",
 	  "thoughtTiles": {
-	    "activeTiles": [true, true, true, false, false, false, false, false, false],
+	    "activeTiles": [false, false, true, false, false, false, false, false, false],
 	    "frameKeys": ["BUG", "CAN", "FRUIT", "", "", "", "", "", ""]
 	  },
 	  "displaySymbols": {
@@ -81,7 +81,7 @@
 	{
 	  "correctSymbol": "CAN",
 	  "thoughtTiles": {
-	    "activeTiles": [true, true, true, false, false, false, false, false, false],
+	    "activeTiles": [false, false, true, false, false, false, false, false, false],
 	    "frameKeys": ["GRASS", "BUG", "CAN", "", "", "", "", "", ""]
 	  },
 	  "displaySymbols": {
@@ -92,7 +92,7 @@
 	{
 	  "correctSymbol": "BUG",
 	  "thoughtTiles": {
-	    "activeTiles": [true, true, true, false, false, false, false, false, false],
+	    "activeTiles": [false, false, true, false, false, false, false, false, false],
 	    "frameKeys": ["FRUIT", "GRASS", "BUG", "", "", "", "", "", ""]
 	  },
 	  "displaySymbols": {
@@ -103,7 +103,7 @@
 	{
 	  "correctSymbol": "GRASS",
 	  "thoughtTiles": {
-	    "activeTiles": [true, true, true, false, false, false, false, false, false],
+	    "activeTiles": [false, false, true, false, false, false, false, false, false],
 	    "frameKeys": ["CAN", "FRUIT", "GRASS", "", "", "", "", "", ""]
 	  },
 	  "displaySymbols": {
@@ -114,7 +114,7 @@
 	{
 	  "correctSymbol": "FRUIT",
 	  "thoughtTiles": {
-	    "activeTiles": [true, true, true, false, false, false, false, false, false],
+	    "activeTiles": [false, false, true, false, false, false, false, false, false],
 	    "frameKeys": ["FRUIT", "CAN", "FRUIT", "", "", "", "", "", ""]
 	  },
 	  "displaySymbols": {
@@ -125,7 +125,7 @@
 	{
 	  "correctSymbol": "CAN",
 	  "thoughtTiles": {
-	    "activeTiles": [true, true, true, false, false, false, false, false, false],
+	    "activeTiles": [false, false, true, false, false, false, false, false, false],
 	    "frameKeys": ["GRASS", "FRUIT", "CAN", "", "", "", "", "", ""]
 	  },
 	  "displaySymbols": {
@@ -136,7 +136,7 @@
 	{
 	  "correctSymbol": "FRUIT",
 	  "thoughtTiles": {
-	    "activeTiles": [true, true, true, false, false, false, false, false, false],
+	    "activeTiles": [false, false, true, false, false, false, false, false, false],
 	    "frameKeys": ["CAN", "GRASS", "FRUIT", "", "", "", "", "", ""]
 	  },
 	  "displaySymbols": {
@@ -147,7 +147,7 @@
 	{
 	  "correctSymbol": "GRASS",
 	  "thoughtTiles": {
-	    "activeTiles": [true, true, true, false, false, false, false, false, false],
+	    "activeTiles": [false, false, true, false, false, false, false, false, false],
 	    "frameKeys": ["BUG", "CAN", "GRASS", "", "", "", "", "", ""]
 	  },
 	  "displaySymbols": {
@@ -158,7 +158,7 @@
 	{
 	  "correctSymbol": "CAN",
 	  "thoughtTiles": {
-	    "activeTiles": [true, true, true, false, false, false, false, false, false],
+	    "activeTiles": [false, false, true, false, false, false, false, false, false],
 	    "frameKeys": ["BUG", "BUG", "CAN", "", "", "", "", "", ""]
 	  },
 	  "displaySymbols": {
@@ -169,7 +169,7 @@
 	{
 	  "correctSymbol": "BUG",
 	  "thoughtTiles": {
-	    "activeTiles": [true, true, true, false, false, false, false, false, false],
+	    "activeTiles": [false, false, true, false, false, false, false, false, false],
 	    "frameKeys": ["GRASS", "BUG", "BUG", "", "", "", "", "", ""]
 	  },
 	  "displaySymbols": {
@@ -180,7 +180,7 @@
 	{
 	  "correctSymbol": "BUG",
 	  "thoughtTiles": {
-	    "activeTiles": [true, true, true, false, false, false, false, false, false],
+	    "activeTiles": [false, false, true, false, false, false, false, false, false],
 	    "frameKeys": ["CAN", "GRASS", "BUG", "", "", "", "", "", ""]
 	  },
 	  "displaySymbols": {
@@ -191,7 +191,7 @@
 	{
 	  "correctSymbol": "GRASS",
 	  "thoughtTiles": {
-	    "activeTiles": [true, true, true, false, false, false, false, false, false],
+	    "activeTiles": [false, false, true, false, false, false, false, false, false],
 	    "frameKeys": ["FRUIT", "CAN", "GRASS", "", "", "", "", "", ""]
 	  },
 	  "displaySymbols": {
@@ -202,7 +202,7 @@
 	{
 	  "correctSymbol": "CAN",
 	  "thoughtTiles": {
-	    "activeTiles": [true, true, true, false, false, false, false, false, false],
+	    "activeTiles": [false, false, true, false, false, false, false, false, false],
 	    "frameKeys": ["BUG", "FRUIT", "CAN", "", "", "", "", "", ""]
 	  },
 	  "displaySymbols": {
@@ -213,7 +213,7 @@
 	{
 	  "correctSymbol": "FRUIT",
 	  "thoughtTiles": {
-	    "activeTiles": [true, true, true, false, false, false, false, false, false],
+	    "activeTiles": [false, false, true, false, false, false, false, false, false],
 	    "frameKeys": ["GRASS", "BUG", "FRUIT", "", "", "", "", "", ""]
 	  },
 	  "displaySymbols": {
@@ -224,7 +224,7 @@
 	{
 	  "correctSymbol": "BUG",
 	  "thoughtTiles": {
-	    "activeTiles": [true, true, true, false, false, false, false, false, false],
+	    "activeTiles": [false, false, true, false, false, false, false, false, false],
 	    "frameKeys": ["CAN", "GRASS", "BUG", "", "", "", "", "", ""]
 	  },
 	  "displaySymbols": {
@@ -235,7 +235,7 @@
 	{
 	  "correctSymbol": "GRASS",
 	  "thoughtTiles": {
-	    "activeTiles": [true, true, true, false, false, false, false, false, false],
+	    "activeTiles": [false, false, true, false, false, false, false, false, false],
 	    "frameKeys": ["FRUIT", "CAN", "GRASS", "", "", "", "", "", ""]
 	  },
 	  "displaySymbols": {
@@ -246,7 +246,7 @@
 	{
 	  "correctSymbol": "CAN",
 	  "thoughtTiles": {
-	    "activeTiles": [true, true, true, false, false, false, false, false, false],
+	    "activeTiles": [false, false, true, false, false, false, false, false, false],
 	    "frameKeys": ["BUG", "FRUIT", "CAN", "", "", "", "", "", ""]
 	  },
 	  "displaySymbols": {
@@ -257,7 +257,7 @@
 	{
 	  "correctSymbol": "FRUIT",
 	  "thoughtTiles": {
-	    "activeTiles": [true, true, true, false, false, false, false, false, false],
+	    "activeTiles": [false, false, true, false, false, false, false, false, false],
 	    "frameKeys": ["GRASS", "BUG", "FRUIT", "", "", "", "", "", ""]
 	  },
 	  "displaySymbols": {
@@ -268,7 +268,7 @@
 	{
 	  "correctSymbol": "BUG",
 	  "thoughtTiles": {
-	    "activeTiles": [true, true, true, false, false, false, false, false, false],
+	    "activeTiles": [false, false, true, false, false, false, false, false, false],
 	    "frameKeys": ["FRUIT", "GRASS", "BUG", "", "", "", "", "", ""]
 	  },
 	  "displaySymbols": {
