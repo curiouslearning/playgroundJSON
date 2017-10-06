@@ -25,99 +25,11 @@
           ],
           "stimuliAudio" : "false",
           "stimuliAudioFile" : ""
-        },
-        {
-          "stimuliImage" : "Letter_C",
-          "correct" : "c_name",
-          "boxAudioFiles" : [
-            "c_name.wav",
-            "o_name.wav",
-            "k_name.wav",
-            "b_name.wav"
-          ],
-          "stimuliAudio" : "false",
-          "stimuliAudioFile" : ""
         }
       ]
     },
     {
       "2" : [
-        {
-          "stimuliImage" : "Letter_T",
-          "correct" : "t_name",
-          "boxAudioFiles" : [
-            "y_name.wav",
-            "t_name.wav",
-            "k_name.wav",
-            "e_name.wav"
-          ],
-          "stimuliAudio" : "false",
-          "stimuliAudioFile" : ""
-        },
-        {
-          "stimuliImage" : "Letter_O",
-          "correct" : "o_name",
-          "boxAudioFiles" : [
-            "d_name.wav",
-            "o_name.wav",
-            "h_name.wav",
-            "q_name.wav"
-          ],
-          "stimuliAudio" : "false",
-          "stimuliAudioFile" : ""
-        },
-        {
-          "stimuliImage" : "Letter_I",
-          "correct" : "i_name",
-          "boxAudioFiles" : [
-            "i_name.wav",
-            "e_name.wav",
-            "m_name.wav",
-            "k_name.wav"
-          ],
-          "stimuliAudio" : "false",
-          "stimuliAudioFile" : ""
-        },
-        {
-          "stimuliImage" : "Letter_S",
-          "correct" : "s_name",
-          "boxAudioFiles" : [
-            "b_name.wav",
-            "w_name.wav",
-            "y_name.wav",
-            "s_name.wav"
-          ],
-          "stimuliAudio" : "false",
-          "stimuliAudioFile" : ""
-        },
-        {
-          "stimuliImage" : "Letter_W",
-          "correct" : "w_name",
-          "boxAudioFiles" : [
-            "u_name.wav",
-            "w_name.wav",
-            "f_name.wav",
-            "x_name.wav"
-          ],
-          "stimuliAudio" : "false",
-          "stimuliAudioFile" : ""
-        },
-        {
-          "stimuliImage" : "Letter_P",
-          "correct" : "p_name",
-          "boxAudioFiles" : [
-            "b_name.wav",
-            "p_name.wav",
-            "t_name.wav",
-            "a_name.wav"
-          ],
-          "stimuliAudio" : "false",
-          "stimuliAudioFile" : ""
-        }
-      ]
-    },
-    {
-      "3" : [
         {
           "stimuliImage" : "Letter_H",
           "correct" : "h_name",
@@ -193,7 +105,7 @@
       ]
     },
     {
-      "4" : [
+      "3" : [
         {
           "stimuliImage" : "Letter_L",
           "correct" : "l_name",
@@ -269,7 +181,7 @@
       ]
     },
     {
-      "6" : [
+      "4" : [
         {
           "stimuliImage" : "Letter_J",
           "correct" : "j_name",
@@ -359,99 +271,11 @@
           ],
           "stimuliAudio" : "false",
           "stimuliAudioFile" : ""
-        },
-        {
-          "stimuliImage" : "Letter_C",
-          "correct" : "c_sound",
-          "boxAudioFiles" : [
-            "c_sound.wav",
-            "x_sound.wav",
-            "l_sound.wav",
-            "v_sound.wav"
-          ],
-          "stimuliAudio" : "false",
-          "stimuliAudioFile" : ""
         }
       ]
     },
     {
       "2" : [
-        {
-          "stimuliImage" : "Letter_E",
-          "correct" : "e_sound",
-          "boxAudioFiles" : [
-            "x_sound.wav",
-            "e_sound.wav",
-            "k_sound.wav",
-            "c_sound.wav"
-          ],
-          "stimuliAudio" : "false",
-          "stimuliAudioFile" : ""
-        },
-        {
-          "stimuliImage" : "Letter_T",
-          "correct" : "t_sound",
-          "boxAudioFiles" : [
-            "t_sound.wav",
-            "h_sound.wav",
-            "d_sound.wav",
-            "y_sound.wav"
-          ],
-          "stimuliAudio" : "false",
-          "stimuliAudioFile" : ""
-        },
-        {
-          "stimuliImage" : "Letter_O",
-          "correct" : "o_sound",
-          "boxAudioFiles" : [
-            "w_sound.wav",
-            "g_sound.wav",
-            "o_sound.wav",
-            "r_sound.wav"
-          ],
-          "stimuliAudio" : "false",
-          "stimuliAudioFile" : ""
-        },
-        {
-          "stimuliImage" : "Letter_I",
-          "correct" : "i_sound",
-          "boxAudioFiles" : [
-            "b_sound.wav",
-            "j_sound.wav",
-            "i_sound.wav",
-            "e_sound.wav"
-          ],
-          "stimuliAudio" : "false",
-          "stimuliAudioFile" : ""
-        },
-        {
-          "stimuliImage" : "Letter_N",
-          "correct" : "n_sound",
-          "boxAudioFiles" : [
-            "n_sound.wav",
-            "q_sound.wav",
-            "r_sound.wav",
-            "u_sound.wav"
-          ],
-          "stimuliAudio" : "false",
-          "stimuliAudioFile" : ""
-        },
-        {
-          "stimuliImage" : "Letter_S",
-          "correct" : "s_sound",
-          "boxAudioFiles" : [
-            "j_sound.wav",
-            "k_sound.wav",
-            "s_sound.wav",
-            "n_sound.wav"
-          ],
-          "stimuliAudio" : "false",
-          "stimuliAudioFile" : ""
-        }
-      ]
-    },
-    {
-      "3" : [
         {
           "stimuliImage" : "Letter_H",
           "correct" : "h_sound",
@@ -527,7 +351,7 @@
       ]
     },
     {
-      "4" : [
+      "3" : [
         {
           "stimuliImage" : "Letter_W",
           "correct" : "w_sound",
@@ -603,7 +427,7 @@
       ]
     },
     {
-      "6" : [
+      "4" : [
         {
           "stimuliImage" : "Letter_K",
           "correct" : "k_sound",
