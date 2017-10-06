@@ -43,18 +43,6 @@
           "stimuliAudioFile" : ""
         },
         {
-          "stimuliImage" : "Letter_F",
-          "correct" : "f_name",
-          "boxAudioFiles" : [
-            "e_name.wav",
-            "f_name.wav",
-            "o_name.wav",
-            "n_name.wav"
-          ],
-          "stimuliAudio" : "false",
-          "stimuliAudioFile" : ""
-        },
-        {
           "stimuliImage" : "Letter_M",
           "correct" : "m_name",
           "boxAudioFiles" : [
@@ -107,18 +95,6 @@
     {
       "3" : [
         {
-          "stimuliImage" : "Letter_L",
-          "correct" : "l_name",
-          "boxAudioFiles" : [
-            "l_name.wav",
-            "r_name.wav",
-            "n_name.wav",
-            "y_name.wav"
-          ],
-          "stimuliAudio" : "false",
-          "stimuliAudioFile" : ""
-        },
-        {
           "stimuliImage" : "Letter_N",
           "correct" : "n_name",
           "boxAudioFiles" : [
@@ -126,18 +102,6 @@
             "q_name.wav",
             "n_name.wav",
             "m_name.wav"
-          ],
-          "stimuliAudio" : "false",
-          "stimuliAudioFile" : ""
-        },
-        {
-          "stimuliImage" : "Letter_G",
-          "correct" : "g_name",
-          "boxAudioFiles" : [
-            "d_name.wav",
-            "g_name.wav",
-            "h_name.wav",
-            "l_name.wav"
           ],
           "stimuliAudio" : "false",
           "stimuliAudioFile" : ""
@@ -202,42 +166,6 @@
             "z_name.wav",
             "t_name.wav",
             "n_name.wav"
-          ],
-          "stimuliAudio" : "false",
-          "stimuliAudioFile" : ""
-        },
-        {
-          "stimuliImage" : "Letter_Q",
-          "correct" : "q_name",
-          "boxAudioFiles" : [
-            "q_name.wav",
-            "j_name.wav",
-            "e_name.wav",
-            "b_name.wav"
-          ],
-          "stimuliAudio" : "false",
-          "stimuliAudioFile" : ""
-        },
-        {
-          "stimuliImage" : "Letter_X",
-          "correct" : "x_name",
-          "boxAudioFiles" : [
-            "x_name.wav",
-            "f_name.wav",
-            "q_name.wav",
-            "v_name.wav"
-          ],
-          "stimuliAudio" : "false",
-          "stimuliAudioFile" : ""
-        },
-        {
-          "stimuliImage" : "Letter_Z",
-          "correct" : "z_name",
-          "boxAudioFiles" : [
-            "z_name.wav",
-            "u_name.wav",
-            "l_name.wav",
-            "h_name.wav"
           ],
           "stimuliAudio" : "false",
           "stimuliAudioFile" : ""
@@ -531,30 +459,6 @@
           "correct" : "he_word"
         },
         {
-          "stimuliImage" : "in_word.jpg",
-          "boxAudioFiles" : [
-            "in_word.wav",
-            "put_word.wav",
-            "have_word.wav",
-            "back_word.wav"
-          ],
-          "stimuliAudio" : "false",
-          "stimuliAudioFile" : "",
-          "correct" : "in_word"
-        },
-        {
-          "stimuliImage" : "at_word.jpg",
-          "boxAudioFiles" : [
-            "some_word.wav",
-            "came_word.wav",
-            "at_word.wav",
-            "he_word.wav"
-          ],
-          "stimuliAudio" : "false",
-          "stimuliAudioFile" : "",
-          "correct" : "at_word"
-        },
-        {
           "stimuliImage" : "on_word.jpg",
           "boxAudioFiles" : [
             "see_word.wav",
@@ -583,18 +487,6 @@
           "correct" : "man_word"
         },
         {
-          "stimuliImage" : "sad_word.jpg",
-          "boxAudioFiles" : [
-            "the_word.wav",
-            "went_word.wav",
-            "sad_word.wav",
-            "a_word.wav"
-          ],
-          "stimuliAudio" : "false",
-          "stimuliAudioFile" : "",
-          "correct" : "sad_word"
-        },
-        {
           "stimuliImage" : "lap_word.jpg",
           "boxAudioFiles" : [
             "all_word.wav",
@@ -617,18 +509,6 @@
           "stimuliAudio" : "false",
           "stimuliAudioFile" : "",
           "correct" : "him_word"
-        },
-        {
-          "stimuliImage" : "sit_word.jpg",
-          "boxAudioFiles" : [
-            "sit_word.wav",
-            "in_word.wav",
-            "be_word.wav",
-            "no_word.wav"
-          ],
-          "stimuliAudio" : "false",
-          "stimuliAudioFile" : "",
-          "correct" : "sit_word"
         },
         {
           "stimuliImage" : "hot_word.jpg",
@@ -657,18 +537,6 @@
           "stimuliAudio" : "false",
           "stimuliAudioFile" : "",
           "correct" : "say_word"
-        },
-        {
-          "stimuliImage" : "our_word.jpg",
-          "boxAudioFiles" : [
-            "eat_word.wav",
-            "our_word.wav",
-            "out_word.wav",
-            "like_word.wav"
-          ],
-          "stimuliAudio" : "false",
-          "stimuliAudioFile" : "",
-          "correct" : "our_word"
         },
         {
           "stimuliImage" : "off_word.jpg",
@@ -759,18 +627,6 @@
           "correct" : "like_word"
         },
         {
-          "stimuliImage" : "mean_word.jpg",
-          "boxAudioFiles" : [
-            "cat_word.wav",
-            "your_word.wav",
-            "put_word.wav",
-            "mean_word.wav"
-          ],
-          "stimuliAudio" : "false",
-          "stimuliAudioFile" : "",
-          "correct" : "mean_word"
-        },
-        {
           "stimuliImage" : "need_word.jpg",
           "boxAudioFiles" : [
             "make_word.wav",
@@ -823,18 +679,6 @@
           "correct" : "know_word"
         },
         {
-          "stimuliImage" : "look_word.jpg",
-          "boxAudioFiles" : [
-            "it_word.wav",
-            "all_word.wav",
-            "look_word.wav",
-            "down_word.wav"
-          ],
-          "stimuliAudio" : "false",
-          "stimuliAudioFile" : "",
-          "correct" : "look_word"
-        },
-        {
           "stimuliImage" : "when_word.jpg",
           "boxAudioFiles" : [
             "the_word.wav",
@@ -885,18 +729,6 @@
           "stimuliAudio" : "false",
           "stimuliAudioFile" : "",
           "correct" : "down_word"
-        },
-        {
-          "stimuliImage" : "make_word.jpg",
-          "boxAudioFiles" : [
-            "that_word.wav",
-            "from_word.wav",
-            "out_word.wav",
-            "make_word.wav"
-          ],
-          "stimuliAudio" : "false",
-          "stimuliAudioFile" : "",
-          "correct" : "make_word"
         },
         {
           "stimuliImage" : "only_word.jpg",
@@ -1051,18 +883,6 @@
           "stimuliAudio" : true,
           "stimuliAudioFile" : "bath_room_word.wav",
           "correct" : "bathroom_word"
-        },
-        {
-          "stimuliImage" : "",
-          "boxAudioFiles" : [
-            "bathroom_word.wav",
-            "tub_word.wav",
-            "bathtub_word.wav",
-            "bath_word.wav"
-          ],
-          "stimuliAudio" : true,
-          "stimuliAudioFile" : "bath_tub_word.wav",
-          "correct" : "bathtub_word"
         },
         {
           "stimuliImage" : "",
