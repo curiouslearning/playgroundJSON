@@ -1,170 +1,194 @@
 [
-	{
-		"characterName": "RED_MONSTER",
-		"correctSelection": "CAN_RED",
-		"correctLocation": 0,
-		"thought": "RED",
-		"leftSign": "CAN_RED",
-		"rightSign": "GRASS_BLUE"
-	},
-	{
-		"characterName": "GOAT",
-		"correctSelection": "CAN_GREEN",
-		"correctLocation": 0,
-		"thought": "",
-		"leftSign": "CAN_GREEN",
-		"rightSign": "FRUIT_BLUE"
-	},
-	{
-	 	"characterName": "DOG",
-	 	"correctSelection": "GRASS_GREEN",
-	 	"correctLocation": 1,
-		"thought": "GRASS",
-	 	"leftSign": "BUG_RED",
-	 	"rightSign": "GRASS_GREEN"
-	 },
-	 {
-	 	"characterName": "BIRD",
-	 	"correctSelection": "FRUIT_GREEN",
-	 	"correctLocation": 1,
-		"thought": "FRUIT",
-	 	"leftSign": "GRASS_BLUE",
-	 	"rightSign": "FRUIT_GREEN"
-	 },
-	 {
-	 	"characterName": "GOAT",
-	 	"correctSelection": "CAN_RED",
-	 	"correctLocation": 0,
-		"thought": "CAN",
-	 	"leftSign": "CAN_RED",
-	 	"rightSign": "GRASS_BLUE"
-	 },
-	 {
-	 	"characterName": "BIRD",
-	 	"correctSelection": "FRUIT_BLUE",
-	 	"correctLocation": 1,
-		"thought": "FRUIT",
-	 	"leftSign": "BUG_GREEN",
-	 	"rightSign": "FRUIT_BLUE"
-	 },
-	 {
-	 	"characterName": "RED_MONSTER",
-	 	"correctSelection": "CAN_RED",
-	 	"correctLocation": 0,
-		"thought": "RED",
-	 	"leftSign": "CAN_RED",
-	 	"rightSign": "BUG_BLUE"
-	 },
-	 {
-	 	"characterName": "GREEN_MONSTER",
-	 	"correctSelection": "GRASS_GREEN",
-	 	"correctLocation": 1,
-		"thought": "GREEN",
-	 	"leftSign": "CAN_BLUE",
-	 	"rightSign": "GRASS_GREEN"
-	 },
-	 {
-	 	"characterName": "GREEN_MONSTER",
-	 	"correctSelection": "CAN_GREEN",
-	 	"correctLocation": 0,
-		"thought": "GREEN",
-	 	"leftSign": "CAN_GREEN",
-	 	"rightSign": "FRUIT_YELLOW"
-	 },
-	 {
-	 	"characterName": "RED_MONSTER",
-	 	"correctSelection": "GRASS_RED",
-	 	"correctLocation": 0,
-		"thought": "RED",
-	 	"leftSign": "GRASS_RED",
-	 	"rightSign": "FRUIT_BLUE"
-	 },
-	 {
-	 	"characterName": "BLUE_MONSTER",
-	 	"correctSelection": "BUG_BLUE",
-	 	"correctLocation": 0,
-		"thought": "BLUE",
-	 	"leftSign": "BUG_BLUE",
-	 	"rightSign": "FRUIT_GREEN"
-	 },
-	 {
-	 	"characterName": "BIRD",
-	 	"correctSelection": "FRUIT_YELLOW",
-	 	"correctLocation": 1,
-		"thought": "FRUIT",
-	 	"leftSign": "CAN_GREEN",
-	 	"rightSign": "FRUIT_YELLOW"
-	 },
-	 {
-	 	"characterName": "BLUE_MONSTER",
-	 	"correctSelection": "CAN_BLUE",
-	 	"correctLocation": 0,
-		"thought": "BLUE",
-	 	"leftSign": "CAN_BLUE",
-	 	"rightSign": "GRASS_RED"
-	 },
-	 {
-	 	"characterName": "GOAT",
-	 	"correctSelection": "CAN_BLUE",
-	 	"correctLocation": 1,
-		"thought": "CAN",
-	 	"leftSign": "GRASS_RED",
-	 	"rightSign": "CAN_BLUE"
-	 },
-	 {
-	 	"characterName": "DOG",
-	 	"correctSelection": "GRASS_RED",
-	 	"correctLocation": 0,
-		"thought": "GRASS",
-	 	"leftSign": "GRASS_RED",
-	 	"rightSign": "FRUIT_BLUE"
-	 },
-	 {
-	 	"characterName": "RED_MONSTER",
-	 	"correctSelection": "BUG_RED",
-	 	"correctLocation": 1,
-		"thought": "RED",
-	 	"leftSign": "GRASS_GREEN",
-	 	"rightSign": "BUG_RED"
-	 },
-	 {
-	 	"characterName": "GREEN_MONSTER",
-	 	"correctSelection": "FRUIT_GREEN",
-	 	"correctLocation": 0,
-		"thought": "GREEN",
-	 	"leftSign": "FRUIT_GREEN",
-	 	"rightSign": "BUG_BLUE"
-	 },
-	 {
-	 	"characterName": "BIRD",
-	 	"correctSelection": "FRUIT_RED",
-	 	"correctLocation": 1,
-		"thought": "FRUIT",
-	 	"leftSign": "BUG_YELLOW",
-	 	"rightSign": "FRUIT_RED"
-	 },
-	 {
-	 	"characterName": "YELLOW_MONSTER",
-	 	"correctSelection": "CAN_YELLOW",
-	 	"correctLocation": 0,
-		"thought": "YELLOW",
-	 	"leftSign": "CAN_YELLOW",
-	 	"rightSign": "BUG_GREEN"
-	 },
-	 {
-	 	"characterName": "RED_MONSTER",
-	 	"correctSelection": "GRASS_RED",
-	 	"correctLocation": 1,
-		"thought": "RED",
-	 	"leftSign": "FRUIT_BLUE",
-	 	"rightSign": "GRASS_RED"
-	 },
-	{
-		"characterName": "GOAT",
-		"correctSelection": "CAN_BLUE",
-		"correctLocation": 0,
-		"thought": "CAN",
-		"leftSign": "CAN_BLUE",
-		"rightSign": "BUG_GREEN"
-	}
+  {
+    "correctSelection": "FRUIT_YELLOW",
+    "characterName": "BIRD",
+    "rightSign": "FRUIT_YELLOW",
+    "thought": "FRUIT",
+    "correctLocation": 1,
+    "leftSign": "CAN_BLUE"
+  },
+  {
+    "correctSelection": "CAN_GREEN",
+    "characterName": "GOAT",
+    "rightSign": "CAN_GREEN",
+    "thought": "CAN",
+    "correctLocation": 1,
+    "leftSign": "GRASS_BLUE"
+  },
+  {
+    "correctSelection": "CAN_YELLOW",
+    "characterName": "GOAT",
+    "rightSign": "FRUIT_RED",
+    "thought": "CAN",
+    "correctLocation": 0,
+    "leftSign": "CAN_YELLOW"
+  },
+  {
+    "correctSelection": "FRUIT_BLUE",
+    "characterName": "BIRD",
+    "rightSign": "FRUIT_BLUE",
+    "thought": "FRUIT",
+    "correctLocation": 1,
+    "leftSign": "CAN_RED"
+  },
+  {
+    "correctSelection": "FRUIT_GREEN",
+    "characterName": "BIRD",
+    "rightSign": "GRASS_BLUE",
+    "thought": "FRUIT",
+    "correctLocation": 0,
+    "leftSign": "FRUIT_GREEN"
+  },
+  {
+    "correctSelection": "GRASS_GREEN",
+    "characterName": "DOG",
+    "rightSign": "GRASS_GREEN",
+    "thought": "GRASS",
+    "correctLocation": 1,
+    "leftSign": "FRUIT_BLUE"
+  },
+  {
+    "correctSelection": "CAN_BLUE",
+    "characterName": "BLUE_MONSTER",
+    "rightSign": "CAN_BLUE",
+    "thought": "BLUE",
+    "correctLocation": 1,
+    "leftSign": "FRUIT_GREEN"
+  },
+  {
+    "correctSelection": "CAN_BLUE",
+    "characterName": "BLUE_MONSTER",
+    "rightSign": "CAN_BLUE",
+    "thought": "BLUE",
+    "correctLocation": 1,
+    "leftSign": "GRASS_GREEN"
+  },
+  {
+    "correctSelection": "CAN_GREEN",
+    "characterName": "GREEN_MONSTER",
+    "rightSign": "GRASS_YELLOW",
+    "thought": "GREEN",
+    "correctLocation": 0,
+    "leftSign": "CAN_GREEN"
+  },
+  {
+    "correctSelection": "CAN_BLUE",
+    "characterName": "BLUE_MONSTER",
+    "rightSign": "CAN_BLUE",
+    "thought": "BLUE",
+    "correctLocation": 1,
+    "leftSign": "GRASS_RED"
+  },
+  {
+    "correctSelection": "GRASS_BLUE",
+    "characterName": "BLUE_MONSTER",
+    "rightSign": "GRASS_BLUE",
+    "thought": "BLUE",
+    "correctLocation": 1,
+    "leftSign": "CAN_RED"
+  },
+  {
+    "correctSelection": "CAN_BLUE",
+    "characterName": "BLUE_MONSTER",
+    "rightSign": "FRUIT_YELLOW",
+    "thought": "BLUE",
+    "correctLocation": 0,
+    "leftSign": "CAN_BLUE"
+  },
+  {
+    "correctSelection": "GRASS_GREEN",
+    "characterName": "DOG",
+    "rightSign": "FRUIT_BLUE",
+    "thought": "GRASS",
+    "correctLocation": 0,
+    "leftSign": "GRASS_GREEN"
+  },
+  {
+    "correctSelection": "GRASS_RED",
+    "characterName": "RED_MONSTER",
+    "rightSign": "GRASS_RED",
+    "thought": "RED",
+    "correctLocation": 1,
+    "leftSign": "CAN_BLUE"
+  },
+  {
+    "correctSelection": "CAN_RED",
+    "characterName": "RED_MONSTER",
+    "rightSign": "CAN_RED",
+    "thought": "RED",
+    "correctLocation": 1,
+    "leftSign": "FRUIT_YELLOW"
+  },
+  {
+    "correctSelection": "GRASS_GREEN",
+    "characterName": "DOG",
+    "rightSign": "CAN_BLUE",
+    "thought": "GRASS",
+    "correctLocation": 0,
+    "leftSign": "GRASS_GREEN"
+  },
+  {
+    "correctSelection": "GRASS_GREEN",
+    "characterName": "GREEN_MONSTER",
+    "rightSign": "CAN_BLUE",
+    "thought": "GREEN",
+    "correctLocation": 0,
+    "leftSign": "GRASS_GREEN"
+  },
+  {
+    "correctSelection": "FRUIT_BLUE",
+    "characterName": "BIRD",
+    "rightSign": "FRUIT_BLUE",
+    "thought": "FRUIT",
+    "correctLocation": 1,
+    "leftSign": "CAN_GREEN"
+  },
+  {
+    "correctSelection": "GRASS_RED",
+    "characterName": "DOG",
+    "rightSign": "GRASS_RED",
+    "thought": "GRASS",
+    "correctLocation": 1,
+    "leftSign": "CAN_GREEN"
+  },
+  {
+    "correctSelection": "CAN_BLUE",
+    "characterName": "BLUE_MONSTER",
+    "rightSign": "CAN_BLUE",
+    "thought": "BLUE",
+    "correctLocation": 1,
+    "leftSign": "GRASS_YELLOW"
+  },
+  {
+    "correctSelection": "FRUIT_GREEN",
+    "characterName": "GREEN_MONSTER",
+    "rightSign": "CAN_BLUE",
+    "thought": "GREEN",
+    "correctLocation": 0,
+    "leftSign": "FRUIT_GREEN"
+  },
+  {
+    "correctSelection": "GRASS_YELLOW",
+    "characterName": "DOG",
+    "rightSign": "GRASS_YELLOW",
+    "thought": "GRASS",
+    "correctLocation": 1,
+    "leftSign": "FRUIT_BLUE"
+  },
+  {
+    "correctSelection": "CAN_RED",
+    "characterName": "RED_MONSTER",
+    "rightSign": "FRUIT_GREEN",
+    "thought": "RED",
+    "correctLocation": 0,
+    "leftSign": "CAN_RED"
+  },
+  {
+    "correctSelection": "CAN_RED",
+    "characterName": "GOAT",
+    "rightSign": "FRUIT_BLUE",
+    "thought": "CAN",
+    "correctLocation": 0,
+    "leftSign": "CAN_RED"
+  }
 ]
