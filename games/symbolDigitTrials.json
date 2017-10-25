@@ -108,7 +108,7 @@
 	  },
 	  "displaySymbols": {
 	    "symbols": ["FRUIT", "CAN", "GRASS", "BUG"]
-	  },
+	  }
 	},
 
 	{
@@ -119,7 +119,7 @@
 	  },
 	  "displaySymbols": {
 	    "symbols": ["GRASS", "BUG", "FRUIT", "CAN"]
-	  },
+	  }
 	},
 
 	{
@@ -130,7 +130,7 @@
 	  },
 	  "displaySymbols": {
 	    "symbols": ["GRASS", "FRUIT", "BUG", "CAN"]
-	  },
+	  }
 	},
 
 	{
@@ -141,7 +141,7 @@
 	  },
 	  "displaySymbols": {
 	    "symbols": ["CAN", "FRUIT", "BUG", "GRASS"]
-	  },
+	  }
 	},
 
 	{
@@ -152,7 +152,7 @@
 	  },
 	  "displaySymbols": {
 	    "symbols": ["CAN", "FRUIT", "BUG", "GRASS"]
-	  },
+	  }
 	},
 
 	{
@@ -163,7 +163,7 @@
 	  },
 	  "displaySymbols": {
 	    "symbols": ["GRASS", "FRUIT", "CAN", "BUG"]
-	  },
+	  }
 	},
 
 	{
@@ -174,7 +174,7 @@
 	  },
 	  "displaySymbols": {
 	    "symbols": ["FRUIT", "GRASS", "CAN", "BUG"]
-	  },
+	  }
 	},
 
 	{
@@ -185,7 +185,7 @@
 	  },
 	  "displaySymbols": {
 	    "symbols": ["CAN", "FRUIT", "GRASS", "BUG"]
-	  },
+	  }
 	},
 
 	{
@@ -196,7 +196,7 @@
 	  },
 	  "displaySymbols": {
 	    "symbols": ["CAN", "FRUIT", "GRASS", "BUG"]
-	  },
+	  }
 	},
 
 	{
@@ -207,7 +207,7 @@
 	  },
 	  "displaySymbols": {
 	    "symbols": ["FRUIT", "CAN", "BUG", "GRASS"]
-	  },
+	  }
 	},
 
 	{
@@ -218,7 +218,7 @@
 	  },
 	  "displaySymbols": {
 	    "symbols": ["CAN", "BUG", "GRASS", "FRUIT"]
-	  },
+	  }
 	},
 
 	{
@@ -229,7 +229,7 @@
 	  },
 	  "displaySymbols": {
 	    "symbols": ["CAN", "BUG", "GRASS", "FRUIT"]
-	  },
+	  }
 	},
 
 	{
@@ -240,7 +240,7 @@
 	  },
 	  "displaySymbols": {
 	    "symbols": ["BUG", "CAN", "FRUIT", "GRASS"]
-	  },
+	  }
 	},
 
 	{
@@ -251,7 +251,7 @@
 	  },
 	  "displaySymbols": {
 	    "symbols": ["BUG", "CAN", "FRUIT", "GRASS"]
-	  },
+	  }
 	},
 
 	{
@@ -262,7 +262,7 @@
 	  },
 	  "displaySymbols": {
 	    "symbols": ["CAN", "BUG", "FRUIT", "GRASS"]
-	  },
+	  }
 	},
 
 	{
@@ -273,6 +273,6 @@
 	  },
 	  "displaySymbols": {
 	    "symbols": ["CAN", "BUG", "FRUIT", "GRASS"]
-	  },
+	  }
 	}
 ]
